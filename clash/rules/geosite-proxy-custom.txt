@@ -1,5 +1,7 @@
 payload: 
   - '+.ipinfo.io'
+  - '+.ping0.cc'
+  - '+.whoer.net'
   - '+.cloudflare.dev'
   - '+.maven.org'
   - '+.mvnrepository.com'
@@ -25,10 +27,6 @@ payload:
   - '+.postman.com'
   - '+.getpostman.com'
   - '+.clashverge.dev'
-  - '+.abc1618.xyz'
-  - '+.lantu8.com'
-  - '+.wine168.shop'
-  - '+.we-medias.shop'
   - '+.tuiwo.cc'
   - '+.freedidi.com'
   - '+.launchdarkly.com'
