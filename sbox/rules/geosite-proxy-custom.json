@@ -4,6 +4,8 @@
 		{
 			"domain": [
 				"ipinfo.io",
+				"ping0.cc",
+				"whoer.net",
 				"cloudflare.dev",
 				"maven.org",
 				"mvnrepository.com",
@@ -33,6 +35,7 @@
 				"lantu8.com",
 				"wine168.shop",
 				"we-medias.shop",
+				"next-chats.xyz",
 				"tuiwo.cc",
 				"freedidi.com",
 				"launchdarkly.com",
@@ -44,6 +47,8 @@
 			],
 			"domain_suffix": [
 				".ipinfo.io",
+				".ping0.cc",
+				".whoer.net",
 				".cloudflare.dev",
 				".maven.org",
 				".mvnrepository.com",
@@ -73,6 +78,7 @@
 				".lantu8.com",
 				".wine168.shop",
 				".we-medias.shop",
+				".next-chats.xyz",
 				".tuiwo.cc",
 				".freedidi.com",
 				".launchdarkly.com",
