@@ -39,7 +39,7 @@ payload:
   - '+.ip.skk.moe'
   - '+.vpsgo.com'
   - '+.hawkhost.com'
-  - 'raksmart.com'
+  - '+.raksmart.com'
   - '+.lisahost.com'
   - '+.642p.com'
   - '+.ttcache.com'
