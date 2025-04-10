@@ -38,6 +38,15 @@
 				"newrelic.com",
 				"www.msftconnecttest.com",
 				"gjrvpf.com",
+				"ip2location.com",
+				"scamalytics.com",
+				"ip.skk.moe",
+				"vpsgo.com",
+				"hawkhost.com",
+				"raksmart.com",
+				"lisahost.com",
+				"642p.com",
+				"ttcache.com",
 				"example-test-proxy.com"
 			],
 			"domain_suffix": [
@@ -76,6 +85,15 @@
 				".newrelic.com",
 				".msftconnecttest.com",
 				".gjrvpf.com",
+				".ip2location.com",
+				".scamalytics.com",
+				".ip.skk.moe",
+				".vpsgo.com",
+				".hawkhost.com",
+				".raksmart.com",
+				".lisahost.com",
+				".642p.com",
+				".ttcache.com",
 				".example-test-proxy.com"
 			]
 		}
