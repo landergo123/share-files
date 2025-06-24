@@ -10,6 +10,7 @@ payload:
   - '+.openwrt.org'
   - '+.api.ip.sb'
   - '+.ipinfo.io'
+  - '+.octocaptcha.com'
   - '+.ping0.cc'
   - '+.whoer.net'
   - '+.cloudflare.dev'

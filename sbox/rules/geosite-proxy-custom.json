@@ -3,6 +3,7 @@
 	"rules": [
 		{
 			"domain": [
+                                "octocaptcha.com",
 				"ipinfo.io",
 				"ping0.cc",
 				"whoer.net",
