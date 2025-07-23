@@ -288,3 +288,4 @@ payload:
   - '+.sigmawire.net'
   - '+.ip.me'
 
+  - '+.fcix.net'

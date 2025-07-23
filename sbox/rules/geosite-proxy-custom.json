@@ -290,7 +290,8 @@
 				"showmyip.com",
 				"whatsmyip.com",
 				"sigmawire.net",
-				"ip.me"
+				"ip.me",
+                                "fcix.net"
 			],
 			"domain_suffix": [
 				".t-mobile.com",
@@ -580,7 +581,8 @@
 				".showmyip.com",
 				".whatsmyip.com",
 				".sigmawire.net",
-				".ip.me"
+				".ip.me",
+                                ".fcix.net"
 			]
 		}
 	]
