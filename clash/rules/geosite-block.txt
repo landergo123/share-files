@@ -1,2 +1,3 @@
 payload:
   - '+.example-test-block.com'
+  - '+.amazon.co.jp'

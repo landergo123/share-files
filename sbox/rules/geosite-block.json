@@ -4,9 +4,11 @@
 		{
 			"domain": [
 				"example-test-block.com"
+                                "amazon.co.jp"
 			],
 			"domain_suffix": [
 				".example-test-block.com"
+                                ".amazon.co.jp"
 			]
 		}
 	]
