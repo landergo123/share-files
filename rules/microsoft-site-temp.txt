@@ -1,5 +1,6 @@
 github.ai
 videoindexer.ai
+linkedin.at
 live.com.au
 microsoft.az
 azure
@@ -61,6 +62,8 @@ microsoftstore.com.cn
 reactorms.com.cn
 dynamics.cn
 hdinsightservices.cn
+licdn.cn
+linkedin.cn
 lync.cn
 management-azure-devices.cn
 management-azure-devices-provisioning.cn
@@ -177,6 +180,7 @@ bingparachute.com
 bingsandbox.com
 bingvisualsearch.com
 bingworld.com
+bizographics.com
 blueaggrestore.com
 bluecloudprod.com
 bluehatil.com
@@ -185,6 +189,7 @@ boswp.com
 botframework.com
 brazilpartneruniversity.com
 callersbane.com
+licdn.cn.cdn20.com
 centralvalidation.com
 charticulator.com
 cloudappsecurity.com
@@ -218,6 +223,7 @@ gearspop.com
 gearstactics.com
 gigjam.com
 github.com
+github1s.com
 githubapp.com
 githubassets.com
 githubcopilot.com
@@ -239,6 +245,8 @@ intunewiki.com
 iotinactionevents.com
 kumo.com
 latampartneruniversity.com
+licdn.com
+linkedin.com
 live.com
 ditu.live.com
 livefilestore.com
@@ -399,6 +407,7 @@ sharepoint.com
 sharepointonline.com
 skype.com
 skypeassets.com
+sourcegraph.com
 sprinklesapp.com
 sqlserveronlinux.com
 start.com
@@ -468,6 +477,7 @@ microsoftstore.com.hk
 windows8.hk
 hotmail
 microsoft.hu
+lnkd.in
 azure-dns.info
 azurecosmosdb.info
 azuredns-prd.info
@@ -518,6 +528,7 @@ wbd.ms
 a-msedge.net
 skype-edf.akadns.net
 skypedata.akadns.net
+e122475.dscg.akamaiedge.net
 spoprod-a.akamaihd.net
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
@@ -560,6 +571,7 @@ poshtestgallery.cloudapp.net
 psg-int-centralus.cloudapp.net
 psg-int-eastus.cloudapp.net
 cosmosdb.net
+l-0005.dc-msedge.net
 devopsassessment.net
 dot.net
 efproject.net
@@ -568,6 +580,7 @@ forzamotorsport.net
 rink.hockeyapp.net
 hotmail.net
 l-msedge.net
+l-0005.l-msedge.net
 live.net
 management-azure-devices.net
 management-azure-devices-int.net
@@ -602,6 +615,7 @@ shell.cdn.office.net
 statics.teams.cdn.office.net
 b.c2r.ts.cdn.office.net
 f.c2r.ts.cdn.office.net
+linkedin.sc.omtrdc.net
 onenote.net
 opticsforthecloud.net
 passport.net
@@ -630,6 +644,7 @@ vscode-cdn.net
 vscode-unpkg.net
 what-fan.net
 windows.net
+blob.core.windows.net
 prodforza.blob.core.windows.net
 vscode.blob.core.windows.net
 vscode.search.windows.net

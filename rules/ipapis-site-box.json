@@ -1,0 +1,35 @@
+{
+    "version": 3,
+    "rules": [{
+        "domain_suffix": [
+            "freegeoip.app",
+            "ipapi.co",
+            "ipdata.co",
+            "challenges.cloudflare.com",
+            "db-ip.com",
+            "geolocation-db.com",
+            "ip2location.com",
+            "ipapi.com",
+            "ipstack.com",
+            "maxmind.com",
+            "showmyip.com",
+            "whatismyipaddress.com",
+            "whatsmyip.com",
+            "whoisxmlapi.com",
+            "geoip.end",
+            "ipgeolocation.io",
+            "ipinfo.io",
+            "ipwhois.io",
+            "ipapi.is",
+            "ipwho.is",
+            "myip.link",
+            "ip.me",
+            "skk.moe",
+            "sigmawire.net",
+            "ipapi.org",
+            "whatsmyip.org",
+            "ip.sb",
+            "geoip.start"
+        ]
+    }]
+}

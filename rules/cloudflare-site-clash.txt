@@ -29,7 +29,6 @@ payload:
   - '+.cloudflaressl.com'
   - '+.cloudflarestaging.com'
   - '+.cloudflarestatus.com'
-  - '+.cloudflarestorage.com'
   - '+.cloudflarestoragegw.com'
   - '+.cloudflaretest.com'
   - '+.cloudflarewarp.com'
