@@ -1,0 +1,6 @@
+payload:
+  - '+.browser-intake-datadoghq.com'
+  - '+.fastly-insights.com'
+  - '+.jscrambler.com'
+  - '+.scorecardresearch.com'
+  - '+.sentry.io'

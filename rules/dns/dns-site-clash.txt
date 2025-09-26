@@ -1,0 +1,11 @@
+payload:
+  - 'dns.cloudflare.com'
+  - 'cloudflare-dns.com'
+  - 'one.one.one.one'
+  - 'dns.google'     
+  - 'opendns.com'
+  - 'dns.alidns.com'
+  - 'doh.pub'
+  - 'dot.pub'
+  - 'doh.360.cn'
+  - 'dot.360.cn'

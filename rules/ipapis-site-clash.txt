@@ -20,6 +20,7 @@ payload:
   - '+.ipwhois.io'
   - '+.ipapi.is'
   - '+.ipwho.is'
+  - '+.whox.is'
   - '+.myip.link'
   - '+.ip.me'
   - '+.skk.moe'

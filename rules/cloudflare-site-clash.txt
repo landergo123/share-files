@@ -9,6 +9,7 @@ payload:
   - '+.cftest7.com'
   - '+.cftest8.com'
   - '+.cloudflare.com'
+  - '+.cdnjs.cloudflare.com'
   - '+.cloudflare-cn.com'
   - '+.cloudflare-ech.com'
   - '+.cloudflare-esni.com'
