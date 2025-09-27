@@ -27,6 +27,7 @@ payload:
   - '+.sigmawire.net'
   - '+.cdn.cookielaw.org'
   - '+.ipapi.org'
+  - '+.ipify.org'
   - '+.whatsmyip.org'
   - '+.ip.sb'
   - '+.geoip.start'
