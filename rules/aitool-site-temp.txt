@@ -4,6 +4,7 @@ turn.livekit.cloud
 browser-intake-datadoghq.com
 chat.com
 chatgpt.com
+crixet.com
 cursor.com
 cursor-cdn.com
 cursorapi.com

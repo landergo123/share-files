@@ -84,7 +84,6 @@ webex.com.cn
 zoom.com.cn
 connectcommerce.cn
 connectedcommerce.cn
-cugbonline.cn
 cyber-bay.cn
 ebay.cn
 ebayadvertising.cn
@@ -512,7 +511,6 @@ cn.download.nvidia.com
 nvidiaforhp.com
 nyansa.com
 obsrvbl.com
-onesignal.com
 opendns.com
 oracle.com
 oraclecloud.com
@@ -667,6 +665,7 @@ snapproom.com
 snapptrip.com
 snapvolumes.com
 speybay.com
+splunk.com
 spotify.com
 adeventtracker.spotify.com
 bloodhound.spotify.com
@@ -703,6 +702,7 @@ thehulubraintrust.com
 thepaypalshop.com
 tidal.com
 tidalhifi.com
+tospotify.com
 towerauction.com
 ubuntu.com
 ubuntukylin.com
@@ -758,6 +758,7 @@ wballiance.com
 weareebay.com
 webex.com
 webmoneyinfo.com
+webvisor.com
 whatisairwatch.com
 whatisworkspaceone.com
 whisolutions.com
@@ -801,6 +802,7 @@ xoom-experience.com
 xoomcom.com
 xxbay.com
 yandex.com
+yandexmetrica.com
 youtubecisco.com
 mirrors.yun-idc.com
 hammerandchisel.ssl.zendesk.com
@@ -1027,6 +1029,7 @@ cisconetspace.net
 ciscoturk.net
 pinimg.com.cdn.cloudflare.net
 cloupia.net
+kinopoisk-ru.clstorage.net
 yandex-images.clstorage.net
 coreoptics.net
 daum.net
@@ -1118,6 +1121,7 @@ slack-redir.net
 snap-dev.net
 sourcingforebay.net
 spotifycdn.net
+yandex-pogoda.static-storage.net
 swiftfinancial.net
 theshoppingexpresslane.net
 torrindex.net
@@ -1135,6 +1139,8 @@ yandex-bank.net
 yandexadexchange.net
 yandexcloud.net
 yandexcom.net
+yandexwebcache.net
+yastat.net
 yastatic.net
 discord.new
 notion.new
@@ -1219,11 +1225,13 @@ texttobuy.org
 theopportunityproject.org
 thepiratebay.org
 toolforge.org
+turbopages.org
 ubuntuforums.org
 venmo.org
 virtualbox.org
 w.org
 watch-ebay.org
+webvisor.org
 whispersystems.org
 wikibooks.org
 wikidata.org
@@ -1258,13 +1266,17 @@ yandex.pl
 pinterest.pt
 pinterest.com.py
 nvidia.ro
+adfox.ru
+admetrica.ru
 yandex.com.ru
-dzen.ru
 ebaysocial.ru
+kinopoisk.ru
 nvidia.ru
 pinterest.ru
 ya.ru
 yandex.ru
+yandex-team.ru
+yastatic-net.ru
 nvidia.se
 pinterest.se
 ebay.com.sg
@@ -1278,12 +1290,14 @@ notion.so
 paypal.so
 airhorn.solutions
 bigbeans.solutions
+hf.space
 yandex.st
 discord.store
 snapp.supply
 yandex.sx
 snapp.taxi
 snapp.tech
+yads.tech
 pinterest.th
 yandex.tj
 yandex.tm
@@ -1291,6 +1305,7 @@ discord.tools
 openkylin.top
 nvidia.com.tr
 yandex.com.tr
+yandex.tr
 signal.tube
 adcommerce.tv
 billpoint.tv

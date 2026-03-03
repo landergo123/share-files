@@ -198,6 +198,7 @@ appl4e.com
 appla.com
 apple.com
 adcdownload.apple.com
+advertising.apple.com
 api-adservices.apple.com
 appldnld.apple.com
 apple-relay.apple.com
@@ -253,6 +254,7 @@ ipcdn.apple.com
 iphone-ld.apple.com
 itunes.apple.com
 aod.itunes.apple.com
+aod-ssl.itunes.apple.com
 apptrailers.itunes.apple.com
 bag.itunes.apple.com
 bookkeeper.itunes.apple.com
@@ -265,6 +267,7 @@ inappcheck.itunes.apple.com
 init.itunes.apple.com
 iosapps.itunes.apple.com
 misc-assets.itunes.apple.com
+mvod.itunes.apple.com
 myapp.itunes.apple.com
 np-edge.itunes.apple.com
 osxapps.itunes.apple.com
@@ -290,6 +293,7 @@ gsp13-cn.ls.apple.com
 gsp4-cn.ls.apple.com
 gsp5-cn.ls.apple.com
 gsp85-cn-ssl.ls.apple.com
+gspe1-ssl.ls.apple.com
 gspe11-2-cn-ssl.ls.apple.com
 gspe12-cn-ssl.ls.apple.com
 gspe19-2-cn-ssl.ls.apple.com
@@ -304,9 +308,12 @@ amp-api.media.apple.com
 mesu.apple.com
 music.apple.com
 amp-api.music.apple.com
+amp-api-edge.music.apple.com
 auth.music.apple.com
 js-cdn.music.apple.com
+musicstatus.music.apple.com
 play.music.apple.com
+speedysub.music.apple.com
 ocsp.apple.com
 ocsp2.apple.com
 oscdn.apple.com
@@ -868,6 +875,7 @@ eworld.com
 faceid99.com
 faceidglobal.com
 famosascalvas.com
+apple-relay.fastly-edge.com
 finalcutpro.com
 find-apple.com
 findmybeats.com
@@ -1443,6 +1451,7 @@ bag-cdn.itunes-apple.com.akadns.net
 is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
 inappcheck-cn.itunes-apple.com.akadns.net
 inappcheck-lb.itunes-apple.com.akadns.net
+configuration-lb.ls-apple.com.akadns.net
 gspe19-2-cn-ssl.ls-apple.com.akadns.net
 gspe19-cn.ls-apple.com.akadns.net
 cl1-cdn.origin-apple.com.akadns.net

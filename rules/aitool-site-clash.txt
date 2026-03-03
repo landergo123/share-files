@@ -1,6 +1,5 @@
 payload:
   - '+.claude.ai'
-  - '+.perplexity.ai'
   - '+.chatgpt.livekit.cloud'
   - '+.host.livekit.cloud'
   - '+.turn.livekit.cloud'
@@ -9,6 +8,7 @@ payload:
   - '+.chat.com'
   - '+.chatgpt.com'
   - '+.claude.com'
+  - '+.crixet.com'
   - '+.cursor.com'
   - '+.cursor-cdn.com'
   - '+.cursorapi.com'
@@ -16,7 +16,6 @@ payload:
   - '+.oaiusercontent.com'
   - '+.openai.com'
   - '+.sora.com'
-  - '+.you.com'
   - '+.o33249.ingest.sentry.io'
   - '+.openaiapi-site.azureedge.net'
   - '+.production-openaicom-storage.azureedge.net'

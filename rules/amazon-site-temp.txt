@@ -4,12 +4,14 @@ amzn.asia
 aboutamazon.com.au
 amazon.com.au
 aws
+amazon.com.be
 amazonaws.biz
 amzndns-cn.biz
 amazon.com.br
 amazon.ca
 amazonvideo.cc
 primevideo.cc
+amazon.cl
 aboutamazon.cn
 alexafund.cn
 amazon.cn
@@ -58,6 +60,7 @@ primeday.cn
 route53.cn
 yamaxun.cn
 z.cn
+amazon.com.co
 a2z.com
 aboutamazon.com
 acmvalidations.com
@@ -117,6 +120,7 @@ awssecworkshops.com
 awsstatic.com
 awsthinkbox.com
 awstrust.com
+awswaf.com
 boxofficemojo.com
 cdkworkshop.com
 cloudfront.com
@@ -135,11 +139,16 @@ media-amazon.com
 media-imdb.com
 prime-video.com
 primevideo.com
+seattlespheres.com
 serving-sys.com
 siege-amazon.com
+static.siege-amazon.com
 ssl-images-amazon.com
 images-cn.ssl-images-amazon.com
 images-cn-8.ssl-images-amazon.com
+images-eu.ssl-images-amazon.com
+images-fe.ssl-images-amazon.com
+images-na.ssl-images-amazon.com
 thinkboxsoftware.com
 wfm.com
 wholefoods.com
@@ -150,6 +159,8 @@ amazon.de
 kindle.de
 ueberamazon.de
 amazon.dev
+aws.dev
+amazon.eg
 aboutamazon.es
 amazon.es
 kindle.es
@@ -157,6 +168,7 @@ aboutamazon.eu
 aboutamazon.fr
 amazon.fr
 kindle.fr
+amazon.ie
 imdb
 aboutamazon.in
 amazon.in
@@ -177,6 +189,7 @@ kindle.co.jp
 kindle.jp
 kindleoasis.jp
 kindle
+amazon.lu
 awstrack.me
 amazon.com.mx
 aiv-cdn.net
@@ -185,7 +198,13 @@ amzndns.net
 amzndns-cn.net
 awseducate.net
 cloudfront.net
+d1v5ir2lpwr8os.cloudfront.net
+d22qjgkvxw22r6.cloudfront.net
+d25xi40x97liuc.cloudfront.net
+d27xxe7juh1us6.cloudfront.net
+dmqdd6hw24ucf.cloudfront.net
 cloudfront-cn.net
+amazon.com.ng
 amazon.nl
 amazonaws.org
 amazonbusiness.org
@@ -197,7 +216,11 @@ wholecitiesfoundation.org
 wholekidsfoundation.org
 wholeplanetfoundation.org
 aboutamazon.pl
+amazon.pl
 amazon.red
+amazon.sa
+amazon.se
+aboutamazon.sg
 amazon.sg
 amzn.to
 imdb.to
@@ -206,6 +229,7 @@ amazonaws.tv
 primevideo.tv
 aboutamazon.co.uk
 amazon.co.uk
+msh.amazon.co.uk
 amazonaws.co.uk
 amzndns.co.uk
 kindle.co.uk
@@ -216,4 +240,5 @@ amazonlumberyard.wang
 xn--cckwcxetd
 xn--jlq480n2rg
 yamaxun
+amazon.co.za
 zappos

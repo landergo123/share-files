@@ -90,6 +90,7 @@ msftcloudes.cn
 msidentity.cn
 msidlabpbmc.cn
 msn.cn
+browser.events.data.msn.cn
 mspil.cn
 msra.cn
 microsoftonline-p.net.cn
@@ -129,6 +130,7 @@ github-cloud.s3.amazonaws.com
 ankarazirvesi2018.com
 api-extractor.com
 vsmarketplacebadge.apphb.com
+github-api.arkoselabs.com
 asobostudio.com
 aspnetcdn.com
 azchcdna.com
@@ -223,6 +225,7 @@ gearspop.com
 gearstactics.com
 gigjam.com
 github.com
+collector.github.com
 github1s.com
 githubapp.com
 githubassets.com
@@ -232,6 +235,7 @@ githubnext.com
 githubstatus.com
 githubuniverse.com
 githubusercontent.com
+copilot-telemetry.githubusercontent.com
 gotcosmos.com
 hololens.com
 hotmail.com
@@ -267,13 +271,6 @@ crl.microsoft.com
 dcg.microsoft.com
 devblogs.microsoft.com
 developer.microsoft.com
-msgr.dlservice.microsoft.com
-msgruser.dlservice.microsoft.com
-qh.dlservice.microsoft.com
-silverlight.dlservice.microsoft.com
-slupdate.dlservice.microsoft.com
-wl.dlservice.microsoft.com
-xb.dlservice.microsoft.com
 docs.microsoft.com
 download.microsoft.com
 fs.microsoft.com
@@ -285,6 +282,7 @@ mscrl.microsoft.com
 ocsp.microsoft.com
 officecdn.microsoft.com
 oneocsp.microsoft.com
+packages.microsoft.com
 myvs.download.prss.microsoft.com
 oemsoc.download.prss.microsoft.com
 software.download.prss.microsoft.com
@@ -365,6 +363,7 @@ msgamestudios.com
 msidentity.com
 msinnovationchallenge.com
 msn.com
+browser.events.data.msn.com
 msnewskids.com
 msnkids.com
 msocdn.com
@@ -380,6 +379,7 @@ o365cn.com
 o365weve.com
 o365weve-dev.com
 o365weve-ppe.com
+octocaptcha.com
 office.com
 office365.com
 office365love.com

@@ -14,6 +14,7 @@ cdn-telegram.org
 graph.org
 telegram.org
 telegram-cdn.org
+ton.org
 telesco.pe
 telegra.ph
 telegram.space
