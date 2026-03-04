@@ -512,6 +512,7 @@ payload:
   - '+.toutiaovod.com'
   - '+.toutiaowap.com'
   - '+.ttbyte.com'
+  - '+.ttcdn-us.com'
   - '+.larksuite.com.ttdns1.com'
   - '+.larksuite.com.ttdns2.com'
   - '+.ttgslb.com'

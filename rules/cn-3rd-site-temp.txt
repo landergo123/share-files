@@ -956,6 +956,7 @@ uu.163.com
 16888.com
 16rd.com
 17173.com
+172mix.com
 178.com
 178linux.com
 17989.com
@@ -1667,6 +1668,7 @@ donews.com
 dongao.com
 dongchedi.com
 dongchediapp.com
+dongdianqiu.com
 dongguantoday.com
 dongjiaoapp.com
 dongqiudi.com
@@ -2381,12 +2383,14 @@ jushuitan-inc.com
 juwan.com
 juxia.com
 juxieyun.com
+juziwulian.com
 jxedt.com
 jxpp.com
 jyimg.com
 jzsec.com
 jztvnews.com
 k366.com
+kaadas.com
 kaifayun.com
 kaifubiao.com
 kaipuyun.com

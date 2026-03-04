@@ -117,6 +117,7 @@ researchkit.com.cn
 swiftui.com.cn
 faceshift.cn
 homepod.cn
+icloud.cn
 icloud-apple.cn
 icloudapple.cn
 insidear.cn

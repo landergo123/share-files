@@ -44,6 +44,7 @@ visa.com.ag
 yahoo.com.ag
 intel.ag
 api.ai
+arena.ai
 bitz.ai
 censorship.ai
 cerebras.ai
@@ -8438,6 +8439,7 @@ jamanetwork.com
 jambotube.com
 jamyangnorbu.com
 japan-forward.com
+japan-illgames.com
 japan-whores.com
 japan18tube.com
 japanbeast.com
@@ -13165,6 +13167,7 @@ tsumino.com
 tsundora.com
 tsyum.com
 tt1069.com
+ttcdn-us.com
 tteshop.com
 ttlivecdn.com
 tttan.com
@@ -13992,6 +13995,7 @@ wiseid.com
 wisekey.com
 wisevid.com
 wish.com
+wispbyte.com
 wistia.com
 withgoogle.com
 withyoutube.com
@@ -15183,6 +15187,7 @@ ikea.eg
 intel.eg
 stackoverflow.email
 creativecommons.engineering
+diabrowser.engineering
 pinterest.engineering
 hewlettpackard.enterprises
 aboutamazon.es
@@ -17136,7 +17141,6 @@ hsbc.co.jp
 hyakugo.co.jp
 ikea.co.jp
 ikedashinsen.co.jp
-illusion.co.jp
 watch.impress.co.jp
 indies-av.co.jp
 intel.co.jp
@@ -17270,6 +17274,7 @@ cygames.jp
 dell.jp
 denfaminicogamer.jp
 dl-laby.jp
+dlaf.jp
 dlsite.jp
 dogatch.jp
 dokusho-ojikan.jp
@@ -17323,7 +17328,7 @@ icloud.jp
 igcc.jp
 ign.jp
 ikea.jp
-illusion.jp
+illgames.jp
 immoral.jp
 inside-games.jp
 intel.jp
@@ -20815,6 +20820,7 @@ archlinuxcn.org
 areca-backup.org
 artixlinux.org
 artstor.org
+arweave.org
 arxiv.org
 asacp.org
 rsshub.asailor.org
