@@ -1577,6 +1577,7 @@ payload:
   - '+.hetzner.cloud'
   - '+.hutao.cloud'
   - '+.ipfs-gateway.cloud'
+  - '+.jetbrains.cloud'
   - '+.chatgpt.livekit.cloud'
   - '+.host.livekit.cloud'
   - '+.turn.livekit.cloud'
