@@ -5425,6 +5425,7 @@ disneysubscription.com
 disneytvajobs.com
 disneyworld-go.com
 disqus.com
+apkmirror.disqus.com
 disquscdn.com
 disqusservice.com
 diyarbakirescort.com
@@ -8311,6 +8312,7 @@ intunewiki.com
 inventor-certified.com
 inventorfusion.com
 inventorseries.com
+investing.com
 inxian.com
 inxporn.com
 ioe.com
@@ -9801,6 +9803,7 @@ musclegirlflix.com
 mushroomtrack.com
 musixmatch.com
 muthead.com
+muvluv-girls-garden.com
 muyzorras.com
 muzi.com
 mvk.com
@@ -10566,6 +10569,7 @@ only3x.com
 onlyams.com
 onlycartoonsex.com
 onlydudes.com
+onlyfans.com
 onlyfanspw.com
 onlyfreelatinaporn.com
 onlygayvideo.com
@@ -11912,6 +11916,7 @@ selectanescort.com
 selectyourgame.com
 selfloversworld.com
 sellercommunity.com
+sendvid.com
 seneporno.com
 seniortgp.com
 senpaiheat.com
@@ -13420,6 +13425,7 @@ userapi.com
 usertrust.com
 usvimosquito.com
 usvimosquitoproject.com
+utdstc.com
 utopianpal.com
 uug22.com
 uug23.com
@@ -16843,6 +16849,7 @@ weverse.io
 worldofslaves.io
 xiaoou.io
 xoom.io
+youla.io
 z-lib.io
 zb.io
 zeplin.io
@@ -22625,6 +22632,8 @@ calgon.ru
 canon.ru
 cdn-tinkoff.ru
 cdn-vk.ru
+st-ok.cdn-vk.ru
+st-ok-pts.cdn-vk.ru
 cdnvideo.ru
 clinica-tibet.ru
 apple-watch.com.ru
@@ -22685,6 +22694,7 @@ medow.ru
 microsoft.ru
 mini.ru
 mos.ru
+youla-web-static.mrgcdn.ru
 mtsdengi.ru
 nintendo.ru
 ntdtv.ru
@@ -22757,6 +22767,7 @@ yahoo.ru
 yandex.ru
 yandex-team.ru
 yastatic-net.ru
+youla.ru
 youtube.ru
 browser.run
 esm.run
