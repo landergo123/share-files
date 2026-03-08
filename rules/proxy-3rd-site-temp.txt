@@ -11807,6 +11807,7 @@ samsungdm.com
 samsunggalaxyfriends.com
 samsunghealth.com
 samsungiotcloud.com
+samsungiots.com
 samsungknox.com
 samsungosp.com
 samsungqbe.com
@@ -12265,6 +12266,7 @@ smartnastran.com
 smartone.com
 smartoneholdings.com
 smartonerobotics.com
+smartthings.com
 smokinmovies.com
 smplace.com
 smutcam.com
@@ -17064,6 +17066,7 @@ ameblo.jp
 angelbeats.jp
 angelweb.jp
 anigema.jp
+app-pay.jp
 appdynamics.jp
 apple.jp
 applepay.jp
