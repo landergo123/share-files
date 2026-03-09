@@ -5655,6 +5655,7 @@ dynamics.com
 dynamobuilds.com
 dynamopackages.com
 dynamoreach.com
+dynatrace.com
 dynawebinc.com
 dynu.com
 e-bay.com
@@ -19556,7 +19557,6 @@ joyjoy.net
 jpboy1069.net
 jpg4us.net
 jsdelivr.net
-cdn.jsdelivr.net
 fiddle.jshell.net
 jtvnw.net
 bbs.junglobal.net
@@ -21156,6 +21156,7 @@ falundafaindia.org
 falundafamuseum.org
 falunhr.org
 familyds.org
+familysearch.org
 fangong.org
 faststone.org
 fawanghuihui.org
@@ -21814,6 +21815,7 @@ sharecool.org
 shenyun.org
 shenyunperformingarts.org
 shenzhouzhengdao.org
+shitjournal.org
 shixiao.org
 shizhao.org
 shuziyimin.org

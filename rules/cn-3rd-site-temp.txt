@@ -970,6 +970,7 @@ uu.163.com
 1905.com
 19yxw.com
 1nongjing.com
+1ppt.com
 1ting.com
 1zhe.com
 21cn.com
@@ -1087,6 +1088,7 @@ uu.163.com
 52hxw.com
 52miji.com
 52pk.com
+52ppt.com
 52z.com
 53kf.com
 55.com
@@ -1271,6 +1273,7 @@ awemeugwave.com
 b3logfile.com
 babytree.com
 babytreeimg.com
+badou.com
 baichuan-ai.com
 baicizhan.com
 baidu.com
@@ -1370,6 +1373,7 @@ bohejiasuqi.com
 bojianger.com
 bokecc.com
 boohee.com
+book118.com
 boosj.com
 bootcss.com
 bosera.com
@@ -2052,6 +2056,7 @@ hao123img.com
 hao222.com
 haodf.com
 haofenshu.com
+haohaodoc.com
 haokan.com
 haolietou.com
 haoso.com
@@ -2960,6 +2965,7 @@ realcybertron.com
 redmagic.com
 renren.com
 renren-inc.com
+renrendoc.com
 resset.com
 rmwxgame.com
 robomaster.com
@@ -3366,6 +3372,7 @@ weiyangx.com
 weiyun.com
 welltrend-edu.com
 wenjuan.com
+wenkeju.com
 wenmingban.com
 wenshushu.com
 wenxiaozhan.com
@@ -4000,6 +4007,7 @@ kejet.net
 kugou.net
 laomaotao.net
 lascn.net
+lazyer.net
 lenovo.net
 lenovoprinter.net
 liulanqi.net
