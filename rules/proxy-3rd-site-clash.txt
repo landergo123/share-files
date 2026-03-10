@@ -20889,6 +20889,7 @@ payload:
   - '+.ctan.org'
   - '+.ctowc.org'
   - '+.cups.org'
+  - '+.cve.org'
   - '+.cyber-bay.org'
   - '+.cython.org'
   - '+.dalailamacenter.org'

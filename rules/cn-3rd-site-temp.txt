@@ -306,6 +306,7 @@ juhuiwan.com.cn
 jvcsmart.com.cn
 kaipuyun.com.cn
 kata.com.cn
+keep.com.cn
 langeasy.com.cn
 learnywhere.com.cn
 lebo.com.cn
@@ -1409,6 +1410,7 @@ caixin.com
 caiyun.com
 caiyunai.com
 caiyunapp.com
+calorietech.com
 camcard.com
 camscanner.com
 cang.com
@@ -1689,6 +1691,7 @@ douyinact.com
 douyincdn.com
 douyinfe.com
 douyinliving.com
+douyinpay.com
 douyinpic.com
 douyinstatic.com
 douyinvod.com
@@ -2072,6 +2075,7 @@ hdfimg.com
 hdyxgame.com
 heiyan.com
 heiyanimg.com
+helipay.com
 hello-inc.com
 hellobike.com
 hellowebfont.com
@@ -2412,6 +2416,7 @@ kd100.com
 kdslife.com
 ke.com
 keboyunxiao.com
+keep.com
 keepcdn.com
 kekeniu.com
 ketangpai.com
@@ -3037,6 +3042,7 @@ shengdaosoft.com
 shengyizhuanjia.com
 shenmayouxi.com
 sheui.com
+shfft.com
 shgsec.com
 shhxzq.com
 shidianbaike.com
