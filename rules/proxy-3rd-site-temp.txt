@@ -51,6 +51,7 @@ cerebras.ai
 character.ai
 chutes.ai
 claude.ai
+clawhub.ai
 clova.ai
 coderabbit.ai
 cohere.ai
@@ -68,6 +69,7 @@ github.ai
 gmgn.ai
 google.ai
 grazie.ai
+h2o.ai
 intel.ai
 jan.ai
 jasper.ai
@@ -82,6 +84,7 @@ missav.ai
 mistral.ai
 mlc.ai
 openart.ai
+openclaw.ai
 openrouter.ai
 openvino.ai
 perplexity.ai
@@ -14797,6 +14800,7 @@ calgon.de
 canon.de
 chinesen.de
 citypopulation.de
+clau.de
 cnet.de
 ikea.co.de
 apple.com.de
