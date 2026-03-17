@@ -1189,6 +1189,7 @@ payload:
   - '+.vnware.net'
   - '+.vsphere.net'
   - '+.whoer.net'
+  - '+.wordpress.net'
   - '+.wwwebay.net'
   - '+.yandex.net'
   - '+.yandex-bank.net'

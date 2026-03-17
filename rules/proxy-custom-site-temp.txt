@@ -1135,6 +1135,7 @@ virsto.net
 vmglobal.net
 vnware.net
 vsphere.net
+wordpress.net
 wwwebay.net
 yandex.net
 yandex-bank.net

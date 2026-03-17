@@ -20186,6 +20186,7 @@ payload:
   - '+.wizcrafts.net'
   - '+.wolfatbestbuy.net'
   - '+.wonporn.net'
+  - '+.wordpress.net'
   - '+.worldsfastestgamer.net'
   - '+.worldvpn.net'
   - '+.wsj.net'
