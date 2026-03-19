@@ -1379,6 +1379,7 @@ theav.cc
 theporn.cc
 theporndude.cc
 thzu.cc
+tilda.cc
 tiny.cc
 tomp3.cc
 u9a9.cc
@@ -13006,6 +13007,8 @@ tiktokeu-cdn.com
 tiktokglobalshopv.com
 tiktokrow-cdn.com
 tiktokv.com
+tildaapi.com
+tildacdn.com
 tiltbrush.com
 timdir.com
 time.com
@@ -22749,6 +22752,7 @@ technogym.ru
 thecandidforum-voyeur.ru
 thomsonreuters.ru
 thothub.ru
+tilda.ru
 truyen-hentai.ru
 test-ipv6.ttk.ru
 tvigle.ru
@@ -24733,6 +24737,7 @@ localdomain.ws
 missav.ws
 postyourgirls.ws
 rmbl.ws
+tilda.ws
 weisuo.ws
 x1337x.ws
 yahoo.ws
