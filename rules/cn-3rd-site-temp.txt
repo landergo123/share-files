@@ -1792,8 +1792,6 @@ eolink.com
 er07.com
 erp321.com
 ersjk.com
-esp8266.com
-espressif.com
 et-api.com
 et001.com
 ets100.com
