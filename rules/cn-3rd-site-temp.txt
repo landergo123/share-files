@@ -76,6 +76,7 @@ cloud.189.cn
 800best.cn
 800bestapi.cn
 800bestapp.cn
+8531.cn
 95306.cn
 9game.cn
 ao-x.ac.cn
@@ -363,6 +364,7 @@ thinkprinter.com.cn
 thtf.com.cn
 ti.com.cn
 tibetairlines.com.cn
+tidenews.com.cn
 tosot.com.cn
 tower.com.cn
 tq121.com.cn
@@ -406,6 +408,7 @@ zte.com.cn
 zts.com.cn
 zuk.com.cn
 zyhe.com.cn
+conac.cn
 coze.cn
 cozebaas.cn
 cozefn.cn
@@ -701,6 +704,7 @@ moegirl.org.cn
 ncss.org.cn
 nellit.org.cn
 ntp.org.cn
+piyao.org.cn
 zdns.org.cn
 zdnscloud.org.cn
 people.cn
@@ -2403,6 +2407,7 @@ juxieyun.com
 juziwulian.com
 jxedt.com
 jxpp.com
+jyeoo.com
 jyimg.com
 jzsec.com
 jztvnews.com
@@ -4020,6 +4025,7 @@ jslife.net
 juhuiwan.net
 jushuitan.net
 jxksw.net
+jyeoo.net
 jzfz.net
 kaipuyun.net
 kantianqi.net
@@ -4131,6 +4137,7 @@ winegame.net
 wpsmail.net
 wsglb.net
 wuyou.net
+xhby.net
 xiamai.net
 xiziwang.net
 time.xtracloud.net
@@ -4150,6 +4157,7 @@ ytoluohan.net
 yunqishi.net
 yushiyan.net
 news.yxrb.net
+yzwb.net
 zampda.net
 zbbm.net
 zdnscloud.net
