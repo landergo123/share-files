@@ -938,6 +938,7 @@ yahoo.co.bw
 bmw.by
 blogspot.com.by
 canon.com.by
+ozon.com.by
 youtube.com.by
 dell.by
 drweb.by
@@ -948,6 +949,7 @@ microsoft.by
 mini.by
 miniso.by
 near.by
+ozon.by
 volvotrucks.by
 yahoo.by
 yandex.by
@@ -10687,6 +10689,7 @@ oxfordscholarship.com
 oxfordwesternmusic.com
 oyeloca.com
 ozeex.com
+ozon.com
 ozonusercontent.com
 pa9pal.com
 paaypal.com
@@ -14199,6 +14202,7 @@ xhcdn.com
 xiangrikui-app.com
 xiaogirls.com
 xiaohexie.com
+xiaomiflash.com
 xindelu.com
 xinfhw.com
 xing.com
@@ -14219,6 +14223,7 @@ xmav99.com
 xml-training-guide.com
 xmoviesforyou.com
 xn--096-4g6em5t.com
+xn--1jqvh729avzfcy2d8ummib.com
 xn--201-4g6em5t.com
 xn--202-4g6em5t.com
 xn--203-4g6em5t.com
@@ -17657,6 +17662,7 @@ visa.ky
 2gis.kz
 bmw.kz
 canon.kz
+ozon.com.kz
 starbucks.com.kz
 visa.com.kz
 dell.kz
@@ -17666,6 +17672,7 @@ kaspersky.kz
 kiwi.kz
 mastercard.kz
 mini.kz
+ozon.kz
 sony.kz
 volvotruckcenter.kz
 volvotrucks.kz
@@ -18072,6 +18079,7 @@ nytcn.me
 ogp.me
 okpool.me
 onlyleaks.me
+ozonru.me
 paofuyun.me
 paypal.me
 phimsexhentai.me
@@ -23383,6 +23391,7 @@ dell.tm
 google.tm
 intel.tm
 mini.tm
+ozon.tm
 volvotrucks.tm
 yahoo.tm
 yandex.tm
