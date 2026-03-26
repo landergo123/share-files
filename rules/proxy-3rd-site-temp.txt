@@ -4685,6 +4685,7 @@ chromeexperiments.com
 chromestatus.com
 chroniclesec.com
 chubbypornonly.com
+chunkbase.com
 chuporno.com
 chwr7s8u.com
 chyoa.com
@@ -9982,6 +9983,7 @@ nakedgirlpic.com
 nakedmodelsxxx.com
 nakednews.com
 nakido.com
+namemc.com
 namemybeats.com
 namethatporn.com
 namethatpornad.com
@@ -10177,6 +10179,7 @@ nftstatic.com
 ngeo.com
 nginx.com
 ngrok.com
+ngrok-agent.com
 nhentai.com
 nhentaihaven.com
 nheos.com
@@ -16621,6 +16624,7 @@ spring4u.info
 steamdb.info
 swiftbank.info
 swiftfinancial.info
+telega.info
 terapeak.info
 tokyotosho.info
 u15.info
@@ -16714,6 +16718,7 @@ element.io
 elevenlabs.io
 elsevier.io
 enpass.io
+equinox.io
 ero-labs.io
 ipfs.eternum.io
 etherscan.io
@@ -18123,6 +18128,7 @@ springwood.me
 synology.me
 t.me
 teensex.me
+telega.me
 telegram.me
 textnow.me
 timi1.me
@@ -19702,6 +19708,7 @@ microsoftsilverlight.net
 milfmaturesex.net
 minecraft.net
 minecraft-services.net
+minecraftforge.net
 minhhue.net
 minneapolisbmw.net
 mirrorsedge.net
@@ -19782,7 +19789,7 @@ nbabot.net
 nebay.net
 nekoslovakia.net
 nentindo.net
-maven.neoforged.net
+neoforged.net
 neowin.net
 netacad.net
 netcup.net
@@ -19867,6 +19874,7 @@ openstreetmap.net
 openvpn.net
 ood.opsource.net
 opticsforthecloud.net
+optifine.net
 orsm.net
 osakamotion.net
 osdn.net
@@ -21876,6 +21884,7 @@ south-plus.org
 southmongolia.org
 soylentnews.org
 spiedigitallibrary.org
+spigotmc.org
 sqlite.org
 sslpaypal.org
 stackage.org
