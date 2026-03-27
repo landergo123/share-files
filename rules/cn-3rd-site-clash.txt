@@ -2910,6 +2910,8 @@ payload:
   - '+.qc188.com'
   - '+.qcc.com'
   - '+.qcds.com'
+  - '+.izattime.qcomgeo2.com'
+  - '+.xtratime.qcomgeo2.com'
   - '+.qd-metro.com'
   - '+.qd8.com'
   - '+.qh-cdn.com'
