@@ -11656,7 +11656,6 @@ payload:
   - '+.rk.com'
   - '+.rlwlw.com'
   - '+.rm2029.com'
-  - '+.s.rmimg.com'
   - '+.ro-blox.com'
   - '+.ro89.com'
   - '+.road-crew.com'
