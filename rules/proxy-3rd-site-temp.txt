@@ -21,6 +21,7 @@ youtube.co.ae
 gettyimages.ae
 google.ae
 scholar.google.ae
+hayya.ae
 hsbc.ae
 ikea.ae
 intel.ae
@@ -37,6 +38,7 @@ yahoo.com.af
 google.af
 intel.af
 b-ok.africa
+yango.africa
 5w.ag
 dell.com.ag
 google.com.ag
@@ -69,6 +71,7 @@ github.ai
 gmgn.ai
 gmo-research.ai
 google.ai
+goup.ai
 grazie.ai
 h2o.ai
 hakaru.ai
@@ -82,6 +85,7 @@ karechat.ai
 lmarena.ai
 lovart.ai
 meta.ai
+meteum.ai
 missav.ai
 mistral.ai
 mlc.ai
@@ -95,6 +99,7 @@ podwise.ai
 pornpen.ai
 pplx.ai
 seodirector.ai
+shedevrum.ai
 simianx.ai
 sokuresu.ai
 suno.ai
@@ -135,6 +140,7 @@ visa.co.ao
 volvotrucks.co.ao
 yahoo.co.ao
 google.it.ao
+yango.ao
 50dh.app
 51mh.app
 7tv.app
@@ -250,6 +256,7 @@ qqbs.asia
 svscomics.asia
 verisign.asia
 wancctv.asia
+yandex.asia
 adidas.at
 adidasspecialtysports.at
 airbnb.at
@@ -637,6 +644,7 @@ youtube.com.bh
 ikea.bh
 intel.bh
 travelex.bh
+yango.bh
 youtube.bh
 dell.bi
 google.bi
@@ -765,6 +773,8 @@ airbnb.com.br
 airwick.com.br
 amazon.com.br
 apple.com.br
+autoesporte.com.br
+bhfm.com.br
 blogspot.com.br
 bloomberg.com.br
 bmw.com.br
@@ -772,7 +782,9 @@ bmw-connecteddrive.com.br
 bmw-motorrad.com.br
 bridgestone.com.br
 bridgestonecomercial.com.br
+cartola.com.br
 cashpassport.com.br
+cbn.com.br
 centauro.com.br
 coliriodemacho.com.br
 deepfreeze.com.br
@@ -782,22 +794,33 @@ dettol.com.br
 disney.com.br
 dombosco.com.br
 enfabebe.com.br
+epoca.com.br
+epocanegocios.com.br
 epochtimes.com.br
 filmesporno.com.br
 finishbrasil.com.br
 firestone.com.br
 firestonecomercial.com.br
 foxsports.com.br
+g1.com.br
 gettyimages.com.br
 globalsign.com.br
+globo.com.br
+globoplay.com.br
+globoradio.com.br
+globoreporter.com.br
+globorural.com.br
 google.com.br
 scholar.google.com.br
+gshow.com.br
 hsbc.com.br
+infoglobo.com.br
 intel.com.br
 ipadair.com.br
 iphone4.com.br
 iphoneacessorios.com.br
 iphoneclaro.com.br
+jivochat.com.br
 jornaldacidadeonline.com.br
 kaspersky.com.br
 livrariart.com.br
@@ -813,20 +836,35 @@ mundomais.com.br
 netname.com.br
 nike.com.br
 nvidia.com.br
+oghost.com.br
+oglobo.com.br
 pearsonclinical.com.br
+pegn.com.br
 pornobom.com.br
 qualcomm.com.br
 quatrum.com.br
 quickbook.com.br
 quickbooks.com.br
+radioglobo.com.br
 redtube.com.br
+revistaepoca.com.br
+revistagalileu.com.br
+revistapegn.com.br
+revistaquem.com.br
+revistavalor.com.br
 sandisk.com.br
+sgr.com.br
 shopee.com.br
 sony.com.br
 strepsils.com.br
 technogym.com.br
+techtudo.com.br
 thomsonreuters.com.br
 tufos.com.br
+umsoplaneta.com.br
+valor.com.br
+valoreconomico.com.br
+valorinveste.com.br
 vanish.com.br
 vanishbancaseulook.com.br
 veet.com.br
@@ -842,6 +880,7 @@ volvopenta.com.br
 volvotrucks.com.br
 webex.com.br
 womenwill.com.br
+xuxaverso.com.br
 xvideos5.com.br
 xvideosnovinha.com.br
 xvideosup.com.br
@@ -943,6 +982,7 @@ volvotrucks.co.bw
 yahoo.co.bw
 2gis.by
 bmw.by
+bps-sberbank.by
 blogspot.com.by
 canon.com.by
 ozon.com.by
@@ -957,6 +997,7 @@ mini.by
 miniso.by
 near.by
 ozon.by
+sber-bank.by
 volvotrucks.by
 yahoo.by
 yandex.by
@@ -1412,6 +1453,7 @@ xsela.cc
 xxbook.cc
 xxxdesi.cc
 xxxhdporn.cc
+ya.cc
 yuenuge18.cc
 yunlaopo.cc
 yyvhhbmw.cc
@@ -1528,6 +1570,8 @@ zert.ch
 binance.charity
 appleone.chat
 bettergpt.chat
+giga.chat
+jivo.chat
 rocket.chat
 simplex.chat
 tamtam.chat
@@ -1733,6 +1777,7 @@ scholar.google.com.co
 intel.com.co
 jav.com.co
 jiuse.com.co
+jivochat.com.co
 mastercard.com.co
 mini.com.co
 shopee.com.co
@@ -3110,6 +3155,7 @@ audiencenetwork.com
 audiobeatsau.com
 audiobeatsbydre.com
 audiomonsterbeatsonline.com
+ws.audioscrobbler.com
 auntymaza.com
 auricularemonsterbeats.com
 auricularesbeatsbaratosshop.com
@@ -3239,6 +3285,7 @@ autodeskvietnam.com
 autodeskviewer.com
 autodeskworkshop.com
 autodraw.com
+autoesporte.com
 automaton-media.com
 automotive-cadcam.com
 autosketch.com
@@ -4533,6 +4580,7 @@ cdn77.com
 cdninstagram.com
 cdnjs.com
 cdnpure.com
+cdnvideohub.com
 cdw.com
 cebay.com
 ceicdata.com
@@ -5000,8 +5048,7 @@ cqcorea.com
 crabporn.com
 crackle.com
 crankplayer.com
-firebase-settings.crashlytics.com
-update.crashlytics.com
+crashlytics.com
 crazy-amateurs.com
 crazylivecams.com
 crazyshit.com
@@ -5937,6 +5984,9 @@ enterprisepaging.com
 enterprisessl.com
 entrust.com
 entrustdatacard.com
+envato.com
+envato-static.com
+envatousercontent.com
 epicbrowser.com
 epicgames.com
 epicgamescdn.com
@@ -6994,6 +7044,7 @@ gaytube.com
 gaywatch.com
 gazotube.com
 gazounabi.com
+gazprombank.com
 gcld-line.com
 gclubs.com
 gcmasia.com
@@ -7138,6 +7189,8 @@ gleline.com
 globalriskregulator.com
 globalsign-media.com
 globalspec.com
+globo.com
+globoplay.com
 gloporn.com
 gloryholeswallow.com
 gloryofheracles.com
@@ -7376,6 +7429,7 @@ groupfun.com
 groups.com
 grupobmw.com
 gsccdn.com
+gshow.com
 gstatic.com
 gstatic-cn.com
 gsuite.com
@@ -8613,6 +8667,8 @@ jiuse6666.com
 jiuse821.com
 jiuse822.com
 jiuse823.com
+jivochat.com
+jivosite.com
 jiyou520.com
 jizzboom.com
 jizzbunker.com
@@ -9348,7 +9404,6 @@ meendo.com
 meetandfuckgames.com
 meetfasttrack.com
 meetsmartbook.com
-meetup.com
 meetyourdevices.com
 megacamz.com
 megafilmporno.com
@@ -9865,6 +9920,7 @@ mxroutedocs.com
 mxroutehelp.com
 my-enema.com
 my-formosa.com
+my-manager-account.com
 my13la.com
 my1stflame.com
 my20dc.com
@@ -10930,6 +10986,7 @@ pearsonvue.com
 peekvids.com
 peepholecam.com
 peerj.com
+pegn.com
 pendrivelinux.com
 penisbot.com
 pensions-expert.com
@@ -11017,6 +11074,7 @@ pixlr-o-matic.com
 pixlromatic.com
 pixtronix.com
 pjgirls.com
+pkgbuild.com
 pkqjiasu.com
 pkuanvil.com
 placemix.com
@@ -11739,6 +11797,8 @@ retroxxxmovs.com
 retweetrank.com
 reuters.com
 revenue-performance-management.com
+revistaepoca.com
+revistapegn.com
 revit.com
 revitcc.com
 certificate.revocationcheck.com
@@ -11901,6 +11961,7 @@ savoycomputing.com
 saynow.com
 sb-cd.com
 sb24.com
+sberauto.com
 sberbank.com
 sbitravelcard.com
 sbnation.com
@@ -12704,6 +12765,7 @@ superuser.com
 superzooi.com
 supjav.com
 supplybestjerseys.com
+support-uber.com
 supportfacebook.com
 supremacy.com
 suprememastertv.com
@@ -12833,9 +12895,9 @@ techliquidators.com
 technics.com
 technogym.com
 techradar.com
-techspot.com
 techstreet.com
 techtimes.com
+techtudo.com
 ted.com
 tedcdn.com
 teddysun.com
@@ -13081,6 +13143,7 @@ tineye.com
 tinkerboxapp.com
 tinkercad.com
 tinkerentertainment.com
+tinkoff-group.com
 tiny4k.com
 tinychat.com
 tinypaste.com
@@ -13440,6 +13503,7 @@ ultimaonline.com
 ultradonkey.com
 ultravpn.com
 umbrella.com
+umsoplaneta.com
 rsshub.umzzz.com
 unblock-us.com
 unblockdmm.com
@@ -13530,6 +13594,7 @@ uux68.com
 uverse.com
 uwants.com
 uwpcommunitytoolkit.com
+uxthemes.com
 uyghurtribunal.com
 uymaarip.com
 v-av.com
@@ -13544,6 +13609,7 @@ vaginal-ultrasound.com
 vagrantcloud.com
 vagrantup.com
 valeursactuelles.com
+valorinveste.com
 valoryirene.com
 value-domain.com
 value-server.com
@@ -13948,7 +14014,6 @@ www.websnapr.com
 webtoons.com
 webtoonscorp.com
 webtype.com
-webvisor.com
 wechatlawsuit.com
 weebly.com
 weekly-economist.com
@@ -14484,7 +14549,12 @@ yam.com
 yamaxun.com
 yammer.com
 yandex.com
-yandexmetrica.com
+yandexgo.com
+yango.com
+yango-b2b.com
+yango-team.com
+yango-tech.com
+yangofellowship.com
 yantaqu.com
 yaohubaba.com
 yaoimangaonline.com
@@ -14706,6 +14776,8 @@ zuckerberg.com
 zunked.com
 zuola.com
 zvereff.com
+zvuk.com
+zvuk-b2b.com
 zweiporn.com
 zwtvusa.com
 zynamics.com
@@ -14941,6 +15013,7 @@ intel.de
 ipad.de
 ipod.de
 iridiumbrowser.de
+jivochat.de
 joyclub.de
 kaspersky.de
 kindle.de
@@ -15091,6 +15164,7 @@ pub.dev
 r2.dev
 shisho.dev
 shopify.dev
+sourcecraft.dev
 stackpath.dev
 stadia.dev
 termux.dev
@@ -15342,6 +15416,7 @@ intel.es
 iphone.es
 ipod.es
 itun.es
+jivochat.es
 justporno.es
 kaspersky.es
 kindle.es
@@ -15521,6 +15596,7 @@ volvotruckcenter.fi
 volvotrucks.fi
 yahoo.fi
 yandex.fi
+yango.fi
 youtube.fi
 zapper.fi
 appleone.film
@@ -15729,6 +15805,7 @@ radio.garden
 asmr.gay
 gbiz
 1337x.gd
+annas-archive.gd
 dis.gd
 intel.gd
 is.gd
@@ -15771,6 +15848,7 @@ google.com.gi
 yahoo.com.gi
 discord.gift
 discord.gifts
+annas-archive.gl
 goo.gl
 google.gl
 intel.gl
@@ -16382,6 +16460,7 @@ visa.co.il
 volvotrucks.co.il
 yahoo.co.il
 yandex.co.il
+yango.co.il
 youtube.co.il
 dell.org.il
 epoch.org.il
@@ -16415,7 +16494,6 @@ alpherafinancialservices.in
 alpherafs.in
 amazon.in
 amazonpay.in
-annas-archive.in
 apple.in
 avdb.in
 bbc.in
@@ -16448,6 +16526,7 @@ ibkr.co.in
 ichat.co.in
 ifastfinancial.co.in
 interactivebrokers.co.in
+jivochat.co.in
 kaspersky.co.in
 lizol.co.in
 mastercard.co.in
@@ -16721,6 +16800,7 @@ itu.int
 who.int
 intel
 intuit
+gazprombank.investments
 1inch.io
 1password.io
 4everland.io
@@ -16754,6 +16834,7 @@ blockfrost.io
 businessfocus.io
 bwbx.io
 bymj.io
+canny.io
 card.io
 cex.io
 chatterbate.io
@@ -16933,6 +17014,7 @@ twaud.io
 typeset.io
 typora.io
 ubuntu-touch.io
+unidraw.io
 unisat.io
 userpxt.io
 vaultproject.io
@@ -17573,6 +17655,7 @@ yasukuni.or.jp
 yomikyo.or.jp
 orn.jp
 osaipo.jp
+our-notes.jp
 panasonic.jp
 pancolle-movie.jp
 paypal.jp
@@ -17842,7 +17925,6 @@ bmw.lc
 dell.com.lc
 visa.com.lc
 intel.lc
-annas-archive.li
 archive.li
 blogspot.li
 google.li
@@ -18401,6 +18483,7 @@ xbabe.mobi
 xxu.mobi
 xxvideo.mobi
 xxxv.mobi
+yandex.mobi
 8chan.moe
 allthefallen.moe
 bangumi.moe
@@ -19177,8 +19260,7 @@ dykkng5hnh52u.cloudfront.net
 cloudfunctions.net
 cloudinary.net
 cloupia.net
-kinopoisk-ru.clstorage.net
-yandex-images.clstorage.net
+clstorage.net
 coinalyze.net
 colacloud.net
 colleee.net
@@ -20266,7 +20348,7 @@ sstmlt.net
 ssttest.net
 stackoverflow.net
 stacksnippets.net
-yandex-pogoda.static-storage.net
+static-storage.net
 stboy.net
 steamserver.net
 steamunlocked.net
@@ -20314,6 +20396,7 @@ thebeatsbydre.net
 thefacebook.net
 thehun.net
 theinventionworks.net
+themeforest.net
 thepornlist.net
 theshoppingexpresslane.net
 theuab.net
@@ -20624,6 +20707,7 @@ visa.com.ng
 youtube.com.ng
 dell.ng
 intel.ng
+jivochat.ng
 youtube.ng
 12diasderegalosdeitunes.co.ni
 visa.co.ni
@@ -20697,6 +20781,11 @@ sony.nl
 starbucks.nl
 swingexpert.nl
 terk.nl
+ntp.time.nl
+ntp1.time.nl
+ntp2.time.nl
+ntppool1.time.nl
+ntppool2.time.nl
 topescort.nl
 trouw.nl
 uighur.nl
@@ -20974,7 +21063,6 @@ android-x86.org
 angola.org
 angulardart.org
 angularjs.org
-annas-archive.org
 annualreviews.org
 anonymouse.org
 www.antd.org
@@ -21085,6 +21173,7 @@ bypasscensorship.org
 byrut.org
 c-span.org
 c-spanvideo.org
+cabconnect.org
 calendarserver.org
 callabitch.org
 cambridge.org
@@ -21233,6 +21322,7 @@ doublethinklab.org
 douya.org
 draftjs.org
 dragonsprings.org
+driveawaytaxi.org
 dsmynas.org
 duckduckgo.org
 duihua.org
@@ -21423,6 +21513,7 @@ go-lang.org
 godbolt.org
 godfootsteps.org
 godoc.org
+gogettaxi.org
 golang.org
 golden-ages.org
 goodnewsnetwork.org
@@ -21883,7 +21974,6 @@ pypi.org
 pyrobot.org
 python.org
 pythonhosted.org
-pytorch.org
 qbittorrent.org
 qiangyou.org
 qt-project.org
@@ -22040,6 +22130,9 @@ synapse.org
 taa-usa.org
 taipeisociety.org
 tanc.org
+taxiaid.org
+taxiguru.org
+taxitax.org
 tbcollege.org
 tbib.org
 tbsec.org
@@ -22188,7 +22281,6 @@ weblate.org
 webmproject.org
 webrtc.org
 websdr.org
-webvisor.org
 wefightcensorship.org
 weijingsheng.org
 wemigrate.org
@@ -22325,6 +22417,7 @@ foxsports.com.pe
 google.com.pe
 scholar.google.com.pe
 intel.com.pe
+jivochat.com.pe
 mastercard.com.pe
 mini.com.pe
 nvidia.com.pe
@@ -22408,6 +22501,7 @@ sexhd.pics
 hentai.pink
 ngrok.pizza
 ngrok-free.pizza
+annas-archive.pk
 apple.pk
 dell.com.pk
 durex.com.pk
@@ -22499,7 +22593,6 @@ maa.plus
 pornohd.plus
 prts.plus
 warp.plus
-annas-archive.pm
 booth.pm
 hex.pm
 hexdocs.pm
@@ -22545,6 +22638,7 @@ pixnet.pro
 plexvpn.pro
 popai.pro
 redwap.pro
+sber.pro
 seqingwangzhan.pro
 sex-hay.pro
 sexvideo12com.pro
@@ -22671,6 +22765,7 @@ ikea.qa
 mastercard.qa
 travelex.qa
 volvotrucks.qa
+yango.qa
 youtube.qa
 wireless.radio
 appsto.re
@@ -22784,13 +22879,13 @@ tmsnrt.rs
 volvotrucks.rs
 youtube.rs
 get.rsvp
+21-school.ru
 2gis.ru
 9hentai.ru
 abr.ru
-adfox.ru
 adidas.ru
 adidasspecialtysports.ru
-admetrica.ru
+afisha.ru
 airbnb.ru
 airwick.ru
 sexfilm.al.ru
@@ -22800,6 +22895,7 @@ apple.ru
 apples-msk.ru
 avito.ru
 bankline.ru
+berizaryad.ru
 biqle.ru
 blogspot.ru
 bmw-connecteddrive.ru
@@ -22811,7 +22907,11 @@ cdn-vk.ru
 st-ok.cdn-vk.ru
 st-ok-pts.cdn-vk.ru
 cdnvideo.ru
+centraluniversity.ru
+citydrive.ru
+clck.ru
 clinica-tibet.ru
+cloud.ru
 apple-watch.com.ru
 applestore.com.ru
 dell.com.ru
@@ -22820,19 +22920,23 @@ visa.com.ru
 yandex.com.ru
 zenmate.com.ru
 crazycloud.ru
+cu.ru
 cultura-kolomna.ru
 daidostup.ru
 dalailama.ru
 dell.ru
 dettol.ru
 disney.ru
+dolyame.ru
 drweb.ru
 durex.ru
 dzen.ru
 dzeninfra.ru
 e-goods.ru
+eapteka.ru
 ebaysocial.ru
 ecchinohentai.ru
+elama.ru
 elitvip.ru
 epochtimes.ru
 erovizor.ru
@@ -22851,6 +22955,7 @@ google.ru
 scholar.google.ru
 gpb.ru
 hentaicomic.ru
+id.ru
 ikea.ru
 imgsmail.ru
 intel.ru
@@ -22858,15 +22963,20 @@ iphone.ru
 ipicture.ru
 ipod.ru
 ivi.ru
+jivo.ru
+jivochat.ru
+jivosite.ru
 justhost.ru
 kama-nk.ru
 kaspersky.ru
 kinopoisk.ru
+kuper.ru
 la-mama.ru
 mail.ru
 mastercard.ru
 max.ru
 medow.ru
+megamarket.ru
 microsoft.ru
 mini.ru
 mos.ru
@@ -22880,13 +22990,19 @@ ok.ru
 okcdn.ru
 oneme.ru
 onlyprime.ru
+otello.ru
 ozon.ru
 ozone.ru
+payment.ru
+phoenix-ca.ru
 pinterest.ru
 playfamily.ru
+pochtabank.ru
 pornocd.ru
 pornofiles.ru
 prastitutki.ru
+psb.ru
+psb-ocenka.ru
 psbank.ru
 r0.ru
 rosbank.ru
@@ -22895,25 +23011,51 @@ rtbcdn.ru
 rutube.ru
 rutubelist.ru
 rwb.ru
+samokat.ru
 sber.ru
 sberbank.ru
+sberbank-insurance.ru
+sberbankins.ru
+sbercloud.ru
+sberdevices.ru
+sberdisk.ru
+sberhealth.ru
+sberindex.ru
+sberleasing.ru
+sberlogistics.ru
+sbermegamarket.ru
+sbermobile.ru
+sberpb.ru
+sbertroika.ru
 sexbomba.ru
 sexyfucking.ru
 sony.ru
+spasibosb.ru
+spasibosberbank.ru
 starbucks.ru
 start.ru
 stin31.ru
 strepsils.ru
+t-bank-app.ru
+t-j.ru
+t-static.ru
+t-technologies.ru
 tbank.ru
+education.tbank.ru
 technogym.ru
 thecandidforum-voyeur.ru
 thomsonreuters.ru
 thothub.ru
 tilda.ru
+tinkoff.ru
+edu.tinkoff.ru
+tinkoffjournal.ru
+tinsurance.ru
 truyen-hentai.ru
 test-ipv6.ttk.ru
 tvigle.ru
 vanish.ru
+sberpro.vedomosti.ru
 veet.ru
 vfsco.ru
 viju.ru
@@ -22943,7 +23085,9 @@ ya.ru
 yahoo.ru
 yandex.ru
 yandex-team.ru
+yandexlyceum.ru
 yastatic-net.ru
+yccdn.ru
 youla.ru
 youtube.ru
 browser.run
@@ -22975,6 +23119,8 @@ home.saxo
 google.com.sb
 yahoo.com.sb
 dns.sb
+doh.sb
+dot.sb
 ip.sb
 jav.sb
 sb.sb
@@ -23025,7 +23171,6 @@ airbnb.se
 airwick.se
 alienware.se
 amazon.se
-annas-archive.se
 apple.se
 avxhm.se
 ipfs.best-practice.se
@@ -23194,6 +23339,7 @@ codei.sh
 cursor.sh
 dmit.sh
 err.sh
+esm.sh
 google.sh
 ind.sh
 javfree.sh
@@ -23398,6 +23544,7 @@ intel.sr
 yahoo.sr
 0x0.st
 1337x.st
+alfabank.st
 avito.st
 br.st
 coomer.st
@@ -23461,6 +23608,7 @@ gov.taipei
 li.taipei
 metro.taipei
 target
+yango.taxi
 dell.com.tc
 dell.tc
 visa.tc
@@ -23481,9 +23629,11 @@ wikiless.funami.tech
 insight.tech
 ipfs.tech
 javporn.tech
+megamarket.tech
 mirailab.tech
 rea.tech
-yads.tech
+sbercloud.tech
+yango.tech
 dmed.technology
 dtci.technology
 sexvideos.tel
@@ -23705,6 +23855,7 @@ halktv.com.tr
 hsbc.com.tr
 ikea.com.tr
 intel.com.tr
+jivochat.com.tr
 kanald.com.tr
 kaspersky.com.tr
 mastercard.com.tr
@@ -24496,7 +24647,6 @@ starbucks.co.uk
 sunbingo.co.uk
 sweetandmaxwell.co.uk
 tandf.co.uk
-telegraph.co.uk
 the-tls.co.uk
 thechasernews.co.uk
 thescottishsun.co.uk
@@ -25283,6 +25433,7 @@ scholar.google.co.za
 huffingtonpost.co.za
 intel.co.za
 ipod.co.za
+jivochat.co.za
 kaspersky.co.za
 mastercard.co.za
 mini.co.za

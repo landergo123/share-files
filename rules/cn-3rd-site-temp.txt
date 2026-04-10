@@ -731,6 +731,7 @@ pospal.cn
 pplive.cn
 procg.cn
 pubgno1.cn
+qchannel03.cn
 qftexpay.cn
 qihuapi.cn
 qishui.cn
@@ -775,6 +776,7 @@ sharesdk.cn
 shihuo.cn
 shuiyaohuo.cn
 skydweller.cn
+skywt.cn
 smartapps.cn
 smartedu.cn
 smgbb.cn
@@ -803,6 +805,7 @@ sxl.cn
 sxlcdn.cn
 szjlc.cn
 szse.cn
+tai3.cn
 tebiefuza.cn
 teemo.cn
 tencent-cloud.cn
@@ -1166,6 +1169,7 @@ uu.163.com
 91.com
 917.com
 91danji.com
+91shenfan.com
 91yunxiao.com
 95311.com
 95504test.com
@@ -1264,6 +1268,7 @@ anticheatexpert.com
 antpcdn.com
 antutu.com
 anxia.com
+anytocopy.com
 anywlan.com
 aoyou.com
 apabi.com
@@ -1389,6 +1394,7 @@ blurdev.com
 blyun.com
 bobbns.com
 bobo.com
+bochaai.com
 boe.com
 jiasu.bohe.com
 bohejiasuqi.com
@@ -1964,6 +1970,7 @@ gamebonfire.com
 gameitop.com
 gameloop.com
 gamemei.com
+gamepp.com
 gameres.com
 gamersky.com
 gamewower.com
@@ -2109,6 +2116,7 @@ herogame.com
 herostart.com
 hexun.com
 heytea.com
+hezuvip.com
 hf-aw.com
 hftfund.com
 hiaiabc.com
@@ -2421,6 +2429,7 @@ jxedt.com
 jxpp.com
 jyeoo.com
 jyimg.com
+jzagile.com
 jzsec.com
 jztvnews.com
 k366.com
@@ -2857,6 +2866,7 @@ oray.com
 orayer.com
 orayimg.com
 orient-fund.com
+osbdf.com
 oshwhub.com
 ottcn.com
 oupeng.com
@@ -3035,6 +3045,7 @@ scdng.com
 schoopia.com
 scm121.com
 scoregg.com
+scratch5.com
 sczsxx.com
 sdgdwljt.com
 sdo.com
@@ -3145,6 +3156,7 @@ soso.com
 sososnap.com
 sou.com
 soufunimg.com
+soulteary.com
 souqian.com
 southcn.com
 southmoney.com
@@ -3262,6 +3274,7 @@ tidbcloud.com
 tieba.com
 tiebaimg.com
 tietuku.com
+timbrd.com
 timedoo.com
 timibase.com
 tingyun.com
@@ -4151,6 +4164,7 @@ vrzwk.net
 webankcdn.net
 weiphone.net
 wenxiaozhan.net
+wildfirechat.net
 win8.net
 winegame.net
 wpsmail.net
@@ -4269,6 +4283,7 @@ in.th
 u.tools
 51zmt.top
 aloys233.top
+awstme.top
 bdcat.top
 bsbsb.top
 chat.top
@@ -4283,18 +4298,24 @@ imacos.top
 jtexpress.top
 jutongbao.top
 lebo.top
+lg3000.top
 nxog.top
 openkylin.top
 puddingcat.top
 saduck.top
 tclai.top
 tgpro.top
+topwd.top
 ucgslb.top
 ugslb.top
 vrzwk.top
 warmheart.top
 wjx.top
+wxdw.top
+xgzb.top
 yto.top
+yyshub.top
+zctnet.top
 zway.top
 aisee.tv
 chushou.tv
@@ -4313,6 +4334,7 @@ xiaoka.tv
 yixi.tv
 zhanqi.tv
 xiumi.us
+daocloud.vip
 kk1.vip
 landian.vip
 uucl.vip
