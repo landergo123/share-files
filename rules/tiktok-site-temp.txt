@@ -328,6 +328,7 @@ fqnovelop.com
 fqnovelpic.com
 fqnovelstatic.com
 fqnovelvod.com
+gcloudcache.com
 getfeishu.com
 getsays.com
 gogokid.com
@@ -374,6 +375,7 @@ ivolces.com
 ixgvideo.com
 ixigua.com
 ixiguavideo.com
+jianying.com
 jinritemai.com
 jokecommunity.com
 jstti.com

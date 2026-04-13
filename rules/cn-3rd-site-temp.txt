@@ -47,6 +47,8 @@ wfdata.club
 115cloud.cn
 116cd.cn
 12306.cn
+12315.cn
+12321.cn
 123pan.cn
 16q.cn
 17u.cn
@@ -174,6 +176,7 @@ cma.cn
 cnr.cn
 cntv.cn
 cntvwb.cn
+codebuddy.cn
 10099.com.cn
 10jqka.com.cn
 360sou.com.cn
@@ -403,6 +406,7 @@ zaifan.com.cn
 zcmbc.com.cn
 zdnscloud.com.cn
 zdzq.com.cn
+zgbznet.com.cn
 zggbdszt.com.cn
 zhiding.com.cn
 zhiliaowenda.com.cn
@@ -455,6 +459,7 @@ cugbonline.cn
 cunchuhulian-ln.cn
 cup62.cn
 cyzone.cn
+dahebao.cn
 datasea.cn
 datayi.cn
 daytx.cn
@@ -775,6 +780,7 @@ sg.cn
 sharesdk.cn
 shihuo.cn
 shuiyaohuo.cn
+skillhub.cn
 skydweller.cn
 skywt.cn
 smartapps.cn
@@ -959,6 +965,7 @@ yyds.co
 123294.com
 123624.com
 123641.com
+12365auto.com
 123842.com
 123860.com
 123912.com
@@ -1541,6 +1548,7 @@ ciweimao.com
 cjjd19.com
 cjol.com
 cjsc.com
+clawhub-mirror.com
 cleargrass.com
 clouddn.com
 cloudflare-cn.com
@@ -1631,6 +1639,7 @@ cztvcloud.com
 dadajiasu.com
 dadighost.com
 daguzhe.com
+daheapp.com
 dajiabao.com
 dajie.com
 dajieimg.com
@@ -2503,6 +2512,7 @@ kuaidi100.com
 kuaidilab.com
 kuaiduizuoye.com
 kuaihou.com
+kuaiji.com
 kuaikanmanhua.com
 kuaishou.com
 kuaishouapps.com
@@ -3245,6 +3255,7 @@ ntp2.tencent.com
 ntp3.tencent.com
 ntp4.tencent.com
 ntp5.tencent.com
+yuanqi.tencent.com
 tencent-cloud.com
 tencent-gcloud.com
 tencentcloud.com
