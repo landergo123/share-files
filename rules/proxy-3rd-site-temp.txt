@@ -1470,11 +1470,9 @@ upjav.cc
 vern.cc
 vk.cc
 vocus.cc
-vuku.cc
 wallhaven.cc
 whatsapp.cc
 whvn.cc
-xjp.cc
 xlydh.cc
 xn--oiq.cc
 xn--sgt856gbjl.cc
@@ -7776,7 +7774,6 @@ hitbtc.com
 hitxhot.com
 hk-pub.com
 hk01.com
-hkacg.com
 hkbookcity.com
 hkchronicles.com
 hkcircleapp.com
@@ -9994,7 +9991,6 @@ muzi.com
 mvk.com
 mwcu00.com
 mwdbank.com
-mx981.com
 mxlogin.com
 mxroute.com
 mxroutedocs.com
@@ -15042,6 +15038,7 @@ angela-merkel.de
 appdynamics.de
 apple.de
 applestore.de
+archlinux.de
 barton.de
 beck-online.beck.de
 berlinerbericht.de
@@ -19118,6 +19115,8 @@ animal-porn.net
 animalsporn.net
 anime-pictures.net
 animegal.net
+ankiuser.net
+ankiweb.net
 annstores.net
 antiwave.net
 aokwholesale.net
@@ -19820,7 +19819,6 @@ hiporn.net
 hipzoom.net
 historyofdota.net
 hiveon.net
-hkacg.net
 hkbigman.net
 hkbn.net
 hkbnes.net
@@ -21216,7 +21214,6 @@ agu.org
 aiaa.org
 aimsciences.org
 airbnb.org
-download.aircrack-ng.org
 airvpn.org
 akademiye.org
 akagtm.org
