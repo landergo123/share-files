@@ -524,6 +524,7 @@ widevine.com
 cn.widevine.com
 winudf.com
 withgoogle.com
+stitch.withgoogle.com
 withyoutube.com
 womenwill.com
 xn--9kr7l.com

@@ -29,6 +29,7 @@ intel.ae
 mastercard.ae
 qr.ae
 sandisk.ae
+ucoz.ae
 volvotrucks.ae
 yahoo.ae
 youtube.ae
@@ -109,6 +110,7 @@ tenbin.ai
 tinkoff.ai
 trae.ai
 tsi.ai
+ukit.ai
 videoindexer.ai
 wombo.ai
 wyndlabs.ai
@@ -880,6 +882,7 @@ technogym.com.br
 techtudo.com.br
 thomsonreuters.com.br
 tufos.com.br
+ucoz.com.br
 umsoplaneta.com.br
 valor.com.br
 valoreconomico.com.br
@@ -1692,6 +1695,7 @@ paofu.cloud
 gateway.pinata.cloud
 renzhe.cloud
 soundcloud.cloud
+timeweb.cloud
 unirule.cloud
 vkcs.cloud
 vrcdn.cloud
@@ -1744,6 +1748,7 @@ scorediscounts.club
 sexmature.club
 sfmcompile.club
 sshs.club
+ucoz.club
 vepornhd.club
 xnxxcom.club
 xxxclub.club
@@ -1908,6 +1913,7 @@ t.co
 tabustudios.co
 tegrazone.co
 theblock.co
+ucoz.co
 viber.co
 vine.co
 visualstudio.co
@@ -3778,6 +3784,7 @@ beevpn.com
 beforeigners.com
 befuck.com
 dl.begellhouse.com
+beget.com
 begin-trade.com
 behindthescreenz.com
 beibao.com
@@ -11565,6 +11572,7 @@ projectsangam.com
 projectshoreline.com
 projectvasari.com
 projectvoyeur.com
+promodj.com
 promonsterbeatsbydre.com
 prompthero.com
 propertysex.com
@@ -13227,6 +13235,7 @@ timelinestoryteller.com
 timesmembership.com
 timesnownews.com
 timestalks.com
+timeweb.com
 timo0.com
 timtales.com
 blog.tiney.com
@@ -13570,6 +13579,9 @@ ubncloud.com
 ubuntu.com
 ntp.ubuntu.com
 china.ucanews.com
+ucoz.com
+ucozmedia.com
+ucoztemplates.com
 udacity.com
 udemy.com
 udemycdn.com
@@ -13588,6 +13600,7 @@ ujapanesesex.com
 ujizzcn.com
 uk-exhibitionist.com
 ukipad.com
+ukit.com
 ukwhoswho.com
 ulol.com
 ultimaforever.com
@@ -15186,6 +15199,7 @@ tibetgermany.de
 travelex.de
 tutanota.de
 twibble.de
+ucoz.de
 ueberamazon.de
 ui-portal.de
 ultrasrv.de
@@ -15557,6 +15571,7 @@ starbucks.es
 strepsils.es
 thomsonreuters.es
 twittertim.es
+ucoz.es
 unblocksit.es
 vanish.es
 veet.es
@@ -15850,6 +15865,7 @@ thawte.fr
 travelex.fr
 truyen-hentai.fr
 tube8.fr
+ucoz.fr
 ultravpn.fr
 vanish.fr
 veet.fr
@@ -16093,6 +16109,7 @@ jmcomic.group
 mindbox.group
 signal.group
 t-finance.group
+ukit.group
 intel.gs
 ip.gs
 12diasderegalosdeitunes.gt
@@ -16454,6 +16471,7 @@ starbucks.hu
 strepsils.hu
 szabadeuropa.hu
 test-ipv6.hu
+ucoz.hu
 vanish.hu
 veet.hu
 vfsco.hu
@@ -16588,6 +16606,7 @@ mini.co.il
 ntdtv.co.il
 nurofen.co.il
 ozonru.co.il
+ucoz.co.il
 vanish.co.il
 visa.co.il
 volvotrucks.co.il
@@ -18041,6 +18060,7 @@ mastercard.kz
 mini.kz
 ozon.kz
 sony.kz
+ucoz.kz
 volvotruckcenter.kz
 volvotrucks.kz
 wb.kz
@@ -18266,6 +18286,7 @@ microsoft.lv
 mini-connected.lv
 mt.lv
 sony.lv
+ucoz.lv
 vfsco.lv
 visa.lv
 volvotrucks.lv
@@ -18316,6 +18337,7 @@ intel.md
 mastercard.md
 microsoft.md
 mini.md
+ucoz.md
 volvotrucks.md
 yahoo.md
 yandex.md
@@ -18512,6 +18534,7 @@ topporn.me
 tubesex.me
 twip.me
 tx.me
+ukit.me
 uraban.me
 viber.me
 vid.me
@@ -18551,6 +18574,7 @@ hayabusa.media
 hkgolden.media
 hominis.media
 taxel.media
+uma.media
 zi.media
 hsex.men
 apple.com.mg
@@ -20638,6 +20662,7 @@ typekit.net
 uberproxy.net
 ubnw.net
 ubuntu.net
+ucoz.net
 uguisupapa.net
 uimserv.net
 ulop.net
@@ -22402,6 +22427,7 @@ twreporter.org
 ubddns.org
 ubuntuforums.org
 uc-japan.org
+ucoz.org
 uhdwallpapers.org
 uhrp.org
 un.org
@@ -22759,6 +22785,7 @@ pearson.pl
 sony.pl
 starbucks.pl
 strepsils.pl
+ucoz.pl
 vanish.pl
 vfsco.pl
 visa.pl
@@ -23001,6 +23028,7 @@ certsign.ro
 airbnb.com.ro
 applestore.com.ro
 ikea.com.ro
+ucoz.com.ro
 youtube.com.ro
 dell.ro
 disney.ro
@@ -23087,11 +23115,13 @@ apple.ru
 apples-msk.ru
 appsmail.ru
 atomyze.ru
+attachmail.ru
 avito.ru
 babki.ru
 bankline.ru
 bcs.ru
 bcs-bank.ru
+beget.ru
 berizaryad.ru
 biqle.ru
 bk.ru
@@ -23173,6 +23203,7 @@ gazprombank.ru
 gb.ru
 geceguby.ru
 geobasket.ru
+gid.ru
 gitverse.ru
 golos-ameriki.ru
 google.ru
@@ -23326,6 +23357,7 @@ sberspasibo.ru
 sbertech.ru
 sbertroika.ru
 sbrf.ru
+scripts-for-ucoz.ru
 selectel.ru
 selectelix.ru
 selectelpro.ru
@@ -23396,7 +23428,11 @@ truyen-hentai.ru
 test-ipv6.ttk.ru
 tusco.ru
 tvigle.ru
+twcstorage.ru
 uchi.ru
+ucoz.ru
+ucozmedia.ru
+uguide.ru
 userapi.ru
 vamzakaz.ru
 vanish.ru
@@ -23487,6 +23523,7 @@ willberis.ru
 wink.ru
 wldberris.ru
 wolfberries.ru
+xmail.ru
 ya.ru
 yahoo.ru
 yaklass.ru
@@ -23861,6 +23898,7 @@ porstoporno.site
 shahvani.site
 singlelogin.site
 tiaz.site
+ucoz.site
 wingy.site
 xn--b1aechhj6bof8g5a.site
 xn--h1ao.site
@@ -24040,6 +24078,7 @@ s.team
 t-tech.team
 vk.team
 x.team
+2gis.tech
 appleone.tech
 atomyze.tech
 deepfreeze.tech
@@ -24139,6 +24178,7 @@ amzn.to
 archivx.to
 area51.to
 ark.to
+avistaz.to
 babypink.to
 boosty.to
 breached.to
@@ -24545,6 +24585,7 @@ njav.tv
 ntd.tv
 nudostar.tv
 okko.tv
+okkoapi.tv
 olevod.tv
 omnitek.tv
 onlyindianporn.tv
@@ -24913,7 +24954,7 @@ google.co.tz
 miniso.co.tz
 yahoo.co.tz
 youtube.co.tz
-2gis.ua
+at.ua
 bmw.ua
 bmw-motorrad.ua
 canon.ua
@@ -24939,6 +24980,7 @@ microsoft.ua
 mini.ua
 miniso.ua
 sony.ua
+ucoz.ua
 yandex.ua
 youtube.ua
 blogspot.ug
@@ -25093,6 +25135,7 @@ thisismoney.co.uk
 thomsonreuters.co.uk
 tibetrelieffund.co.uk
 travelex.co.uk
+ucoz.co.uk
 vanish.co.uk
 veet.co.uk
 verisign.co.uk
