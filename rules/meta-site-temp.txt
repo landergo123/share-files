@@ -364,6 +364,7 @@ liverail.com
 llama.com
 lnstagram-help.com
 makeitopen.com
+manuscdn.com
 markzuckerberg.com
 messenger.com
 messengerdevelopers.com
@@ -431,6 +432,7 @@ facebook.design
 flow.dev
 fb.gg
 facebook.hu
+manus.im
 facebook.in
 facebookappcenter.info
 facebookcredits.info

@@ -21,6 +21,7 @@ xxghh.biz
 yuanbei.biz
 zdnscloud.biz
 didiaustralia.blog
+ctexcel.ca
 3456.cc
 bilibili.cc
 bkclouds.cc
@@ -60,6 +61,7 @@ tencentwemeet.club
 wfdata.club
 0033.cn
 10044.cn
+10086.cn
 115cloud.cn
 116cd.cn
 12306.cn
@@ -70,6 +72,7 @@ wfdata.club
 17u.cn
 17zuoye.cn
 18.cn
+189.cn
 cloud.189.cn
 1hai.cn
 1tyy.cn
@@ -149,6 +152,7 @@ amazonworkdocs.cn
 amemv.cn
 amzndns-cn.cn
 ancientbooks.cn
+andfx.cn
 animetamashi.cn
 anitabi.cn
 anitama.cn
@@ -184,6 +188,7 @@ beingfine.cn
 beisen.cn
 bestincapi.cn
 bestincapp.cn
+bestpay.cn
 bestvcdn.cn
 betastar.cn
 bigfun.cn
@@ -293,6 +298,7 @@ chesicc.cn
 chicalot.cn
 chinaepg.cn
 chinatowercom.cn
+chinaunicom.cn
 chn.cn
 chsi.cn
 clink.cn
@@ -305,10 +311,15 @@ cloudfront.cn
 cloudfront-test.cn
 cls.cn
 cma.cn
+cmcc-cs.cn
+cmicrwx.cn
+cmicvip.cn
+cmvideo.cn
 cnr.cn
 cntv.cn
 cntvwb.cn
 codebuddy.cn
+10010.com.cn
 10099.com.cn
 10jqka.com.cn
 1234567.com.cn
@@ -333,6 +344,7 @@ baidu.com.cn
 baiying.com.cn
 bankofbeijing.com.cn
 beingfine.com.cn
+bestpay.com.cn
 bestv.com.cn
 bestvcdn.com.cn
 bmac.com.cn
@@ -357,6 +369,8 @@ chinabank.com.cn
 chinanature.com.cn
 chinanews.com.cn
 chinastock.com.cn
+chinatelecom.com.cn
+chinaunicom.com.cn
 chinaunionpay.com.cn
 chinayz.com.cn
 chsi.com.cn
@@ -365,6 +379,7 @@ cib-fund.com.cn
 cidp.com.cn
 citibank.com.cn
 cmbc.com.cn
+cmft.com.cn
 cnht.com.cn
 cninfo.com.cn
 cnki.com.cn
@@ -376,6 +391,7 @@ ctcdn.com.cn
 ctdns.com.cn
 ctyun.com.cn
 cup.com.cn
+cytxl.com.cn
 daton.com.cn
 dbfund.com.cn
 deppon.com.cn
@@ -577,6 +593,9 @@ wegame.com.cn
 werepository.com.cn
 wind.com.cn
 wkzq.com.cn
+wo.com.cn
+wocloud.com.cn
+woread.com.cn
 worldoftanks.com.cn
 xiaomidns.com.cn
 xiaomiinc.com.cn
@@ -965,6 +984,7 @@ mfuns.cn
 mhyurl.cn
 midea.cn
 mifile.cn
+migu.cn
 mindspore.cn
 mirrorcast.cn
 mle5p.cn
@@ -1043,6 +1063,7 @@ ocfund.cn
 okr.cn
 olympicchannelchina.cn
 oneplus.cn
+online-cmcc.cn
 opdwz.cn
 openjudge.cn
 openve.cn
@@ -1272,6 +1293,7 @@ uzero.cn
 vanho.cn
 vivo.cn
 vm45e.cn
+vnet.cn
 vo6z2.cn
 volcca.cn
 volccdn.cn
@@ -1292,12 +1314,14 @@ wggames.cn
 wjx.cn
 wlzq.cn
 wmsj.cn
+wo.cn
 wodehaodewu.cn
 womendedw.cn
 woodo.cn
 worldofship.cn
 worldoftank.cn
 worldoftanks.cn
+wosms.cn
 wostatic.cn
 wotgame.cn
 wowsgame.cn
@@ -1406,11 +1430,14 @@ yyds.co
 055110.com
 05sun.com
 0759job.com
+10010.com
 100bt.com
 100offer.com
+10155.com
 11467.com
 114blog.com
 114chn.com
+114menhu.com
 114piaowu.com
 114shouji.com
 115.com
@@ -1438,6 +1465,7 @@ yyds.co
 123u.com
 126.com
 127.com
+139.com
 yun.139.com
 13a.com
 163.com
@@ -1457,6 +1485,7 @@ uu.163.com
 166.com
 1688.com
 16888.com
+169ol.com
 16rd.com
 17173.com
 172mix.com
@@ -2399,18 +2428,28 @@ chinakaoyan.com
 chinalawedu.com
 chinalions.com
 chinalive.com
+chinamobile.com
+speedtest.hk.chinamobile.com
+speedtestbb.hk.chinamobile.com
+chinamobileltd.com
 chinanetcenter.com
 chinanews.com
 chinaott.com
 chinapay.com
 chinaso.com
 chinasspp.com
+chinatelecom-h.com
+chinatelecomglobal.com
+chinatelecomhk.com
+chinaunicom.com
+chinaunicomglobal.com
 chinaunionpay.com
 chinaweiyu.com
 chinawutong.com
 chinaz.com
 chinazns.com
 chiphell.com
+chntel.com
 chongbuluo.com
 chongdiantou.com
 chouti.com
@@ -2523,6 +2562,10 @@ cloudzhongshan.com
 cloudzhuhai.com
 cmcm.com
 cmcmcdn.com
+cmicapm.com
+cmpassport.com
+cmpay.com
+cmread.com
 qq.cn.com
 cnanzhi.com
 cnbksy.com
@@ -2580,6 +2623,7 @@ csto.com
 csxbank.com
 ctbcdn.com
 ctdcdn.com
+ctexcel.com
 ctfile.com
 ctfund.com
 ctgcdn.com
@@ -2599,6 +2643,8 @@ ctyunwaf.com
 ctyunwaf1.com
 ctzcdn.com
 cubead.com
+cuguplus.com
+cuniq.com
 cwxzx.com
 cxbiji.com
 cxmt.com
@@ -2928,6 +2974,8 @@ fengkongcloud.com
 fengniao.com
 fengxian110.com
 fenxi.com
+fetion-portal.com
+fetionpic.com
 ffbuddy.com
 fhldns.com
 fhyx.com
@@ -4105,6 +4153,9 @@ midea.com
 mideaepayuat.com
 miercn.com
 migames.com
+migucloud.com
+migufun.com
+miguvideo.com
 mihayo.com
 mihayou.com
 mihoyo.com
@@ -4132,6 +4183,8 @@ tracking.miui.com
 miwifi.com
 miyatech.com
 miyoushe.com
+mmarket.com
+mmarket6.com
 mmbang.com
 mmstat.com
 mob.com
@@ -4189,6 +4242,7 @@ my4399.com
 my7v.com
 myalicdn.com
 myapp.com
+mychinaunicom.com
 mydown.com
 mydrivers.com
 myelasticsearch.com
@@ -5237,6 +5291,7 @@ umetrip.com
 umsns.com
 umtrack.com
 log.umtrack.com
+unicompayment.com
 unionpay.com
 unionpayintl.com
 unionpaysecure.com
@@ -5456,6 +5511,7 @@ wjx.com
 wkzuche.com
 wmzhe.com
 wnhuifu.com
+wo116114.com
 wo1wan.com
 woaihuoshan.com
 wodingche.com
@@ -5949,6 +6005,7 @@ douban.fm
 lizhi.fm
 qingting.fm
 xiami.fm
+ctexcel.fr
 ac.fun
 chaz.fun
 sast.fun
@@ -5959,6 +6016,8 @@ trae.guru
 alihealth.hk
 alipay.hk
 alibabacloud.com.hk
+chinaunicom.com.hk
+ctexcel.com.hk
 tencent.com.hk
 dreamcast.hk
 emsec.hk
@@ -6114,6 +6173,7 @@ aliyuncdn.net
 aliyundrive.net
 amemv.net
 amzndns-cn.net
+andfx.net
 anitama.net
 antutu.net
 aotrip.net
@@ -6686,6 +6746,7 @@ openapp.run
 um.run
 ym.run
 alibabacloud.com.sg
+cuniq.sg
 jd.shop
 mcdemo.show
 wss.show
@@ -6775,6 +6836,8 @@ zhanqi.tv
 alibabacloud.com.tw
 momomall.com.tw
 momoshop.com.tw
+unicom
+ctexcel.us
 tiktokminis.us
 tiktokv.us
 tiktokw.us
@@ -6805,6 +6868,7 @@ philanthropy.xin
 xin.xin
 yto.xin
 ytoluohan.xin
+xn--8y0a063a
 qq.xn--fiqs8s
 xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
 xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
