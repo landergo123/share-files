@@ -12089,6 +12089,7 @@ scientificamerican.com
 scival.com
 scmp.com
 scopus.com
+scorecardresearch.com
 scoreclassics.com
 scoregroup.com
 scoreland.com
@@ -17096,6 +17097,7 @@ metamask.io
 metamind.io
 microsoft.io
 microsoft-falcon.io
+minimax.io
 misskey.io
 mod.io
 mosavi.io

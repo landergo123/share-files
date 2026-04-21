@@ -176,6 +176,7 @@ baidu-cdn.cn
 baiduyuncdn.cn
 baiying.cn
 baltamatica.cn
+bankcomm.cn
 bbdc.cn
 bbtv.cn
 bce-cdn.cn
@@ -1497,6 +1498,7 @@ uu.163.com
 17k.com
 17roco.com
 17usoft.com
+17van.com
 17zuoye.com
 18183.com
 188.com
@@ -1754,6 +1756,7 @@ aichaoxing.com
 aiemy.com
 aiganggu.com
 aigc-cloud.com
+aigodlike.com
 aihst8.com
 aihuishou.com
 aiketour.com
@@ -2046,6 +2049,7 @@ baofeng.com
 baomitu.com
 baoxianshichang.com
 baseopendev.com
+batchat.com
 baydn.com
 bazai.com
 bbbcdns.com
@@ -2593,6 +2597,7 @@ coindog.com
 coloros.com
 computeinit.com
 comsenz.com
+cone-x.com
 contentchina.com
 cookicut.com
 coolapk.com
@@ -2736,6 +2741,7 @@ dingtalk.com
 dingtalkapps.com
 dingtalkcloud.com
 dingxiang-inc.com
+divoiotcloud.com
 diyiyou.com
 dj99.com
 djdjapp.com
@@ -2853,6 +2859,7 @@ dzng.com
 dzsc.com
 dzw3.com
 dzwww.com
+eagsen.com
 easebar.com
 easesale.com
 easiu.com
@@ -2905,9 +2912,11 @@ ersjk.com
 essurl.com
 et-api.com
 et001.com
+et0731.com
 etao.com
 ets100.com
 everbright.com
+exiliumgf.com
 exmailgz.com
 expreview.com
 extfans.com
@@ -3210,6 +3219,7 @@ guabu.com
 guaiguai.com
 guaiku.com
 guanaitong.com
+guangyapan.com
 guanhaobio.com
 guanyierp.com
 guazi.com
@@ -3225,6 +3235,7 @@ guoxuedashi.com
 guoxuemi.com
 gupzs.com
 guzhangting.com
+gvgoo.com
 gwdang.com
 gxairlines.com
 gzcqs.com
@@ -3430,6 +3441,7 @@ hwshu.com
 hwtrip.com
 hxfy888.com
 hxsd.com
+hybiome.com
 hypercachenet.com
 i360mall.com
 i3839.com
@@ -3496,6 +3508,7 @@ ihuoshanstatic.com
 ihuoshanvod.com
 ihykb.com
 ijiandao.com
+ijingyi.com
 ijinshan.com
 ikafan.com
 ikanchai.com
@@ -3652,6 +3665,7 @@ jdjinrong.com
 jdl.com
 jdpay.com
 jdpaydns.com
+jduoduo.com
 jdwl.com
 jdx.com
 jet-ego.com
@@ -3663,6 +3677,7 @@ jhscm.com
 jia.com
 jiameng.com
 jianbihua.com
+jiangningwater.com
 jianguoyun.com
 jianshu.com
 jianshuapi.com
@@ -3686,6 +3701,7 @@ jin10.com
 jindidata.com
 jingdong.com
 jingdongjinrong.com
+jingheiot.com
 jinglingbiaozhu.com
 jingpinhui.com
 jingxi.com
@@ -3786,6 +3802,8 @@ k366.com
 kaadas.com
 kaifayun.com
 kaifubiao.com
+kaihong.com
+kaipanhong.com
 kaipuyun.com
 kaixin001.com
 kameng98.com
@@ -4106,6 +4124,7 @@ mayi.com
 mayihr.com
 mayshijia.com
 mbalib.com
+mblyun.com
 mcbang.com
 mdeer.com
 mdpda.com
@@ -4128,6 +4147,7 @@ meitudata.com
 meitustat.com
 meiwulist.com
 meizu.com
+meloong.com
 merach.com
 metalrevolution.com
 mfcteda.com
@@ -4152,6 +4172,7 @@ midasbuy.com
 midea.com
 mideaepayuat.com
 miercn.com
+mifon.com
 migames.com
 migucloud.com
 migufun.com
@@ -4772,6 +4793,7 @@ sgyouxi.com
 shanbay.com
 shang360.com
 shanghairc.com
+shanghongbei.com
 shangshi360.com
 shangyexinzhi.com
 shanhaitujian.com
@@ -4950,6 +4972,7 @@ taihuoniao.com
 taikang.com
 taikanglife.com
 taikangzhijia.com
+tajiduo.com
 takungpao.com
 talkingdata.com
 talkinggame.com
@@ -5104,6 +5127,7 @@ thelarkcloud.com
 themisweeps.com
 thinkcloudlab.com
 thinkpad.com
+thmnet.com
 ths123.com
 thundercdn.com
 thunderurl.com
@@ -5112,6 +5136,7 @@ tiancitycdn.com
 tianjimedia.com
 tianjin-air.com
 tianlailive.com
+tianlala.com
 tianpeng.com
 tianqi.com
 tianqistatic.com
@@ -5162,6 +5187,7 @@ todesk.com
 tokcoder.com
 tom.com
 tongfangpc.com
+tongkask.com
 tongtaiamc.com
 tongxianghuicn.com
 tongxuepie.com
@@ -5560,6 +5586,7 @@ xa-bank.com
 xafc.com
 xbext.com
 xbiao.com
+xboxfan.com
 xcsc.com
 xdqtech.com
 xdrtc.com
@@ -5787,6 +5814,7 @@ youyitms.com
 youyiwms.com
 youzan.com
 youzanyun.com
+youzhiyouxing.com
 youzu.com
 yowhale.com
 yoyojie.com
@@ -5855,6 +5883,7 @@ yystatic.com
 yytcdn.com
 yzyxgame.com
 z-bank.com
+z-tek.com
 z28j.com
 zaifan.com
 zampdsp.com
@@ -5895,6 +5924,7 @@ zhfund.com
 zhichanli.com
 zhidemai.com
 zhidx.com
+zhiexa.com
 zhifang.com
 zhihang100.com
 zhihu.com
@@ -5985,8 +6015,10 @@ zxxk.com
 zybang.com
 syh.zybang.com
 zyh365.com
+zysou.com
 zzdtec.com
 zztfly.com
+chushi.cool
 cnb.cool
 edgeone.cool
 moonvy.cool
@@ -6153,6 +6185,7 @@ iadmatapk.nosdn.127.net
 962.net
 aamgame.net
 acctdns.net
+acepanel.net
 acfun.net
 acfunchina.net
 acplay.net
@@ -6242,6 +6275,7 @@ cdntips.net
 cf-ns.net
 chaojituzi.net
 chesicc.net
+chessease.net
 chinacache.net
 chinadsl.net
 chinapp.net
@@ -6307,6 +6341,7 @@ tiktokv.com.edgesuite.net
 educoder.net
 erji.net
 erp321.net
+excelbbx.net
 excelhome.net
 fastapi.net
 bytedance.map.fastly.net
@@ -6503,6 +6538,7 @@ sunlogin.net
 superlib.net
 t00ls.net
 taichuan.net
+talk-cloud.net
 taobao.net
 tcdnos.net
 tcloudbase.net
@@ -6569,6 +6605,7 @@ uonline-sh.net
 upcdn.net
 upe.net
 uslk.net
+vanjee.net
 vaptcha.net
 vcloudstc.net
 ve-trafficroute.net
@@ -6753,6 +6790,7 @@ wss.show
 cf-ns.site
 cloud-industry-delivery.site
 coze.site
+lightmake.site
 fofa.so
 sohu
 heiyu.space
@@ -6789,12 +6827,14 @@ edgemonix.top
 geektool.top
 goka.top
 imacos.top
+jsj.top
 jtexpress.top
 jutongbao.top
 lebo.top
 lg3000.top
 nxog.top
 openkylin.top
+piedaochuan.top
 puddingcat.top
 qualitycloud.top
 saduck.top
@@ -6856,6 +6896,7 @@ yto.vip
 mengtuoshi.wang
 qq.wang
 txidc.wang
+aidream.website
 fgo.wiki
 qiuwen.wiki
 c-t.work
