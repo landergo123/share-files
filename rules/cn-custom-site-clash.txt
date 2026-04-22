@@ -180,4 +180,8 @@ payload:
   - '+.modao.cc'
   - '+.byteimg.com'
   - '+.easytoolx.cn'
+  - '+.mcxhm.cn'
+  - '+.bewild.ai'
+  - '+.0011.ai'
+  - '+.2233.ai'
   - '+.byteimg.com'
