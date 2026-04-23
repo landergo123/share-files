@@ -52,6 +52,7 @@ jike.city
 aliyundrive.cloud
 jikeiot.cloud
 lazycat.cloud
+liblib.cloud
 tebiefuza.cloud
 vestack.cloud
 acetaffy.club
@@ -209,7 +210,6 @@ bishengcompiler.cn
 bjctyiptv.cn
 bootcdn.cn
 bosc.cn
-botvip.cn
 brawlstars.cn
 bsclink.cn
 bsurl.cn
@@ -6838,6 +6838,7 @@ piedaochuan.top
 puddingcat.top
 qualitycloud.top
 saduck.top
+tapnow.top
 tclai.top
 tgpro.top
 topwd.top
@@ -6865,6 +6866,7 @@ hntv.tv
 hzdtv.tv
 imgo.tv
 jbcz.tv
+liblib.tv
 pps.tv
 qie.tv
 shangzhibo.tv

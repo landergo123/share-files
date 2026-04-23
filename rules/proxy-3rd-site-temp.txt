@@ -86,6 +86,7 @@ jetbrains.ai
 jiuse.ai
 karechat.ai
 lmarena.ai
+lmstudio.ai
 lovart.ai
 meta.ai
 meteum.ai
@@ -3797,6 +3798,7 @@ bejeweledstars.com
 bejewled-stars.com
 belamionline.com
 bellebound.com
+bellingcat.com
 bellotube.com
 bengalisexvideos.com
 benliton.com
@@ -5112,6 +5114,7 @@ creatwhatsnext.com
 crececonebay.com
 creditcardsbay.com
 creditkarma.com
+crewai.com
 cricketcountry.com
 cristyli.com
 crit-staging.com
@@ -8994,6 +8997,7 @@ ladyboypornonly.com
 lagranepoca.com
 lamayeshe.com
 lanasbigboobs.com
+langchain.com
 langsuirs.com
 lanternal.com
 laracasts.com
@@ -10721,6 +10725,7 @@ olemovienews.com
 olevod.com
 olevodtv.com
 oli-school.com
+ollama.com
 olumpo.com
 omafotze.com
 omekinteractive.com
@@ -11740,6 +11745,7 @@ ratedgross.com
 rateyourmusic.com
 rawgit.com
 rawgithub.com
+rawstory.com
 razer.com
 razerofficial.com
 razersupport.com
@@ -11828,6 +11834,7 @@ reckittbenckiser.com
 reckittprofessional.com
 reconinstruments.com
 reconjet.com
+recordedfuture.com
 redamateurtube.com
 redbubble.com
 redbyhbo.com
@@ -21307,6 +21314,7 @@ ascelibrary.org
 asha.org
 asiaharvest.org
 asianthumbs.org
+asiasociety.org
 askfacebook.org
 asm.org
 asme.org
@@ -22318,7 +22326,6 @@ soundofhope.org
 sourcehut.org
 south-plus.org
 southmongolia.org
-soylentnews.org
 spiedigitallibrary.org
 spigotmc.org
 sqlite.org
@@ -23777,6 +23784,7 @@ intel.sg
 longbridge.sg
 sandisk.sg
 shopee.sg
+thinkchina.sg
 verisign.sg
 volvobuses.sg
 volvotrucks.sg
