@@ -99,6 +99,7 @@ openrouter.ai
 openvino.ai
 oshiete.ai
 perplexity.ai
+plannotator.ai
 podwise.ai
 pornpen.ai
 pplx.ai
@@ -2576,6 +2577,7 @@ aga-expo.com
 agdbank.com
 agefans.com
 agendaweek.com
+agentclientprotocol.com
 agilebits.com
 agoogleaday.com
 agri-bank.com
@@ -13529,6 +13531,7 @@ twinmotion.com
 twinprime.com
 twishort.com
 twistys.com
+twitchcon.com
 twitiq.com
 twitlonger.com
 twitoaster.com

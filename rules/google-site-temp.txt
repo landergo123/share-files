@@ -319,6 +319,7 @@ googleadservices.com
 googleadservices-cn.com
 googleanalytics.com
 googleapis.com
+aicode.googleapis.com
 aida.googleapis.com
 aisandbox-pa.googleapis.com
 antigravity.googleapis.com
