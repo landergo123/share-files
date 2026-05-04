@@ -54,6 +54,7 @@ binance.net
 binanceru.net
 binancezh.net
 byapps.net
+okx.com.cdn.cloudflare.net
 binance.org
 binancezh.pro
 binancezh.sh

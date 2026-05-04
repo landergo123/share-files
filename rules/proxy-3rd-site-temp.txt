@@ -5424,6 +5424,7 @@ digitalcertvalidation.com
 digitaldesire.com
 digitalhub.com
 digitalocean.com
+digitalocean-ui.com
 digitaloceanspaces.com
 digitalpack.com
 digitalplayground.com

@@ -69,6 +69,7 @@ payload:
   - '+.binanceru.net'
   - '+.binancezh.net'
   - '+.byapps.net'
+  - '+.okx.com.cdn.cloudflare.net'
   - '+.basescan.org'
   - '+.binance.org'
   - '+.btcscan.org'
