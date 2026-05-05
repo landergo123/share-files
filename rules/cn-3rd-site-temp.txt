@@ -386,6 +386,7 @@ cninfo.com.cn
 cnki.com.cn
 cns.com.cn
 cntv.com.cn
+cqn.com.cn
 cs.com.cn
 csco.com.cn
 ctcdn.com.cn
@@ -505,6 +506,7 @@ mypaas.com.cn
 nbd.com.cn
 nearme.com.cn
 nellit.com.cn
+neweekly.com.cn
 njcb.com.cn
 njzq.com.cn
 nwcdcloud.com.cn
@@ -588,6 +590,7 @@ umetrip.com.cn
 unihan.com.cn
 urtc.com.cn
 vivo.com.cn
+wahaha.com.cn
 wanfangdata.com.cn
 weather.com.cn
 wegame.com.cn
@@ -608,6 +611,7 @@ yhfund.com.cn
 ymtc.com.cn
 ynet.com.cn
 youpin.com.cn
+yst.com.cn
 yto56.com.cn
 ytocargo.com.cn
 ytojg.com.cn
@@ -1089,6 +1093,7 @@ ncss.org.cn
 nellit.org.cn
 ntp.org.cn
 piyao.org.cn
+redcross.org.cn
 saee.org.cn
 zdns.org.cn
 zdnscloud.org.cn
@@ -3834,6 +3839,7 @@ kaola.com
 kaolacdn.com
 kaopu001.com
 kcbebank.com
+kcdnvip.com
 kd100.com
 kdslife.com
 ke.com
@@ -4400,6 +4406,7 @@ nn.com
 nnbooster.com
 nnthink.com
 nomuraoi-sec.com
+nongfuspring.com
 novelfm.com
 novelfmpic.com
 novelfmstatic.com
@@ -5404,6 +5411,7 @@ videoxiaoyouxi.com
 vip.com
 vipmro.com
 vipstatic.com
+viviv.com
 vivo.com
 vivoglobal.com
 vmall.com
@@ -5545,6 +5553,7 @@ htrace.wetvinfo.com
 wework-studio.com
 whalecloud.com
 whccb.com
+whhhealth.com
 whlovehome.com
 wicresoft.com
 win007.com
@@ -5557,6 +5566,7 @@ winwin7.com
 winyoungreading.com
 wishdown.com
 wiwide.com
+wjwai.com
 wjx.com
 wkzuche.com
 wmzhe.com
@@ -5702,6 +5712,7 @@ xitu.com
 xiu8.com
 xiucai.com
 xiumius.com
+xiyouyingyu.com
 xjietiao.com
 xjoycity.com
 xkw.com
@@ -6498,6 +6509,7 @@ mcbbs.net
 medicexam.net
 meishij.net
 meituan.net
+mieco.net
 missjia.net
 mndqlib.net
 mszdld.net
@@ -6709,6 +6721,7 @@ zjbyte.net
 zjzs.net
 zto.net
 zuowenwang.net
+zysn.net
 jutongbao.online
 local-ip.online
 seclab.online
@@ -6716,6 +6729,7 @@ seclab.online
 3322.org
 50bang.org
 58dns.org
+acftu.org
 aliapp.org
 anquan.org
 atatech.org

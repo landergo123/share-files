@@ -19,9 +19,12 @@ bmw-connecteddrive.ae
 canon-emirates.ae
 intel.co.ae
 youtube.co.ae
+g-ib.ae
 gettyimages.ae
 google.ae
 scholar.google.ae
+group-ib.ae
+groupib.ae
 hayya.ae
 hsbc.ae
 ikea.ae
@@ -133,12 +136,15 @@ bmw.am
 canon.am
 yandex.com.am
 dell.am
+genetic-technologies.am
+genotek.am
 google.am
 hsbc.am
 mini.am
 volvotrucks.am
 wb.am
 wildberries.am
+wink.am
 yahoo.am
 youtube.am
 amazon
@@ -816,6 +822,7 @@ dell.com.br
 dettol.com.br
 disney.com.br
 dombosco.com.br
+eligens.com.br
 enfabebe.com.br
 epoca.com.br
 epocanegocios.com.br
@@ -1636,6 +1643,7 @@ bridgestonecomercial.cl
 dell.cl
 dettol.cl
 durex.cl
+eligens.cl
 finishinfo.cl
 firestone.cl
 firestonecomercial.cl
@@ -4489,6 +4497,7 @@ calgon.com
 calgoncarbon.com
 calgoncarbon-china.com
 calgonit.com
+callbackkiller.com
 callersbane.com
 callhulu.com
 cam-duct.com
@@ -4595,6 +4604,7 @@ cattt.com
 caus.com
 cavhot.com
 cavporn.com
+cbkiller.com
 cbs.com
 cbsaavideo.com
 cbscorporation.com
@@ -4650,6 +4660,7 @@ centrino.com
 cepacol.com
 ceramics-cadcam.com
 cerdas.com
+cert-gib.com
 certificat2.com
 certinomis.com
 cf-ipfs.com
@@ -5200,6 +5211,7 @@ customizedbeatsdre.com
 customnikeshoes.com
 cwcams.com
 cxacg.com
+cybercrimecon.com
 forum.cyberctm.com
 cyberghostvpn.com
 cybermondaybeats4sale.com
@@ -6041,6 +6053,8 @@ entrustdatacard.com
 envato.com
 envato-static.com
 envatousercontent.com
+envycdp.com
+envycrm.com
 epicbrowser.com
 epicgames.com
 epicgamescdn.com
@@ -7193,6 +7207,7 @@ ghostgames.com
 ghostpath.com
 giantessbooru.com
 giantessnight.com
+gib-global.com
 giffgaff.com
 gifnuki.com
 gigabyte.com
@@ -7481,6 +7496,7 @@ grok.com
 grokipedia.com
 grooby.com
 groq.com
+group-ib.com
 groupfun.com
 groups.com
 grupobmw.com
@@ -9495,6 +9511,7 @@ meetsmartbook.com
 meetyourdevices.com
 megacamz.com
 megafilmporno.com
+megafon.com
 megapornfreehd.com
 megapornpics.com
 megaproxy.com
@@ -12002,6 +12019,7 @@ s1s1s1.com
 s2stagehance.com
 www.s4miniarchive.com
 s81c.com
+saas-support.com
 saasexch.com
 sacduc.com
 sacks.com
@@ -14183,6 +14201,7 @@ whereiswerner.com
 wheretowatch.com
 whichav.com
 whisolutions.com
+whitesaas.com
 whitexxxtube.com
 wholefoods.com
 wholefoodsmarket.com
@@ -14935,6 +14954,7 @@ github.community
 mozilla.community
 npm.community
 18comic.company
+envybox.company
 hetzner.company
 hp.company
 vk.company
@@ -15130,6 +15150,7 @@ gettyimages.de
 goodsrv.de
 google.de
 scholar.google.de
+group-ib.de
 happysrv.de
 helpster.de
 hentaivn.de
@@ -15273,6 +15294,7 @@ rss.datuan.dev
 deps.dev
 discord.dev
 epicgames.dev
+f6.dev
 flow.dev
 flutter.dev
 fuchsia.dev
@@ -15288,6 +15310,7 @@ google.dev
 ai.google.dev
 grapheneos.dev
 hayabusa.dev
+ideco.dev
 idx.dev
 ingka.dev
 intel.dev
@@ -15505,6 +15528,7 @@ yahoo.com.eg
 youtube.com.eg
 ikea.eg
 intel.eg
+facct.email
 stackoverflow.email
 creativecommons.engineering
 diabrowser.engineering
@@ -15552,6 +15576,7 @@ enfamil.es
 finish.es
 fnmt.es
 freegpt.es
+genotek.es
 gettyimages.es
 globalsign.es
 google.es
@@ -15632,10 +15657,12 @@ faronics.eu
 firewire.eu
 gayforit.eu
 gaysonic.eu
+genotek.eu
 glass8.eu
 globalsign.eu
 google.eu
 gputechconf.eu
+group-ib.eu
 hbo.eu
 hbogo.eu
 hbomax.eu
@@ -15705,6 +15732,7 @@ vercel.events
 dydx.exchange
 himalaya.exchange
 ozon.express
+envybox.family
 adidas.fi
 adidasspecialtysports.fi
 ahmia.fi
@@ -16172,6 +16200,7 @@ applemusic.hamburg
 applenews.hamburg
 applepay.hamburg
 hangout
+genotek.health
 xnxx.health
 coursera.help
 dashly.help
@@ -17041,8 +17070,10 @@ dragonex.io
 egghead.io
 element.io
 elevenlabs.io
+eligens.io
 elsevier.io
 enpass.io
+envybox.io
 equinox.io
 ero-labs.io
 ipfs.eternum.io
@@ -17935,6 +17966,7 @@ mastercard.ke
 2gis.kg
 bmw.kg
 dell.kg
+envybox.kg
 google.kg
 lih.kg
 ewisdom.us.kg
@@ -19756,6 +19788,7 @@ gemfire.net
 gendai.net
 geti2p.net
 ggsel.net
+gibdev.net
 girlfriendgalleries.net
 girlfriendvids.net
 girlfuckshorse.net
@@ -20177,6 +20210,7 @@ msftauthimages.net
 mshome.net
 msn.net
 msnewskids.net
+mts-ws.net
 mubicdn.net
 mucinex.net
 mudfish.net
@@ -20953,6 +20987,7 @@ airwick.nl
 alienware.nl
 amateursexstart.nl
 amazon.nl
+antiphishing.nl
 apple.nl
 bekijkporno.nl
 bestescortgirls.nl
@@ -21218,6 +21253,7 @@ rushporn.online
 skyporn.online
 submarin.online
 sybjav.online
+tvoyodbo.online
 tytporno.online
 xshr.online
 zatrahal.online
@@ -23129,6 +23165,7 @@ sexfilm.al.ru
 alfabank.ru
 alfadirect.ru
 amediateka.ru
+antiphishing.ru
 apiok.ru
 apple.ru
 apples-msk.ru
@@ -23136,12 +23173,18 @@ appsmail.ru
 atomyze.ru
 attachmail.ru
 avito.ru
+azbukainterneta.ru
+b2c-digest.ru
 babki.ru
+bananacall.ru
 bankline.ru
 bcs.ru
 bcs-bank.ru
+beesbfl.ru
+beescrm.ru
 beget.ru
 berizaryad.ru
+bimsaas.ru
 biqle.ru
 bk.ru
 blogspot.ru
@@ -23162,6 +23205,7 @@ cdnmail.ru
 cdnvideo.ru
 centraluniversity.ru
 ceosummit.ru
+cert-gib.ru
 chipcore.ru
 citydrive.ru
 clck.ru
@@ -23204,24 +23248,32 @@ elama.ru
 electronicsignature.ru
 elitvip.ru
 enterly.ru
+envycdp.ru
+envyday.ru
 epochtimes.ru
 era-invest.ru
 erovizor.ru
 esforce.ru
 etradebook.ru
+f6.ru
+facct.ru
 fank.ru
 fastpic.ru
 fei.ru
 finishinfo.ru
 ntp.fiord.ru
 ftop.ru
+future-cs.ru
+g-ib.ru
 gainstech.ru
 gamescup.ru
 gandhara.ru
 gazprombank.ru
 gb.ru
 geceguby.ru
+genotek.ru
 geobasket.ru
+gibtds.ru
 gid.ru
 gitverse.ru
 golos-ameriki.ru
@@ -23229,6 +23281,7 @@ google.ru
 scholar.google.ru
 gosdolgi.ru
 gpb.ru
+group-ib.ru
 haicomdc.ru
 haicomgroup.ru
 hentaicomic.ru
@@ -23237,9 +23290,12 @@ hhcdn.ru
 hrtek.ru
 icq.ru
 id.ru
+ideco.ru
+idecosoftware.ru
 ikea.ru
 imgsmail.ru
 inbox.ru
+inplat.ru
 insideok.ru
 intel.ru
 internet.ru
@@ -23261,7 +23317,9 @@ kama-nk.ru
 karmahelp.ru
 karta-banka-rf.ru
 kaspersky.ru
+killercb.ru
 kinopoisk.ru
+kion.ru
 koddobra.ru
 kuper.ru
 la-mama.ru
@@ -23275,8 +23333,11 @@ max.ru
 max-tcs.ru
 mediumquality.ru
 medow.ru
+megafon.ru
+megafonpro.ru
 megamarket.ru
 mfk-t-finance.ru
+mgfn.ru
 microsoft.ru
 mind-box.ru
 mindbox.ru
@@ -23286,9 +23347,14 @@ mkb.ru
 mlbootcamp.ru
 mos.ru
 mrgcdn.ru
+mts.ru
+mtsbank.ru
 mtsdengi.ru
+mtsmedia.ru
 my-tbank.ru
 myapelsin.ru
+myenvy.ru
+mymts.ru
 nintendo.ru
 ntdtv.ru
 nurofen.ru
@@ -23303,6 +23369,7 @@ odnoklassniki.ru
 ok.ru
 okcdn.ru
 oktech.ru
+on-media.ru
 oneme.ru
 onlyjobs.ru
 onlyprime.ru
@@ -23333,17 +23400,22 @@ private-banking.ru
 psb.ru
 psb-ocenka.ru
 psbank.ru
+quizlink.ru
 r0.ru
 rbcollect.ru
 rbcredit.ru
+report-megafon.ru
 restnproducts.ru
+restream.ru
 rf-sim-mobile.ru
 rosbank.ru
 rosbank-auto.ru
 rosbank-capital.ru
 rosbank-dom.ru
 rosbank-leasing.ru
+rostelecom.ru
 rshb.ru
+rt.ru
 rtbcdn.ru
 rusfinance.ru
 rusfinancebank.ru
@@ -23376,6 +23448,7 @@ sberspasibo.ru
 sbertech.ru
 sbertroika.ru
 sbrf.ru
+scartel.ru
 scripts-for-ucoz.ru
 selectel.ru
 selectelix.ru
@@ -23416,6 +23489,7 @@ t-stekovka.ru
 t-tech.ru
 t-technologies.ru
 t-tolk.ru
+t2.ru
 talantix.ru
 tarantoolplus.ru
 tb-esim.ru
@@ -23425,6 +23499,7 @@ tconf.ru
 tcsbank.ru
 tech-mail.ru
 technogym.ru
+tele2.ru
 tetrika-school.ru
 thecandidforum-voyeur.ru
 thomsonreuters.ru
@@ -23551,6 +23626,8 @@ yandex-team.ru
 yandexlyceum.ru
 yastatic-net.ru
 yccdn.ru
+yota.ru
+yotagamer.ru
 youla.ru
 youtube.ru
 zarplata.ru
@@ -23702,6 +23779,7 @@ yahoo.se
 youtube.se
 z-library.se
 chronicle.security
+f6.security
 brightcove.services
 gateio.services
 plex.services
@@ -23783,7 +23861,11 @@ disney.sg
 duckduckgo.sg
 ebay.sg
 ebayexpress.sg
+g-ib.sg
 garena.sg
+gib.sg
+group-ib.sg
+groupib.sg
 gumtree.sg
 hbogoasia.sg
 icq.sg
@@ -24043,6 +24125,7 @@ arethusa.su
 bestporn.su
 coomer.su
 dahl.su
+envybox.su
 evilx.su
 hec.su
 jfn.su
@@ -24589,6 +24672,7 @@ manoto1.tv
 marketo.tv
 mickey.tv
 microsoft.tv
+more.tv
 mucinex.tv
 mudvod.tv
 muramura.tv
@@ -25080,6 +25164,7 @@ globalsign.co.uk
 google.co.uk
 scholar.google.co.uk
 googlecompare.co.uk
+group-ib.co.uk
 guardianapps.co.uk
 guim.co.uk
 guimcode.co.uk
@@ -25236,8 +25321,11 @@ eastturkistangovernmentinexile.us
 ebay.us
 facebook.us
 freessh.us
+g-ib.us
 gettyimages.us
 google.us
+group-ib.us
+groupib.us
 gslink.us
 hkdc.us
 hmovie-moe.us
@@ -25581,10 +25669,14 @@ xn----7sbhmncai5a0arm7c1e.xn--p1ai
 xn----8sbahiqzthbd0bn.xn--p1ai
 xn----8sbkfzespdwig.xn--p1ai
 xn----8sbwjbxyd.xn--p1ai
+xn--80a9a4b.xn--p1ai
 xn--80aafgovrgbc7am.xn--p1ai
 xn--80acbjgmges7ca.xn--p1ai
 xn--80acbjgsdq2cl.xn--p1ai
+xn--80aj3b.xn--p1ai
+xn--80arpq.xn--p1ai
 xn--80asgb.xn--p1ai
+xn--90absjljw3g.xn--p1ai
 xn--d1acpjx3f.xn--p1ai
 xn--e1aigb.xn--p1ai
 xn--p8j9a0d9c9a.xn--q9jyb4c
