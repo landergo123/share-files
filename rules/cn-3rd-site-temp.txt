@@ -1415,7 +1415,6 @@ zjlib.cn
 zjytxd.cn
 zjytxp.cn
 zlfund.cn
-zoomyou.cn
 zqrb.cn
 zto.cn
 zui.cn
@@ -3019,7 +3018,6 @@ flycua.com
 flyme.com
 flymeauto.com
 fm365.com
-fm3838.com
 fnjiasu.com
 fnnas.com
 foresightfund.com
@@ -4006,7 +4004,6 @@ larksuiteimg.com
 larksuiteimg-boe.com
 larksuiteimg-pre.com
 larkvc.com
-larsonlimited.com
 latepost.com
 lawxp.com
 lazada.com
@@ -6018,7 +6015,6 @@ zmifi.com
 znds.com
 zofund.com
 zongheng.com
-zoom3g.com
 zpb365.com
 zs-jlc.com
 zsxq.com
@@ -6123,6 +6119,8 @@ wscdns.info
 zdnscloud.info
 dji.ink
 qd.ink
+end.shallow.ink
+end-api.shallow.ink
 wss.ink
 agora.io
 build9s.io
@@ -6254,6 +6252,7 @@ apdcdn.net
 apimkt.net
 apipost.net
 applysquare.net
+azz.net
 baidu-cdn.net
 baiduyuncdn.net
 baixing.net
@@ -6423,6 +6422,7 @@ hugecore.net
 huoshanvideo.net
 huoshanxiaoshipin.net
 huoshanzhibo.net
+huotan.net
 hwclouds-dns.net
 hzman.net
 iesdouyin.net

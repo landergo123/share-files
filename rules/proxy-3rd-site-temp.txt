@@ -451,6 +451,7 @@ oursteps.com.au
 pearson.com.au
 pearsonclinical.com.au
 pearsonplaces.com.au
+penguin.com.au
 pinterest.com.au
 placemyad.com.au
 property.com.au
@@ -741,6 +742,7 @@ filmeporno.blog
 filmesdesexo.blog
 fury.blog
 github.blog
+hive.blog
 diarrheafan.livedoor.blog
 momami18.livedoor.blog
 swpr.livedoor.blog
@@ -1580,6 +1582,7 @@ protonmail.ch
 protontech.ch
 protonvpn.ch
 root-signing.ch
+rts.ch
 sony.ch
 ssl-certificate.ch
 starbucks.ch
@@ -1663,6 +1666,7 @@ pinterest.cl
 roblox.cl
 shopee.cl
 sony.cl
+supr.cl
 test-ipv6.cl
 vanish.cl
 veet.cl
@@ -2789,6 +2793,11 @@ csis-prod.s3.amazonaws.com
 docker-pinata-support.s3.amazonaws.com
 fontshop-prod-responsive-images.s3.amazonaws.com
 github-cloud.s3.amazonaws.com
+github-production-release-asset-2e65be.s3.amazonaws.com
+github-production-repository-file-5c1aeb.s3.amazonaws.com
+github-production-repository-image-32fea6.s3.amazonaws.com
+github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+github-production-user-asset-6210df.s3.amazonaws.com
 hpefonts.s3.amazonaws.com
 impala-media-production.s3.amazonaws.com
 paper-attachments.s3.amazonaws.com
@@ -2922,6 +2931,7 @@ anypornhd.com
 anypornsexxx.com
 anysex.com
 anyshemale.com
+anythingllm.com
 aodahl.com
 aofriend.com
 search.aol.com
@@ -4012,6 +4022,7 @@ blackshemalevideo.com
 blacksonblondes.com
 blackstonespoliceservice.com
 blackvpn.com
+bleepingcomputer.com
 blinkx.com
 blizzard.com
 blizzardgearstore.com
@@ -4253,6 +4264,7 @@ bookstagram.com
 booloo.com
 boombeach.com
 boomerang.com
+boomplay.com
 bootstrapcdn.com
 bootyliciousmag.com
 bootysource.com
@@ -4497,6 +4509,7 @@ calgon.com
 calgoncarbon.com
 calgoncarbon-china.com
 calgonit.com
+calibre-ebook.com
 callbackkiller.com
 callersbane.com
 callhulu.com
@@ -5159,6 +5172,7 @@ cshive.com
 csmonitor.com
 ctinets.com
 ctinews.com
+ctinsider.com
 ctotires.com
 ctwant.com
 cubicmotion.com
@@ -7244,9 +7258,11 @@ githubassets.com
 githubcopilot.com
 githubhackathon.com
 githubnext.com
+copilot-workspace.githubnext.com
 githubstatus.com
 githubuniverse.com
 githubusercontent.com
+copilot-proxy.githubusercontent.com
 gitlab.com
 gitstar.com
 gittigidiyorsikayet.com
@@ -8182,6 +8198,7 @@ ibookpartner.com
 ibooksauthor.com
 ibradome.com
 ibvpn.com
+iccf.com
 iceporn.com
 iceporncasting.com
 icevirtuallibrary.com
@@ -8881,6 +8898,7 @@ karupspc.com
 kaspersky.com
 kaspersky-labs.com
 katestube.com
+kathmandupost.com
 kavkazr.com
 kawase.com
 faronics.kayako.com
@@ -10352,6 +10370,7 @@ newsnowfox.com
 newssyndication.com
 newstamago.com
 newstatesman.com
+newstimes.com
 newsukadops.com
 newsupermariobrosu.com
 newsweek.com
@@ -10764,6 +10783,7 @@ onamae-office.com
 onani-daisuki.com
 onapp.com
 onbeatsbydresale.com
+ondigitalocean.com
 oneapi.com
 onedinesfree.com
 onedrive.com
@@ -10881,6 +10901,7 @@ outletnike.com
 outlook.com
 over18arcade.com
 overapple.com
+overdrive.com
 overleaf.com
 overthumbs.com
 ovid.com
@@ -13079,6 +13100,7 @@ tg-me.com
 tgirlcentral.com
 tgirlpostop.com
 tgp6.com
+tgstat.com
 tgtube.com
 tgutube.com
 thai-xxx.com
@@ -13091,6 +13113,7 @@ the-area.com
 the-japan-news.com
 the-m-festival.com
 the-monster-beats.com
+the-sun.com
 the123d.com
 swingers.theadulthub.com
 theaffairs.com
@@ -13196,6 +13219,7 @@ thetvdb.com
 thetype.com
 theverge.com
 thevirtualsexreview.com
+theweek.com
 thewirechina.com
 thewonderful101.com
 theync.com
@@ -13513,6 +13537,7 @@ tvbanywhere.com
 tvboxnow.com
 tvbusa.com
 tvbweekly.com
+tvdy1.com
 tvpromise.com
 tvunetworks.com
 tw-blog.com
@@ -13543,7 +13568,7 @@ twiends.com
 twifan.com
 twiffo.com
 twifuli.com
-contests.twilio.com
+twilio.com
 twimg.com
 twinkspornos.com
 twinkybf.com
@@ -13596,6 +13621,7 @@ typesquare.com
 typography.com
 tyre-cadcam.com
 tyrecadcam.com
+tytch.com
 tytng189.com
 u3c3.com
 u9a9.com
@@ -13698,6 +13724,7 @@ uscardforum.com
 uselessjunk.com
 useplannr.com
 userapi.com
+usersdrive.com
 usertrust.com
 usvimosquito.com
 usvimosquitoproject.com
@@ -14334,6 +14361,7 @@ worldemojiawards.com
 worldemojiday.com
 worldescortindex.com
 worldhack.com
+worldjournal.com
 worldoftanks.com
 worldofwarcraft.com
 worldofwarplanes.com
@@ -15322,6 +15350,7 @@ ngrok.dev
 ngrok-free.dev
 opensourceinsight.dev
 opensourceinsights.dev
+openspec.dev
 ozon.dev
 pages.dev
 pub.dev
@@ -15731,6 +15760,7 @@ zoho.eu
 vercel.events
 dydx.exchange
 himalaya.exchange
+infosec.exchange
 ozon.express
 envybox.family
 adidas.fi
@@ -15878,6 +15908,7 @@ iphonix.fr
 ipod.fr
 kaspersky.fr
 kindle.fr
+lemonde.fr
 logitech.fr
 logitechg.fr
 mastercard.fr
@@ -16334,6 +16365,7 @@ cusp.hk
 demosisto.hk
 e123.hk
 edcity.hk
+edigest.hk
 library.usc.cuhk.edu.hk
 mjlsh.usc.cuhk.edu.hk
 eduplus.hk
@@ -17929,6 +17961,7 @@ townwifi.jp
 tryheart.jp
 tver.jp
 tvnaviweb.jp
+twilio.jp
 twipple.jp
 twitcomike.jp
 twitter.jp
@@ -18681,6 +18714,7 @@ meb.gov.mm
 micb.gov.mm
 mmftb.gov.mm
 mminsurance.gov.mm
+acg.mn
 bloombergtv.mn
 bmw.mn
 dalailama.mn
@@ -20799,8 +20833,29 @@ wifevideos.net
 wiivc.net
 willw.net
 windows.net
+copilotprodattachments.blob.core.windows.net
 openaicomproductionae4b.blob.core.windows.net
 prodforza.blob.core.windows.net
+productionresultssa0.blob.core.windows.net
+productionresultssa1.blob.core.windows.net
+productionresultssa10.blob.core.windows.net
+productionresultssa11.blob.core.windows.net
+productionresultssa12.blob.core.windows.net
+productionresultssa13.blob.core.windows.net
+productionresultssa14.blob.core.windows.net
+productionresultssa15.blob.core.windows.net
+productionresultssa16.blob.core.windows.net
+productionresultssa17.blob.core.windows.net
+productionresultssa18.blob.core.windows.net
+productionresultssa19.blob.core.windows.net
+productionresultssa2.blob.core.windows.net
+productionresultssa3.blob.core.windows.net
+productionresultssa4.blob.core.windows.net
+productionresultssa5.blob.core.windows.net
+productionresultssa6.blob.core.windows.net
+productionresultssa7.blob.core.windows.net
+productionresultssa8.blob.core.windows.net
+productionresultssa9.blob.core.windows.net
 steamcloudsweden.blob.core.windows.net
 vscode.blob.core.windows.net
 vscode.search.windows.net
@@ -21151,6 +21206,7 @@ mcdonaldsparties.co.nz
 mega.co.nz
 mortein.co.nz
 mucinex.co.nz
+newshub.co.nz
 nurofen.co.nz
 pearsoned.co.nz
 pinterest.co.nz
@@ -22017,6 +22073,7 @@ mastercardcenterforinclusivegrowth.org
 matrix.org
 mcrouter.org
 md-t.org
+mediamatters.org
 mediawiki.org
 medrxiv.org
 mementoweb.org
@@ -22497,6 +22554,7 @@ uproxy.org
 usaco.org
 uscnpm.org
 usenix.org
+userdrive.org
 ustibetcommittee.org
 uyghur-j.org
 uyghuraa.org
@@ -22879,6 +22937,7 @@ yahoo.com.pr
 ikea.pr
 youtube.pr
 gfw.press
+nfsc.press
 18av.pro
 24porn.pro
 3xxx.pro
@@ -24329,6 +24388,7 @@ xzone.to
 archive.today
 hotporn.today
 javhd.today
+mjj.today
 pzhanfor.today
 qiandao.today
 tiantang.today
