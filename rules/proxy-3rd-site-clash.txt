@@ -20972,6 +20972,7 @@ payload:
   - '+.veet.nl'
   - '+.vfsco.nl'
   - '+.visa.nl'
+  - '+.vodafone.nl'
   - '+.volvo-truck.nl'
   - '+.volvogroup.nl'
   - '+.volvogrouptruckcenter.nl'
