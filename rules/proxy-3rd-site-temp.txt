@@ -141,6 +141,7 @@ genotek.am
 google.am
 hsbc.am
 mini.am
+odnoklassniki.am
 volvotrucks.am
 wb.am
 wildberries.am
@@ -1031,6 +1032,8 @@ microsoft.by
 mini.by
 miniso.by
 near.by
+odnoklasniki.by
+odnoklassniki.by
 ozon.by
 ozoncom.by
 ozonpartners.by
@@ -7376,8 +7379,6 @@ google-analytics.com
 google-analytics-cn.com
 google-syndication.com
 googleacquisitionmigration.com
-cnappinstall.googleadapis.com
-content.googleadapis.com
 clickserver.googleads.com
 googleadservices.com
 googleadservices-cn.com
@@ -8847,6 +8848,7 @@ justpicsplease.com
 justporn.com
 justswallows.com
 justusboys.com
+justveryok.com
 juziyue.com
 jvid.com
 jwpcdn.com
@@ -8922,6 +8924,7 @@ kenya4.com
 kepard.com
 kex.com
 keybaseapi.com
+keyboardmen.com
 keycdn.com
 keyhole.com
 keyporntube.com
@@ -11756,6 +11759,7 @@ r10s.com
 r18.com
 r18av.com
 r18lu.com
+rabbitcounter.com
 rabbitscams.com
 rabbitsreviews.com
 racked.com
@@ -15515,6 +15519,7 @@ bmw-connecteddrive.ee
 bmw-motorrad.ee
 buymeacoff.ee
 canon.ee
+odnoklassniki.co.ee
 airbnb.com.ee
 applestore.com.ee
 blogspot.com.ee
@@ -15726,6 +15731,7 @@ nintendo.eu
 nnews.eu
 nvidia.eu
 nyaa.eu
+odnoklassniki.eu
 onedrive.eu
 ozonru.eu
 pearsonclinical.eu
@@ -15733,6 +15739,7 @@ powerbook.eu
 qtrac.eu
 quicktime.eu
 roblox.eu
+sayeasy.eu
 sony.eu
 sony-promotion.eu
 soundofhope.eu
@@ -18369,6 +18376,7 @@ ikea.lv
 microsoft.lv
 mini-connected.lv
 mt.lv
+odnoklassniki.lv
 sony.lv
 ucoz.lv
 vfsco.lv
@@ -20486,14 +20494,7 @@ putinho.net
 pvp.net
 pximg.net
 pypl.net
-download.qatp1.net
-qagpublic.qatp1.net
-qualysapi.qatp1.net
-qgadmin.qcpp1.net
-scanservice1.qcpp1.net
 qmov.net
-monitoring.qpdp1.net
-qualysguard.qpdp1.net
 quicktime.net
 quoracdn.net
 r-pool.net
@@ -24305,6 +24306,7 @@ google.com.tj
 yahoo.com.tj
 dell.tj
 intel.tj
+odnoklassniki.tj
 wildberries.tj
 yandex.tj
 google.tk
@@ -25146,6 +25148,7 @@ mastercard.ua
 microsoft.ua
 mini.ua
 miniso.ua
+odnoklasniki.ua
 sony.ua
 ucoz.ua
 yandex.ua

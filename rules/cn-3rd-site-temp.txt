@@ -98,6 +98,7 @@ s.union.360.cn
 3ili6.cn
 3type.cn
 40017.cn
+4008-517-517.cn
 42r.cn
 4399.cn
 4399sj.cn
@@ -208,6 +209,7 @@ biomart.cn
 bisheng.cn
 bishengcompiler.cn
 bjctyiptv.cn
+bkchina.cn
 bootcdn.cn
 bosc.cn
 brawlstars.cn
@@ -400,6 +402,7 @@ deppon.com.cn
 dfyun.com.cn
 dfzq.com.cn
 dgzq.com.cn
+dicos.com.cn
 diditaxi.com.cn
 dnspod.com.cn
 dnsv1.com.cn
@@ -452,6 +455,7 @@ hikunpeng.com.cn
 hisilicon.com.cn
 honor.com.cn
 hoopchina.com.cn
+hophing.com.cn
 hrsec.com.cn
 hsbc.com.cn
 hsbcinsurance.com.cn
@@ -485,6 +489,7 @@ jxnews.com.cn
 kaipuyun.com.cn
 kata.com.cn
 keep.com.cn
+kfc.com.cn
 langeasy.com.cn
 learnywhere.com.cn
 lebo.com.cn
@@ -497,6 +502,7 @@ luogu.com.cn
 lydaas.com.cn
 lydass.com.cn
 marscode.com.cn
+mcdonalds.com.cn
 midea.com.cn
 mlzt.com.cn
 modex.com.cn
@@ -822,6 +828,7 @@ hitokoto.cn
 hiu58.cn
 hjfile.cn
 honor.cn
+hophing.cn
 hpplay.cn
 huafeng-accuweather.cn
 huajinsc.cn
@@ -981,6 +988,7 @@ marscode.cn
 mashort.cn
 maxadmin.cn
 mcadn.cn
+mcd.cn
 mcmod.cn
 mcprev.cn
 mdcdn.cn
@@ -1130,6 +1138,8 @@ qiuwenbaike.cn
 qiyou.cn
 qlisten.cn
 qlogo.cn
+qmai.cn
+qmimg.cn
 qpic.cn
 qqmra.cn
 qtfm.cn
@@ -1835,6 +1845,7 @@ alimei.com
 alimmdn.com
 alipan.com
 alipay.com
+alipay-eco.com
 alipaydns.com
 alipaylog.com
 alipaymo.com
@@ -3302,6 +3313,7 @@ hc-cdn.com
 hc-sre.com
 hczq.com
 hdfimg.com
+hdlcdns.com
 hdslb.com
 hdyxgame.com
 healthjd.com
@@ -3458,6 +3470,7 @@ hweventgrid.com
 hwocloud.com
 hwshu.com
 hwtrip.com
+hwwt8.com
 hxfy888.com
 hxsd.com
 hybiome.com
@@ -3858,6 +3871,7 @@ kingdee.com
 kinghomechina.com
 kingsoft.com
 kingsoft-office-service.com
+kiwa-tech.com
 kjcdn.com
 kjwugx.com
 kkmh.com
@@ -4277,6 +4291,7 @@ muzhiwan.com
 mvad.com
 mwcdns.com
 mwcloudcdn.com
+mxbc.com
 mxhichina.com
 my-qcloud.com
 my4399.com
@@ -4649,6 +4664,7 @@ qizuang.com
 ql1d.com
 qlivecdn.com
 qm989.com
+qmai.com
 qmniu.com
 qnsdk.com
 qnssl.com
@@ -4863,6 +4879,7 @@ shuoshuokong.com
 shuqi.com
 shuqireader.com
 shutcm.com
+shuxinyc.com
 shyhhema.com
 shyxhy.com
 shzq.com
@@ -5875,6 +5892,7 @@ yuanzhiyijiantong.com
 yuelun.com
 yuewen.com
 yufuid.com
+yumchina.com
 mirrors.yun-idc.com
 yunaq.com
 yunda56.com
@@ -6506,6 +6524,7 @@ mahjongai.net
 mahjongcup.net
 matpool.net
 mcbbs.net
+mcdchina.net
 medicexam.net
 meishij.net
 meituan.net
@@ -6513,6 +6532,7 @@ mieco.net
 missjia.net
 mndqlib.net
 mszdld.net
+mxbc.net
 myhwclouds.net
 myshow360.net
 nease.net
