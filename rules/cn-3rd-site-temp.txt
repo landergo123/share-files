@@ -3250,6 +3250,7 @@ golinkapi.com
 golinkcn.com
 golue.com
 gongxiangcj.com
+gongxiangjizhang.com
 goofish.com
 goosail.com
 goselling.com
@@ -3498,6 +3499,7 @@ hweventgrid.com
 hwocloud.com
 hwshu.com
 hwtrip.com
+hwwlyz.com
 hwwt8.com
 hxfy888.com
 hxsd.com
@@ -3589,6 +3591,7 @@ imsyy.com
 inanguapi.com
 incopat.com
 indienova.com
+infini-fantasy.com
 infinitynewtab.com
 infoq.com
 infoqstatic.com
@@ -4229,6 +4232,7 @@ miaomiaoz.com
 miaomiaozhe.com
 miaopai.com
 miaostreet.com
+miaotixing.com
 miaoyanai.com
 miaozhen.com
 midasbuy.com
@@ -4876,6 +4880,7 @@ shebiaotm.com
 shellpub.com
 shelter-china.com
 shengdaosoft.com
+shengqugames.com
 shengyizhuanjia.com
 shenjing.com
 shenmayouxi.com
@@ -5017,6 +5022,8 @@ supermapcloud.com
 supet.com
 surerp.com
 sursung.com
+suu-fun.com
+suufun.com
 suzuki-china.com
 swhysc.com
 swsmu.com
@@ -5314,6 +5321,7 @@ ttgtm.com
 ttjisu.com
 ttlivecdn.com
 ttpod.com
+ttshitu.com
 ttwebview.com
 ttwstatic.com
 tudou.com
@@ -5789,12 +5797,14 @@ xxtmail.com
 xycdn.com
 xycloud.com
 xywy.com
+xyys.com
 xzking.com
 yamibo.com
 yangkeduo.com
 yaolan.com
 yaoyl.com
 yaozh.com
+yayi360.com
 ybccode.com
 yccdn.com
 ycgame.com
@@ -6058,6 +6068,7 @@ zjbyte.com
 zjcdn.com
 zjfcdn.com
 zjgslb.com
+zjshulong.com
 zjstv.com
 zjzsa.com
 zmengzhu.com
@@ -6543,6 +6554,7 @@ lenovo.net
 lenovoprinter.net
 lf126.net
 lf127.net
+linka2a.net
 liulanqi.net
 lnlib.net
 longhoo.net
@@ -6851,6 +6863,7 @@ yiqifa.org
 zgjm.org
 wss.pet
 ezpro.pro
+goofish.pro
 dns.pub
 doh.pub
 dot.pub
@@ -6886,6 +6899,7 @@ cuniq.sg
 jd.shop
 mcdemo.show
 wss.show
+ccw.site
 cf-ns.site
 cloud-industry-delivery.site
 coze.site
