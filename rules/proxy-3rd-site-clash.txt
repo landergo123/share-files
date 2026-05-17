@@ -22600,6 +22600,7 @@ payload:
   - '+.youtube.com.pa'
   - '+.intel.pa'
   - '+.youtube.pa'
+  - '+.archlinux.page'
   - '+.business.page'
   - '+.codeberg.page'
   - '+.g.page'
