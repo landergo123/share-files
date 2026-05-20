@@ -152,6 +152,7 @@ allflow.cn
 alyms.cn
 amazonaws.cn
 time.amazonaws.cn
+amazonwebservices.cn
 amazonworkdocs.cn
 amemv.cn
 amzndns-cn.cn
@@ -1372,6 +1373,7 @@ wss1.cn
 wtturl.cn
 wukongwenda.cn
 wuliujie.cn
+wxaurl.cn
 wzlib.cn
 wztsy.cn
 x-station.cn
@@ -1489,6 +1491,7 @@ yyds.co
 119you.com
 123245.com
 123254.com
+123278.com
 123294.com
 123624.com
 123641.com
@@ -1662,6 +1665,7 @@ cps.360buy.com
 51kim.com
 51meishu.com
 51nod.com
+51pptmoban.com
 51selling.com
 51sole.com
 51togic.com
@@ -1958,6 +1962,8 @@ anlaiye.com
 anmo.com
 anquanke.com
 anruan.com
+antafu.com
+antaq.com
 antfin.com
 antfortune.com
 antgroup.com
@@ -2732,6 +2738,7 @@ danji100.com
 danji6.com
 danjuanfunds.com
 dao123.com
+daodoc.com
 daojia.com
 dataeye.com
 dayainfo.com
@@ -3245,6 +3252,7 @@ go2map.com
 gobasearcher.com
 gogokid.com
 gold678.com
+goldhoe.com
 golink.com
 golinkapi.com
 golinkcn.com
@@ -3762,6 +3770,7 @@ jikecdn.com
 jikexueyuan.com
 jikipedia.com
 jin10.com
+jinchutou.com
 jindidata.com
 jingdong.com
 jingdongjinrong.com
@@ -4822,6 +4831,7 @@ ruseer.com
 rwkv.com
 rzrc114.com
 saayaa.com
+safewk.com
 saibo.com
 samasty.com
 sanguosha.com
@@ -5084,6 +5094,7 @@ v6-adashx.ut.taobao.com
 taobaocdn.com
 taobizhong.com
 taoche.com
+taodocs.com
 taomee.com
 taopiaopiao.com
 taou.com
@@ -5597,6 +5608,7 @@ weiyun.com
 welltrend-edu.com
 wenjuan.com
 wenkeju.com
+wenkub.com
 wenmingban.com
 wenshushu.com
 wenxiaozhan.com
@@ -6023,6 +6035,7 @@ zhihu.com
 crash2.zhihu.com
 zhihu-web-analytics.zhihu.com
 zhihuishu.com
+zhijidoc.com
 zhimg.com
 zhipin.com
 zhipucn.com

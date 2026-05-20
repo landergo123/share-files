@@ -23,6 +23,7 @@ amazoninspire.cn
 amazonlaunchpad.cn
 amazonnow.cn
 amazonprimevideo.cn
+amazonwebservices.cn
 amazonworkdocs.cn
 amzndns-cn.cn
 assoc-amazon.cn
