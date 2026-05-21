@@ -73,6 +73,7 @@ dify.ai
 duck.ai
 etna.ai
 forefront.ai
+g.ai
 github.ai
 gmgn.ai
 gmo-research.ai
@@ -88,6 +89,7 @@ javfinder.ai
 jetbrains.ai
 jiuse.ai
 karechat.ai
+leonardo.ai
 lmarena.ai
 lmstudio.ai
 lovart.ai
@@ -96,6 +98,7 @@ meteum.ai
 missav.ai
 mistral.ai
 mlc.ai
+mozilla.ai
 openart.ai
 openclaw.ai
 openrouter.ai
@@ -112,6 +115,7 @@ sider.ai
 simianx.ai
 sokuresu.ai
 suno.ai
+tapnow.ai
 tenbin.ai
 tinkoff.ai
 trae.ai
@@ -197,6 +201,7 @@ one889.app
 organicmaps.app
 pornproxy.app
 pulsebrowser.app
+raphael.app
 rsshub.app
 run.app
 seamlessupdate.app
@@ -12653,6 +12658,7 @@ sorting-algorithms.com
 sos44.com
 soso7778.com
 sosreader.com
+sotwe.com
 soubory.com
 soundcloud.com
 sourceforge.com
@@ -18211,6 +18217,7 @@ jav.la
 javfree.la
 ipfs.lain.la
 madou.la
+mzl.la
 nozomi.la
 sis.la
 ts.la
@@ -22176,6 +22183,7 @@ movements.org
 movidius.org
 mozilla.org
 mdn.mozillademos.org
+mozillafoundation.org
 www.moztw.org
 msa-it.org
 msftnet.org
@@ -25548,6 +25556,7 @@ privatemarketplaces.us
 referer.us
 rixcloud.us
 roblox.us
+rule34.us
 sadpanda.us
 sis001.us
 ss2.us
