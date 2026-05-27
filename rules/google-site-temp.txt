@@ -396,6 +396,7 @@ g0.gstatic.com
 g1.gstatic.com
 g2.gstatic.com
 g3.gstatic.com
+gemini.gstatic.com
 ssl.gstatic.com
 www.gstatic.com
 gstatic-cn.com
