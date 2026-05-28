@@ -434,6 +434,7 @@ mcdelivery.com.au
 mcdonalds.com.au
 mi9.com.au
 mortein.com.au
+motorola.com.au
 myvodafone.com.au
 nab.com.au
 nabtravellercard.com.au
@@ -1209,6 +1210,7 @@ minivictoria.ca
 minivilledequebec.ca
 miniwidget.ca
 miniyaletown.ca
+motorola.ca
 msfteducation.ca
 mucinex.ca
 mybmw.ca
@@ -1671,6 +1673,7 @@ lysol.cl
 mastercard.cl
 microsoft.cl
 mini.cl
+motorola.cl
 pearson.cl
 pinterest.cl
 roblox.cl
@@ -1841,6 +1844,7 @@ jiuse.com.co
 jivochat.com.co
 mastercard.com.co
 mini.com.co
+motorola.com.co
 shopee.com.co
 sony.com.co
 starbucks.com.co
@@ -1908,6 +1912,7 @@ minilondon.co
 miniso.co
 mo.co
 moefuns.co
+motorola.co
 nbc.co
 twister.net.co
 onedrive.co
@@ -7704,6 +7709,7 @@ heiliao88.com
 helloandroid.com
 helloavgirls.com
 hellokittybeats.com
+hellomoto.com
 helloqueer.com
 hellosmartbook.com
 hellporno.com
@@ -9980,7 +9986,12 @@ mostpopularpornsites.com
 motherless.com
 motiongraphicsandmore.com
 motionpictureser.com
+moto.com
 motolia.com
+motorola.com
+motorolacareers.com
+motorolanews.com
+motorolasolutions.com
 motorshowblog.com
 move.com
 moveaws.com
@@ -13012,6 +13023,7 @@ synologydownload.com
 synologyupdate.com
 syosetu.com
 sysinternals.com
+system76.com
 szcheapmonsterheadphones.com
 szwinnertechnology.com
 t-g.com
@@ -15257,6 +15269,7 @@ mini-connected.de
 mini-grouparchiv.de
 mobile.de
 mobileways.de
+motorola.de
 netcup.de
 netcup-news.de
 netcup-sonderangebote.de
@@ -15668,6 +15681,7 @@ mastercard.es
 microsoft.es
 mini.es
 mini-connected.es
+motorola.es
 nintendo.es
 nudevista.es
 nurofen.es
@@ -15960,6 +15974,7 @@ mastercard.fr
 mini.fr
 mini-antilles.fr
 mini-connected.fr
+motorola.fr
 nintendo.fr
 ntdtv.fr
 nurofen.fr
@@ -16216,6 +16231,7 @@ intel.gr
 ipod.gr
 kaspersky.gr
 mastercard.gr
+motorola.gr
 apple.net.gr
 applestore.net.gr
 iphone.net.gr
@@ -16642,6 +16658,7 @@ mcdelivery.co.id
 mcdonalds.co.id
 mini.co.id
 miniso.co.id
+motorola.co.id
 qualcomm.co.id
 shopee.co.id
 sony.co.id
@@ -16846,6 +16863,7 @@ kindle.in
 lnkd.in
 manoramayearbook.in
 mini.in
+motorola.in
 neow.in
 newsmax.in
 nvidia.in
@@ -17148,6 +17166,7 @@ dowjones.io
 dragonex.io
 egghead.io
 element.io
+elementary.io
 elevenlabs.io
 eligens.io
 elsevier.io
@@ -17447,6 +17466,7 @@ mcdonalds.it
 microsoft.it
 mini.it
 mini-connected.it
+motorola.it
 nintendo.it
 nurofen.it
 nvidia.it
@@ -17676,6 +17696,7 @@ mixi.co.jp
 miyazakibank.co.jp
 mizuhobank.co.jp
 morisawa.co.jp
+motorola.co.jp
 musashinobank.co.jp
 nantobank.co.jp
 nexon.co.jp
@@ -20299,6 +20320,7 @@ monsterheadphone.net
 monsterproduct.net
 monstersexporn.net
 monstershopcheapbeats.net
+motorola.net
 move-free.net
 movidius.net
 mozgcp.net
@@ -21895,6 +21917,7 @@ globalvoices.org
 globalvoicesonline.org
 gmoney.org
 gnews.org
+gnome.org
 gnu.org
 go-lang.org
 godbolt.org
@@ -22081,6 +22104,7 @@ kagyuoffice.org
 kali.org
 kantie.org
 kastatic.org
+kde.org
 kernel.org
 keytransparency.org
 khanacademy.org
@@ -22125,6 +22149,7 @@ lsmkorean.org
 lua.org
 lupm.org
 lvhai.org
+lxqt-project.org
 lzmtnews.org
 ma1lib.org
 macosforge.org
@@ -22139,6 +22164,7 @@ martsangkagyuofficial.org
 marxists.org
 mastercardcenter.org
 mastercardcenterforinclusivegrowth.org
+mate-desktop.org
 matrix.org
 mcrouter.org
 md-t.org
@@ -22326,6 +22352,7 @@ pirates-forum.org
 piwheels.org
 pixiv.org
 planetsuzy.org
+plasma-mobile.org
 platinumlinks.org
 pleasefuck.org
 plos.org
@@ -22728,6 +22755,7 @@ x-wall.org
 xbox.org
 xbox360.org
 xdty.org
+xfce.org
 xiaoma.org
 www.xicons.org
 xinjiangpolicefiles.org
@@ -22816,6 +22844,7 @@ intel.com.pe
 jivochat.com.pe
 mastercard.com.pe
 mini.com.pe
+motorola.com.pe
 nvidia.com.pe
 pinterest.com.pe
 sony.com.pe
@@ -23003,6 +23032,7 @@ google.com.pr
 scholar.google.com.pr
 ikea.com.pr
 intel.com.pr
+motorola.com.pr
 visa.com.pr
 yahoo.com.pr
 ikea.pr
@@ -24427,6 +24457,7 @@ itunes.co.th
 kaspersky.co.th
 mastercard.co.th
 mini.co.th
+motorola.co.th
 shopee.co.th
 sony.co.th
 starbucks.co.th
@@ -25401,6 +25432,7 @@ mcdonalds.co.uk
 metro.co.uk
 mini.co.uk
 mini-connected.co.uk
+motorola.co.uk
 my-private-network.co.uk
 mytimesplus.co.uk
 natgeokidsbooks.co.uk
@@ -25747,6 +25779,7 @@ icloud.vn
 intel.vn
 microsoft.vn
 minisovietam.vn
+motorola.vn
 pinterest.vn
 roblox.vn
 shopee.vn

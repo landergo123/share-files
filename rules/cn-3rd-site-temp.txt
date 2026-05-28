@@ -28,6 +28,7 @@ bkclouds.cc
 bsurl.cc
 chaoxing.cc
 cibn.cc
+diyring.cc
 dongjiao.cc
 dpma.cc
 heavenlywind.cc
@@ -352,6 +353,7 @@ awsapps.com.cn
 baidu.com.cn
 baiying.com.cn
 bankofbeijing.com.cn
+bbtnews.com.cn
 beingfine.com.cn
 bestpay.com.cn
 bestv.com.cn
@@ -375,6 +377,7 @@ chdi.com.cn
 chei.com.cn
 chesicc.com.cn
 chinabank.com.cn
+chinadevelopment.com.cn
 chinanature.com.cn
 chinanews.com.cn
 chinapost.com.cn
@@ -424,6 +427,7 @@ dzh.com.cn
 easec.com.cn
 ebf.com.cn
 ectencent.com.cn
+eeo.com.cn
 efunds.com.cn
 ems.com.cn
 esp8266.com.cn
@@ -940,6 +944,8 @@ kafan.cn
 kaipuyun.cn
 kc9.cn
 kdocs.cn
+kemen.cn
+kepuchina.cn
 kfomn.cn
 kglink.cn
 kimg.cn
@@ -1017,6 +1023,7 @@ midea.cn
 mifile.cn
 migu.cn
 mindspore.cn
+mioffice.cn
 mirrorcast.cn
 mle5p.cn
 modelarts-infer.cn
@@ -1048,6 +1055,7 @@ neihancommunity.cn
 neixin.cn
 nellit.cn
 nesc.cn
+cfgw.net.cn
 chelaile.net.cn
 chesicc.net.cn
 citv.net.cn
@@ -1386,6 +1394,7 @@ xiaomidns.cn
 xiaomiinc.cn
 xiaomisa.cn
 xiguaapp.cn
+xiguacity.cn
 xiguashipin.cn
 xiguavideo.cn
 xinlingshou.cn
@@ -1409,6 +1418,7 @@ ynctyiptv.cn
 ynet.cn
 ynjtyiptv.cn
 yoma.cn
+youlai.cn
 youpin.cn
 ytokj.cn
 ytoluohan.cn
@@ -1474,6 +1484,7 @@ yyds.co
 10010.com
 100bt.com
 100offer.com
+100tal.com
 10155.com
 11467.com
 114blog.com
@@ -1551,6 +1562,7 @@ uu.163.com
 1ting.com
 1zhe.com
 21cn.com
+21cnjy.com
 21jingji.com
 2265.com
 2345.com
@@ -1970,11 +1982,13 @@ antfortune.com
 antgroup.com
 anticheatexpert.com
 antpcdn.com
+antpedia.com
 antutu.com
 anxia.com
 anycross.com
 anytocopy.com
 anywlan.com
+aoshu.com
 aoyou.com
 apaas-zone-test.com
 apabi.com
@@ -2478,6 +2492,7 @@ chinacache.com
 chinachugui.com
 chinadongchu.com
 chinaexpressair.com
+chinafix.com
 chinafph.com
 chinahr.com
 chinakaoyan.com
@@ -2954,6 +2969,8 @@ edgesrv.com
 edu4399.com
 eduapaashwc.com
 eduei.com
+eduu.com
+eduuu.com
 eeyy.com
 eflycloud.com
 ehaier.com
@@ -2980,6 +2997,7 @@ et0731.com
 etao.com
 ets100.com
 everbright.com
+ewdcloud.com
 exiliumgf.com
 exmailgz.com
 expreview.com
@@ -3203,6 +3221,7 @@ ganjiangvpn.com
 ganjistatic1.com
 gaode.com
 gaodun.com
+gaokao.com
 gaoshouyou.com
 gaoxiaojob.com
 gcloudcache.com
@@ -4002,6 +4021,9 @@ kunlunvi.com
 kunlunwe.com
 kuqin.com
 kurogames.com
+kuyin123.com
+kuyinxiu.com
+kuyinyun.com
 kuyiso.com
 kwaicdn.com
 kwaizt.com
@@ -4235,6 +4257,8 @@ mi.com
 ad.mi.com
 c.mi.com
 sentry.d.mi.com
+mi-dun.com
+mi-fds.com
 mi-idc.com
 mi-img.com
 miaibox.com
@@ -4846,6 +4870,7 @@ sbsjk.com
 sc96655.com
 scdng.com
 schoopia.com
+sckg.com
 scm121.com
 scoregg.com
 scratch5.com
@@ -5066,6 +5091,7 @@ taikanglife.com
 taikangzhijia.com
 tajiduo.com
 takungpao.com
+tal.com
 talkingdata.com
 talkinggame.com
 tamaegis.com
@@ -6116,6 +6142,7 @@ zuk.com
 zuodao.com
 zuowen.com
 zuowen8.com
+zuowenjun.com
 zuoyebang.com
 zxhgroup.com
 zxxk.com
@@ -6429,6 +6456,7 @@ cthcdn.net
 ctlcdn.net
 ctxcdn.net
 ctycdn.net
+cyol.net
 dangbei.net
 dbankedge.net
 dcloudlive.net
@@ -6801,6 +6829,7 @@ zijiewap.net
 zjbyte.net
 zjzs.net
 zto.net
+zuowenku.net
 zuowenwang.net
 zysn.net
 jutongbao.online
