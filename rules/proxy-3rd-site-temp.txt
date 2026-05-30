@@ -7179,6 +7179,7 @@ gekkan-bushi.com
 gelbooru.com
 gemfury.com
 gemini.com
+gencraft.com
 geneticconstructor.com
 genius.com
 genkai-hounyo.com
@@ -14817,7 +14818,6 @@ yeyeclub.com
 ygugu4.com
 yho.com
 yibaochina.com
-yidio.com
 yigeni.com
 yimg.com
 yingpianqu.com
@@ -17332,6 +17332,7 @@ unisat.io
 userpxt.io
 vaultproject.io
 vday.io
+veed.io
 vkpay.io
 vrcams.io
 vsassets.io
@@ -18888,6 +18889,7 @@ bmw.mq
 dell.mq
 mini.mq
 visa.mq
+as.mr
 1drv.ms
 aka.ms
 appcenter.ms
