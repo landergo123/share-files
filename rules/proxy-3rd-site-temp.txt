@@ -15784,6 +15784,7 @@ nvidia.eu
 nyaa.eu
 odnoklassniki.eu
 onedrive.eu
+opac-project.eu
 ozonru.eu
 pearsonclinical.eu
 powerbook.eu
@@ -22139,6 +22140,7 @@ linux.org
 linuxfoundation.org
 linuxfromscratch.org
 listenbrainz.org
+livinno.org
 chat.lmsys.org
 localxlist.org
 lokinet.org
