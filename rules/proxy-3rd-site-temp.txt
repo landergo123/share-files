@@ -6540,6 +6540,7 @@ fastindianporn.com
 fastly.com
 fastly-edge.com
 google-ohttp-relay-safebrowsing.fastly-edge.com
+mozilla-ohttp.fastly-edge.com
 fastly-terrarium.com
 fastlylabs.com
 fastssh.com
@@ -14549,9 +14550,12 @@ xh-porn.com
 xhamster.com
 xhamster18.com
 xhamster19.com
+xhamster2.com
 xhamster3.com
 xhamsterlive.com
 xhcdn.com
+xhpingcdn.com
+xhreal5.com
 xiangrikui-app.com
 xiaogirls.com
 xiaohexie.com
@@ -18355,6 +18359,7 @@ tig-ol-bitties.live
 vercel.live
 vkplay.live
 vrcdn.live
+xhnews.live
 zb.live
 apple.lk
 bmw.lk
@@ -25550,6 +25555,7 @@ clearasil.us
 cq99.us
 device-manager.us
 devio.us
+disq.us
 dit-inc.us
 donmai.us
 dontbubble.us
