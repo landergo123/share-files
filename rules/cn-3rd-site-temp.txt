@@ -1085,6 +1085,7 @@ zdnscloud.net.cn
 zggbdszt.net.cn
 zygbdszt.net.cn
 news.cn
+newsimg.cn
 nga.cn
 nihaorwanda.cn
 nio.cn
@@ -1436,6 +1437,7 @@ z95rr.cn
 zdns.cn
 zdnscloud.cn
 zggbdszt.cn
+zgjx.cn
 zhaomi.cn
 ai.zhaomi.cn
 zhaopin.cn
@@ -2508,6 +2510,7 @@ chinanews.com
 chinaott.com
 chinapay.com
 chinapost-life.com
+chinaqw.com
 chinaso.com
 chinasspp.com
 chinatelecom-h.com
@@ -3885,6 +3888,7 @@ juwan.com
 juxia.com
 juxieyun.com
 juziwulian.com
+jwview.com
 jxedt.com
 jxpp.com
 jyeoo.com
@@ -6220,6 +6224,7 @@ ugslb.info
 unaming.info
 wscdns.info
 wting.info
+xinmeng.info
 zdnscloud.info
 dji.ink
 qd.ink
@@ -6439,6 +6444,7 @@ cloudfront-cn.net
 cnki.net
 cnlaw.net
 cnmstl.net
+cnsimg.net
 codechina.net
 coding.net
 coloros.net
@@ -6720,6 +6726,7 @@ tendis.net
 texasholdemcup.net
 tgprocs.net
 thinkprinter.net
+tianya.net
 tiapi.net
 tidb.net
 tiexue.net
