@@ -2,6 +2,7 @@ comments.app
 contest.com
 fragment.com
 tdesktop.com
+toncenter.com
 tg.dev
 usercontent.dev
 quiz.directory

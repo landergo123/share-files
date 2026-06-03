@@ -401,7 +401,6 @@ ssl.gstatic.com
 www.gstatic.com
 gstatic-cn.com
 gsuite.com
-gv.com
 gvt0.com
 gvt1.com
 redirector.gcpcdn.gvt1.com
@@ -477,6 +476,7 @@ studywatchbyverily.com
 stxmosquito.com
 stxmosquitoproject.com
 synergyse.com
+tenor.com
 thecleversense.com
 thegooglestore.com
 thinkquarterly.com
@@ -491,12 +491,10 @@ usvimosquito.com
 usvimosquitoproject.com
 utdstc.com
 velostrata.com
-verily.com
 verilylifesciences.com
 verilystudyhub.com
 verilystudywatch.com
 wallet.com
-waymo.com
 waze.com
 webappfieldguide.com
 webpkgcache.com
@@ -1098,7 +1096,6 @@ xn--flw351e
 xn--q9jyb4c
 xn--p8j9a0d9c9a.xn--q9jyb4c
 xn--qcka1pmc
-abc.xyz
 apkpures.xyz
 youtube
 blogspot.co.za
