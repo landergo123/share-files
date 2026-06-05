@@ -1351,6 +1351,7 @@ uczzd.cn
 udalogistic.cn
 udesk.cn
 ugslb.cn
+ultimatemusic.cn
 ume-trip.cn
 unaming.cn
 uncnn.cn
@@ -1791,6 +1792,7 @@ cps.360buy.com
 95516.com
 9553.com
 9718.com
+97ting.com
 99166.com
 998.com
 999d.com
@@ -4833,9 +4835,11 @@ gouhuo.qq.com
 hq-tracking.qq.com
 adfilter.imtt.qq.com
 isdspeed.qq.com
+kg.qq.com
 mdt.qq.com
 mpush.qq.com
 mtrace.qq.com
+music.qq.com
 monitor.music.qq.com
 pingjs.qq.com
 push.qq.com
@@ -4854,6 +4858,7 @@ monitor.uu.qq.com
 ad.weixin.qq.com
 wetv.qq.com
 wit.qq.com
+y.qq.com
 stat.y.qq.com
 tmead.y.qq.com
 tmeadcomm.y.qq.com
@@ -4864,6 +4869,7 @@ qqgamedesign.com
 qqgexingqianming.com
 qqmail.com
 qqmra.com
+qqmusic.com
 qqrizhi.com
 qqshuoshuo.com
 qschou.com
@@ -5250,6 +5256,7 @@ ntp3.tencent.com
 ntp4.tencent.com
 ntp5.tencent.com
 tpstelemetry.tencent.com
+yuanbao.tencent.com
 yuanqi.tencent.com
 tencent-cloud.com
 tencent-gcloud.com
@@ -5356,6 +5363,7 @@ timedoo.com
 timibase.com
 timmerse.com
 tingbook.com
+tingmall.com
 tingyun.com
 titanar.com
 tivitv.com
@@ -5699,6 +5707,7 @@ weicaifu.com
 weidian.com
 weilaicaijing.com
 weilaiyunxiao.com
+weishi.com
 weixinbridge.com
 badjs.weixinbridge.com
 weixing.com
@@ -5929,6 +5938,7 @@ ycwb.com
 ydamc.com
 ydstatic.com
 yebaojiasu.com
+yebinnet.com
 yeepay.com
 yeshen.com
 yeshj.com
@@ -6008,6 +6018,8 @@ h-adashx.ut.youku.com
 s-adashx.ut.youku.com
 v6-adashx.ut.youku.com
 ykad-data.youku.com
+youkuhonor.com
+youkuplay.com
 youshang.com
 youxiake.com
 youxichaguan.com
@@ -6669,6 +6681,7 @@ kaipuyun.net
 kantianqi.net
 kejet.net
 kugou.net
+kurogames.net
 laomaotao.net
 lark-passport-qa-sg.net
 larkcloud.net
@@ -7114,6 +7127,7 @@ wasu.tv
 wol.tv
 xiaoka.tv
 yixi.tv
+youku.tv
 zhanqi.tv
 alibabacloud.com.tw
 momomall.com.tw
