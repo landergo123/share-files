@@ -9,6 +9,7 @@ cursor.com
 cursor-cdn.com
 cursorapi.com
 oaistatic.com
+oaistatsig.com
 oaiusercontent.com
 openai.com
 sora.com

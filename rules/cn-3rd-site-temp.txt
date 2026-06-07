@@ -332,6 +332,7 @@ cmvideo.cn
 cnr.cn
 cntv.cn
 cntvwb.cn
+cnwza.cn
 codebuddy.cn
 10010.com.cn
 10099.com.cn
@@ -564,6 +565,7 @@ right.com.cn
 rt-mart.com.cn
 rtx.com.cn
 sagemaker.com.cn
+sangfor.com.cn
 seeed.com.cn
 seeedstudio.com.cn
 sf-tech.com.cn
@@ -735,6 +737,7 @@ dewus.cn
 dewuyouhui.cn
 dhsvc.cn
 dianwoda.cn
+dict.cn
 didi.cn
 diiing.cn
 dingtalk.cn
@@ -829,6 +832,7 @@ gmedev.cn
 gongqingyun.cn
 goproxy.cn
 gov.cn
+govwza.cn
 gpall.cn
 gree.cn
 growin.cn
@@ -1024,6 +1028,7 @@ mafengwo.cn
 mahjongcup.cn
 maimai.cn
 mala.cn
+mama.cn
 mamayz.cn
 maoyuncloud.cn
 marscode.cn
@@ -1160,6 +1165,7 @@ people.cn
 pg0.cn
 phira.cn
 phoenixcenter.cn
+php.cn
 picpic-ai.cn
 pingcap.cn
 pinyin.cn
@@ -1182,6 +1188,7 @@ qftexpay.cn
 qihuapi.cn
 qingfuwu.cn
 qingfuwuapi.cn
+qingque.cn
 qishui.cn
 qishuimusic.cn
 qiuwenbaike.cn
@@ -1582,6 +1589,7 @@ uu.163.com
 17zuoye.com
 18183.com
 188.com
+189smarthome.com
 1905.com
 19yxw.com
 1huizhan.com
@@ -1851,6 +1859,7 @@ aiops.com
 aipage.com
 aipai.com
 aiqicha.com
+air-matters.com
 airchangan.com
 airchinacargo.com
 airguilin.com
@@ -2020,6 +2029,7 @@ anxia.com
 anycross.com
 anytocopy.com
 anywlan.com
+aocde.com
 aoshu.com
 aoyou.com
 apaas-zone-test.com
@@ -2478,6 +2488,7 @@ cdnhwczmn114.com
 cdnhwczth23.com
 cdnhwcztu09.com
 cdnhwczxh101.com
+cdnmama.com
 cdnmg.com
 cdntip.com
 cdntips.com
@@ -2936,6 +2947,7 @@ dreams-travel.com
 drivergenius.com
 drp321.com
 dtstatic.com
+duanshu.com
 duapp.com
 duapps.com
 duba.com
@@ -3222,6 +3234,7 @@ funnycore.com
 funshion.com
 fuwai.com
 fuwj.com
+fxbaogao.com
 fxt365.com
 fxxz.com
 fyeds.com
@@ -3460,8 +3473,12 @@ hikiot.com
 hikmall.com
 hikunpeng.com
 hikvision.com
+hisense.com
+hisense-home.com
 hisensehitachi.com
+hisensekf.com
 hisilicon.com
+hismarttv.com
 hitevision-solutions.com
 hitv.com
 hiyd.com
@@ -3594,6 +3611,7 @@ ibdxiguastatic.com
 ibdxiguavod.com
 ibidian.com
 ibobscs.com
+iboxpay.com
 ibuychem.com
 ibytedapm.com
 ibytedtos.com
@@ -3635,6 +3653,7 @@ igetget.com
 igetui.com
 igexin.com
 igtm-meeting-tencent.com
+iguopin.com
 igwfmc.com
 ihaohaoxuexi.com
 ihappystudio.com
@@ -3898,6 +3917,7 @@ jmstatic.com
 job5588.com
 job910.com
 jobjm.com
+joinpay.com
 jokecommunity.com
 jomodns.com
 jomoxc.com
@@ -3994,6 +4014,7 @@ kjwugx.com
 kkmh.com
 kksmg.com
 kkzj.com
+klingai.com
 klpbbs.com
 knewsmart.com
 kongfz.com
@@ -4157,6 +4178,7 @@ lecloud.com
 lecloudapi.com
 ledu.com
 leetcode-cn.com
+lehuipay.com
 leigod.com
 leigodjsq.com
 leikeji.com
@@ -4547,6 +4569,8 @@ nffund.com
 ngabbs.com
 nicaifu.com
 ningtingche.com
+nio.com
+niohome.com
 nlark.com
 nmrdata.com
 nn.com
@@ -5141,6 +5165,7 @@ suzuki-china.com
 swhysc.com
 swsmu.com
 sxcxldjy.com
+sxlcdn.com
 sxsimg.com
 sydw8.com
 sys321.com
@@ -6119,6 +6144,7 @@ zdmimg.com
 zdnscloud.com
 zealer.com
 zebracdn.com
+zeekrgroup.com
 zeekrlife.com
 zenlesszonezero.com
 zgbk.com
@@ -6173,6 +6199,7 @@ zhuanzfx.com
 zhuanzhuan.com
 zhuayoukong.com
 zhubajie.com
+zhuge.com
 zhulang.com
 zhuoyou.com
 zhuoyuegame.com
@@ -6711,6 +6738,7 @@ mcdchina.net
 medicexam.net
 meishij.net
 meituan.net
+mfuns.net
 mieco.net
 missjia.net
 mndqlib.net
@@ -6966,6 +6994,7 @@ hujia.org
 ibcet.org
 ica-alliance.org
 icourse163.org
+juhaokan.org
 kechuang.org
 laomaotao.org
 lawyee.org
