@@ -73,6 +73,7 @@ devin.ai
 devv.ai
 dify.ai
 duck.ai
+zklighter.elliot.ai
 etna.ai
 forefront.ai
 g.ai
@@ -1122,6 +1123,7 @@ dell.ca
 disney.ca
 dreambmw.ca
 duckduckgo.ca
+ebates.ca
 ebay.ca
 ebaymotors.ca
 enfamil.ca
@@ -1235,6 +1237,7 @@ psiphon.ca
 quickbooksenligne.ca
 radio-canada.ca
 rakuten.ca
+rakutengiftcards.ca
 rcinet.ca
 roblox.ca
 shopadidas.ca
@@ -2733,6 +2736,7 @@ alliancesages.com
 allinfa.com
 allinternal.com
 alljapanesepass.com
+allkeyshop.com
 allmomsex.com
 allmovie.com
 allover30.com
@@ -3389,6 +3393,7 @@ avcnn.com
 avcrempie.com
 avelip.com
 aventertainments.com
+avermedia.com
 avg.com
 avgigi.com
 avgle.com
@@ -4488,6 +4493,7 @@ buyoculus.com
 buyonlineheadphones.com
 buypass.com
 buypass-ssl.com
+buyservices.com
 buyshoponly.com
 buzzardflapper.com
 buzzav.com
@@ -5038,6 +5044,7 @@ coinbase.com
 coinbene.com
 coindesk.com
 coinex.com
+coingate.com
 coingecko.com
 coingi.com
 coinglass.com
@@ -5570,6 +5577,7 @@ discordstatus.com
 discountbeatsbydre-us.com
 discountbeatsstore.com
 discountedporn.com
+discourse-cdn.com
 discoveryplus.com
 discreet.com
 discussionsapple.com
@@ -5892,6 +5900,7 @@ eater.com
 academic.eb.com
 ebahy.com
 ebalovo.com
+ebatescanada.com
 ebay.com
 ebay-confirm.com
 ebay-course.com
@@ -6000,6 +6009,7 @@ ebscohost.com
 ebtcbank.com
 ebuyer.com
 ebuyheadphones.com
+ecbsn.com
 echichimato.com
 echocdn.com
 echosign.com
@@ -6039,6 +6049,7 @@ elderscrolls.com
 electbabe.com
 electricluxury.com
 electronicarts.com
+elegantthemes.com
 elephantlist.com
 elephanttube.com
 elephanttubenew.com
@@ -6565,6 +6576,7 @@ fastssh.com
 fasttrackreadysupport.com
 fatbtc.com
 fatstube.com
+fatwallet.com
 favebook.com
 favelaporno.com
 favepornmovs.com
@@ -6661,6 +6673,7 @@ fi11av1.com
 fi11tv1.com
 ficador.com
 ficeboock.com
+ficgs.com
 ficmania.com
 fifastreet.com
 fifastreet3.com
@@ -7057,6 +7070,7 @@ fullhdxxx.com
 fullpornnetwork.com
 fullservicegame.com
 fullsexmovs.com
+fullstory.com
 fundaiphone5s.com
 fundfire.com
 fundinginstitutional.com
@@ -7125,7 +7139,9 @@ gamesathletes.com
 gamesfirsthelsinki.com
 gamesfuckgirls.com
 gamesofdesire.com
+gamesplanet.com
 gamesstack.com
+gametap.com
 gameuxmasterguide.com
 gaming-notebooks.com
 ganjing.com
@@ -7267,6 +7283,7 @@ ggpht.com
 ggsel.com
 ggsrv.com
 ggssl.com
+ghe.com
 ghettotube.com
 ghostgames.com
 ghostpath.com
@@ -7530,6 +7547,7 @@ gotporn.com
 gotrusted.com
 governmentengineer.com
 govforce.com
+gpstatic.com
 gpstheseries.com
 gputechconf.com
 gr-assets.com
@@ -11851,6 +11869,7 @@ raggedbanner.com
 rajwaphq.com
 rakuten.com
 rakuten-static.com
+rakutenadvertising.com
 randyblue.com
 blog.ranxiang.com
 rapidmoviez.com
@@ -12084,6 +12103,7 @@ roxired.com
 royalcams.com
 rpglogs.com
 rprimelab.com
+rrcbsn.com
 rrtis.com
 rs1024.com
 rs2022.com
@@ -13979,6 +13999,7 @@ vidspornoduro.com
 viewgals.com
 viewpointsfromfacebook.com
 vigorgame.com
+viki.com
 vikiporn.com
 vilavpn.com
 vimeo.com
@@ -15414,6 +15435,7 @@ your-storagebox.de
 your-storageshare.de
 youtube.de
 zukunftswerkstatt.de
+gg.deals
 dell
 hentai.desi
 sextube.desi
@@ -15888,6 +15910,7 @@ vercel.events
 dydx.exchange
 himalaya.exchange
 infosec.exchange
+lighter.exchange
 rtde.expert
 ozon.express
 rtde.express
@@ -16315,6 +16338,7 @@ yahoo.gr
 youtube.gr
 verpeliculasporno.gratis
 bighead.group
+discourse.group
 jmcomic.group
 mindbox.group
 signal.group
@@ -18053,6 +18077,8 @@ wadax.ne.jp
 ync.ne.jp
 newsmart.jp
 nexton-net.jp
+nhk.jp
+nhkworld.jp
 nhncorp.jp
 nicodic.jp
 nicomanga.jp
@@ -18075,6 +18101,7 @@ omorashi.jp
 onlinegamer.jp
 opentimetable.jp
 boj.or.jp
+nhk.or.jp
 nochubank.or.jp
 ntp1.plala.or.jp
 ntp2.plala.or.jp
@@ -18255,6 +18282,7 @@ mini.co.kr
 news.mt.co.kr
 blizzard.nefficient.co.kr
 nexoncdn.co.kr
+nexongames.co.kr
 nintendo.co.kr
 ntdtv.co.kr
 nvidia.co.kr
@@ -18276,6 +18304,7 @@ webex.co.kr
 yahoo.co.kr
 youtube.co.kr
 ytn.co.kr
+ebates.kr
 flic.kr
 huffingtonpost.kr
 ikea.kr
@@ -19575,6 +19604,7 @@ bestvpnforchina.net
 betaclouds.net
 bethesda.net
 betterhash.net
+bfads.net
 bigtitsgallery.net
 biguz.net
 billmelater.net
@@ -20306,6 +20336,7 @@ kakaocdn.net
 keiba.net
 kenyaraha.net
 khangar.net
+kinguin.net
 kir2kos.net
 kisscos.net
 kompozer.net
@@ -20507,6 +20538,7 @@ netpornsex.net
 new-jero.net
 newlysprung.net
 newpipe.net
+nexon.net
 nextechafrica.net
 nflximg.net
 nflxsearch.net
@@ -21234,6 +21266,7 @@ dell.ng
 intel.ng
 jivochat.ng
 youtube.ng
+nhk
 12diasderegalosdeitunes.co.ni
 visa.co.ni
 12diasderegalosdeitunes.com.ni
@@ -21852,6 +21885,7 @@ devcon.org
 diaoyuislands.org
 digitalassetlinks.org
 dirtyscat.org
+discourse.org
 discovershiretoko.org
 diyin.org
 dlercloud.org
@@ -22904,6 +22938,7 @@ wmflabs.org
 wmfusercontent.org
 wnacg.org
 wokar.org
+wordcamp.org
 wordpress.org
 work2icu.org
 workerempowerment.org
@@ -24276,6 +24311,7 @@ zaobao.com.sg
 dell.sg
 disney.sg
 duckduckgo.sg
+ebates.sg
 ebay.sg
 ebayexpress.sg
 g-ib.sg
@@ -25165,6 +25201,7 @@ pvp.tv
 pypl.tv
 quicktime.tv
 qzav.tv
+rakuten.tv
 ravm.tv
 realamericanstories.tv
 reckittbenckiser.tv
@@ -26362,6 +26399,7 @@ hongjie10.xyz
 hongjie11.xyz
 honven.xyz
 huaxin-lls.xyz
+hyperliquid.xyz
 ikanhm.xyz
 ikanmh.xyz
 imgschan.xyz
@@ -26385,6 +26423,7 @@ kaob3.xyz
 kinguno.xyz
 ku77.xyz
 kun66.xyz
+lighter.xyz
 llwht88.xyz
 love7.xyz
 lrysgee.xyz

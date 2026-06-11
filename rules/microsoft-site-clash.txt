@@ -222,6 +222,7 @@ payload:
   - '+.gears5.com'
   - '+.gearspop.com'
   - '+.gearstactics.com'
+  - '+.ghe.com'
   - '+.gigjam.com'
   - '+.github.com'
   - '+.collector.github.com'

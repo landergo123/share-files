@@ -1364,6 +1364,7 @@ payload:
   - '+.wmcloud.org'
   - '+.wmflabs.org'
   - '+.wmfusercontent.org'
+  - '+.wordcamp.org'
   - '+.wordpress.org'
   - '+.yandex.org'
   - '+.yandexwebcache.org'
