@@ -185,6 +185,7 @@ cobrasearch.com
 codespot.com
 conscrypt.com
 coova.com
+crashlytics.com
 firebase-settings.crashlytics.com
 update.crashlytics.com
 crossmediapanel.com
@@ -858,6 +859,7 @@ picasaweb.net
 recaptcha.net
 www.recaptcha.net
 recaptcha-cn.net
+www.recaptcha-cn.net
 stxmosquitoproject.net
 txcloud.net
 new

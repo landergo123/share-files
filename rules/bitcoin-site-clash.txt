@@ -1,4 +1,5 @@
 payload:
+  - '+.okx.ac'
   - '+.binancezh.be'
   - '+.binancezh.biz'
   - '+.bybit.biz'

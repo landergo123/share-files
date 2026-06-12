@@ -2,6 +2,7 @@
     "version": 3,
     "rules": [{
         "domain_suffix": [
+            "okx.ac",
             "binancezh.be",
             "binancezh.biz",
             "bybit.biz",
