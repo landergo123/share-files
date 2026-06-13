@@ -360,6 +360,7 @@ payload:
   - '+.huoshanvod.com'
   - '+.huoshanzhibo.com'
   - '+.hypercachenet.com'
+  - '+.hypercachenode.com'
   - '+.ibdxiguaimg.com'
   - '+.ibdxigualive.com'
   - '+.ibdxiguastatic.com'
