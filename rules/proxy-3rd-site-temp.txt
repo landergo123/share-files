@@ -213,6 +213,7 @@ shop.app
 sih.app
 sing-box.app
 singlelogin.app
+solidifi.app
 ss7.app
 vanadium.app
 vercel.app
@@ -751,6 +752,7 @@ zooporno.biz
 zzdh.biz
 blogspot.bj
 google.bj
+bnappweb.black
 appleone.blog
 filmeporno.blog
 filmesdesexo.blog
@@ -1352,6 +1354,7 @@ boqitube.cc
 boylove.cc
 boylove1.cc
 boyloves.cc
+bsappapi.cc
 camcam.cc
 cccat.cc
 cdnmhws.cc
@@ -1729,6 +1732,7 @@ nicegram.cloud
 oath.cloud
 paofu.cloud
 gateway.pinata.cloud
+reg.cloud
 renzhe.cloud
 soundcloud.cloud
 timeweb.cloud
@@ -1916,6 +1920,7 @@ livemodels.co
 macbook.co
 macbookpro.co
 maying.co
+mexc.co
 minilondon.co
 miniso.co
 mo.co
@@ -1937,6 +1942,7 @@ radio.co
 radioline.co
 rblx.co
 rentry.co
+rsk.co
 saasexch.co
 scdn.co
 sego8.co
@@ -3086,9 +3092,10 @@ applle.com
 applw.com
 appmediagroup.com
 approvedusedbmw.com
-appsflayer.com
+zftksc.cdn-settings.appsflyersdk.com
 roovza.inapps.appsflyersdk.com
 roovza.launches.appsflyersdk.com
+zftksc.launches.appsflyersdk.com
 roovza-launches.appsflyersdk.com
 roovza.skadsdk.appsflyersdk.com
 xhpjc6-cdn-settings.appsflyersdk.com
@@ -4415,6 +4422,7 @@ brutalfetish.com
 brutaltgp.com
 bs-adreview.com
 bsappapi.com
+bscdnweb.com
 bstatic.com
 bt4gprx.com
 bt95.com
@@ -6674,6 +6682,7 @@ fgacebook.com
 fi11.com
 fi11av1.com
 fi11tv1.com
+fiat24.com
 ficador.com
 ficeboock.com
 ficgs.com
@@ -8672,6 +8681,7 @@ cbsi.live.ott.irdeto.com
 ironsocket.com
 irribay.com
 isaacmao.com
+isafepal.com
 isbgpsafeyet.com
 ischool.com
 isheppc.com
@@ -9626,6 +9636,7 @@ meetfasttrack.com
 meetsmartbook.com
 meetyourdevices.com
 megacamz.com
+megaeth.com
 megafilmporno.com
 megafon.com
 megapornfreehd.com
@@ -12024,6 +12035,7 @@ redwap-xxx.com
 redzonechannel.com
 reflectivecode.com
 reform-apple.com
+reg.com
 regex101.com
 regiongold.com
 registerhulu.com
@@ -12180,6 +12192,7 @@ sadistic-v.com
 saerock.com
 safechat.com
 safeguarddefenders.com
+safepal.com
 safervpn.com
 saffrontech.com
 sagepub.com
@@ -12923,6 +12936,7 @@ stcroixmosquitoproject.com
 steam-api.com
 steam-chat.com
 steamcommunity.com
+steamconnecttest.com
 steamcontent.com
 steamdeck.com
 steamgames.com
@@ -13374,6 +13388,7 @@ thinkingtaiwan.com
 thinkofliving.com
 thinkquarterly.com
 thinkwithgoogle.com
+thirdweb.com
 thisav.com
 thisisgame.com
 thisispolaris.com
@@ -16025,6 +16040,7 @@ savethedate.foo
 camwhores.forum
 dat.foundation
 ethereum.foundation
+fantom.foundation
 grapheneos.foundation
 lfai.foundation
 fox
@@ -17196,6 +17212,7 @@ rtbrasil.info
 rtde.info
 rtdefree.info
 rutor.info
+saasexch.info
 savethesounds.info
 sca-tolo.info
 secure-paypal.info
@@ -17269,6 +17286,7 @@ bcovlive.io
 bisq.io
 bitbucket.io
 bitsquare.io
+blast.io
 blockfrost.io
 botmechanic.io
 businessfocus.io
@@ -17396,9 +17414,12 @@ nginxconfig.io
 ngrok.io
 nhentai.io
 nlm.io
+nodereal.io
 nomadproject.io
+oasis.io
 olevod.io
 oneapi.io
+onfinality.io
 ooni.io
 opencas.io
 opensea.io
@@ -21230,8 +21251,11 @@ zuckerberg.net
 ipfs.eth.aragon.network
 bisq.network
 bsky.network
+chainid.network
 test-ipv6.epic.network
 fanqiang.network
+fantom.network
+flare.network
 grapheneos.network
 hath.network
 v2.hysteria.network
@@ -21727,6 +21751,7 @@ b-ok.org
 baijie.org
 baizhi.org
 bannedbook.org
+base.org
 baselinestudy.org
 basilisk-browser.org
 bdsmboard.org
@@ -21745,12 +21770,14 @@ bitbucket.org
 bitcoin.org
 bitcoincore.org
 bitcointalk.org
+bitlayer.org
 bitterwinter.org
 bjzc.org
 blender.org
 blink.org
 blogtd.org
 bmia.org
+bnbchain.org
 bokepseks.org
 book18.org
 book4you.org
@@ -21868,6 +21895,7 @@ cookiechoices.org
 cookielaw.org
 coova.org
 cordcloud.org
+coredao.org
 coursera.org
 coursera-for-business.org
 coverartarchive.org
@@ -21933,6 +21961,7 @@ douya.org
 draftjs.org
 dragonsprings.org
 driveawaytaxi.org
+drpc.org
 dsmynas.org
 duckduckgo.org
 duihua.org
@@ -23798,6 +23827,8 @@ myapelsin.ru
 myenvy.ru
 mymts.ru
 narod.ru
+nic.ru
+nichost.ru
 nintendo.ru
 noosferabank.ru
 nspk.ru
@@ -23853,11 +23884,13 @@ psbank.ru
 pskb.ru
 quizlink.ru
 r0.ru
+r01.ru
 radiosputnik.ru
 raiffeisen.ru
 raiffeisen-media.ru
 rbcollect.ru
 rbcredit.ru
+reg.ru
 rencapbank.ru
 rencredit.ru
 report-megafon.ru
@@ -23943,6 +23976,7 @@ stin31.ru
 strepsils.ru
 summerstage.ru
 summitceo.ru
+sweb.ru
 t-access.ru
 t-bank-app.ru
 t-calls.ru
@@ -24572,6 +24606,7 @@ xtom.social
 softbank
 airhorn.solutions
 bigbeans.solutions
+bmwweb.solutions
 sony
 iam.soy
 youtube.soy
@@ -24712,6 +24747,7 @@ sage-observability.tech
 sbercloud.tech
 wbautomation.tech
 wbwh.tech
+xlayer.tech
 yango.tech
 dmed.technology
 dtci.technology
@@ -26468,6 +26504,7 @@ luw666.xyz
 lwwcn.xyz
 mangafuna.xyz
 mastodon.xyz
+merkl.xyz
 mhhanman.xyz
 mhqwe.xyz
 mirror.xyz
@@ -26513,6 +26550,7 @@ sssuo1.xyz
 streamingporn.xyz
 syzbj36.xyz
 tachusz.xyz
+taiko.xyz
 temetube.xyz
 theav.xyz
 ting53.xyz
