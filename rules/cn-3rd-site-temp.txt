@@ -952,6 +952,7 @@ itc.cn
 itdog.cn
 itellyou.cn
 ivwi3.cn
+ixiaochuan.cn
 japps.cn
 jd.cn
 jd-ex.cn
@@ -1306,6 +1307,7 @@ sxlcdn.cn
 szjlc.cn
 szse.cn
 tai3.cn
+taihemusic.cn
 tapd.cn
 tb.cn
 tbcdn.cn
@@ -1445,6 +1447,7 @@ x-station.cn
 x9exk.cn
 xcc.cn
 xfyun.cn
+xiaochuankeji.cn
 xiaoheihe.cn
 xiaomi.cn
 xiaomidns.cn
@@ -1819,6 +1822,7 @@ cps.360buy.com
 91.com
 917.com
 91danji.com
+91q.com
 91shenfan.com
 91yunxiao.com
 95015.com
@@ -2920,6 +2924,7 @@ djiops.com
 dlnel.com
 dmall.com
 dmallcdn.com
+dmhmusic.com
 dmzj.com
 dnse0.com
 dnse1.com
@@ -3422,6 +3427,7 @@ gwdang.com
 gxairlines.com
 gxxmt.com
 gzcqs.com
+gzlzfm.com
 gztv.com
 gzwanju.com
 gzyowin.com
@@ -3798,6 +3804,7 @@ izto.com
 iztzq.com
 izuche.com
 izuchebao.com
+izuiyou.com
 j-test.com
 jamcz.com
 jb51.com
@@ -4288,6 +4295,7 @@ liweijia.com
 lixiang.com
 lixinger.com
 lizhifm.com
+lizhiinc.com
 ljcdn.com
 lkcoffee.com
 lkkbrand.com
@@ -4321,6 +4329,8 @@ lxway.com
 lxzjjt.com
 ly.com
 lydaas.com
+lz310.com
+lzpipi.com
 m1905.com
 mafengwo.com
 magedu.com
@@ -5097,6 +5107,7 @@ shoujihuifu.com
 shouqianba.com
 shoutanjjj.com
 shouyoubus.com
+showstart.com
 shrbank.com
 shuhai.com
 shuidichou.com
@@ -5156,8 +5167,16 @@ softwhy.com
 sofun.com
 sogo.com
 sogou.com
+wuliao.epro.sogou.com
+pb.i.sogou.com
+inte.sogou.com
+lu.sogou.com
+uranus.sogou.com
 sogou-inc.com
 sogoucdn.com
+inte.sogoucdn.com
+lu.sogoucdn.com
+theta.sogoucdn.com
 sogoucdndl.com
 sogouimecdn.com
 sohu.com
@@ -5403,6 +5422,7 @@ tfogc.com
 tfzq.com
 tgbus.com
 tgovcloud.com
+th-music.com
 theduapp.com
 thefastfile.com
 thefastimg.com
@@ -6395,6 +6415,7 @@ cf-china.info
 fofa.info
 lxdns.info
 mmbang.info
+mting.info
 nellit.info
 puata.info
 qunliao.info
