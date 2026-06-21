@@ -19482,6 +19482,7 @@ bnetshopus.akamaized.net
 ds-linear-abematv.akamaized.net
 ds-vod-abematv.akamaized.net
 gamedownloads-rockstargames-com.akamaized.net
+gog-cdn.akamaized.net
 heads-ak-spotify-com.akamaized.net
 heads4-ak-spotify-com.akamaized.net
 img-prod-cms-rt-microsoft-com.akamaized.net
@@ -20095,6 +20096,7 @@ flowfront.net
 flowhongkong.net
 fonts.net
 hbo.com.c.footprint.net
+gog-cdn-lumen.secure2.footprint.net
 forgecdn.net
 forza.net
 forzamotorsport.net
