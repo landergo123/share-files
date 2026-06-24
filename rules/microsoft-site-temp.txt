@@ -1,5 +1,6 @@
 github.ai
 videoindexer.ai
+vscodeedu.app
 linkedin.at
 live.com.au
 microsoft.az
@@ -10,6 +11,7 @@ github.blog
 microsoft.by
 microsoft.ca
 msfteducation.ca
+github.career
 microsoft.cat
 microsoftnews.cc
 microsoft.ch
@@ -217,6 +219,7 @@ doom.com
 dynamics.com
 elderscrolls.com
 engkoo.com
+exp-tas.com
 default.exp-tas.com
 fasttrackreadysupport.com
 femalefounderscomp.com
@@ -463,6 +466,7 @@ vfsforgit.com
 videobreakdown.com
 visualstudio.com
 visualstudio-staging.com
+vscodeedu.com
 windows.com
 windowsazure.com
 windowsmarketplace.com
@@ -674,6 +678,7 @@ visualstudio.net
 vsallin.net
 vscode-cdn.net
 vscode-unpkg.net
+vscode-webview.net
 what-fan.net
 windows.net
 copilotprodattachments.blob.core.windows.net

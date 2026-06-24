@@ -479,6 +479,7 @@ kubeacademy.com
 kubeapps.com
 latamvmwareforum.com
 licdn.com
+lifeatspotify.com
 liketwice.com
 line-apps.com
 line-apps-beta.com
@@ -687,6 +688,7 @@ spotifycdn.com
 spotifycharts.com
 spotifycodes.com
 spotifyforbrands.com
+spotifyforvendors.com
 spotifyjobs.com
 ssdevrd.com
 starship-ent.com

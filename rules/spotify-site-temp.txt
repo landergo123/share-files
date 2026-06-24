@@ -3,6 +3,7 @@ scdn.co
 adstudio-assets.scdn.co
 byspotify.com
 cdn-spotify-experiments.conductrics.com
+lifeatspotify.com
 spotify.com
 adeventtracker.spotify.com
 bloodhound.spotify.com
@@ -11,6 +12,7 @@ spotifycdn.com
 spotifycharts.com
 spotifycodes.com
 spotifyforbrands.com
+spotifyforvendors.com
 spotifyjobs.com
 tospotify.com
 spotify.design
