@@ -1951,6 +1951,10 @@ alibaba-inc.com
 alibabacapital.com
 alibabachengdun.com
 alibabacloud.com
+account-cn.alibabacloud.com
+api.alibabacloud.com
+cn.alibabacloud.com
+status.alibabacloud.com
 alibabacorp.com
 alibabadesign.com
 alibabadns.com
@@ -2023,7 +2027,10 @@ yunpan.aliyun.com
 aliyun-inc.com
 aliyun-iot-share.com
 aliyuncdn.com
+ap-southeast-1.aliyuncs.com
+cn-hangzhou.aliyuncs.com
 adash-emas.cn-hangzhou.aliyuncs.com
+cn-shanghai.aliyuncs.com
 adash.man.aliyuncs.com
 oss-ap-northeast-1.aliyuncs.com
 oss-ap-northeast-2.aliyuncs.com
