@@ -108,6 +108,7 @@ beats2.com.cn
 beatsbydre.com.cn
 ecgapp.com.cn
 icloud.com.cn
+icloud-content.com.cn
 iphone-8.com.cn
 ipod.com.cn
 itunesradio.com.cn
@@ -419,6 +420,7 @@ appleoriginalproductions.com
 applepaysupplies.com
 applepodcasts.com
 applereach.com
+appleschoolcontent.com
 applescreensavers.com
 applestor.com
 applestore.com
@@ -439,6 +441,7 @@ appmediagroup.com
 appule.com
 appye.com
 apyle.com
+apzones.com
 atnext.com
 aucheapbeats.com
 audiobeatsau.com
@@ -448,6 +451,7 @@ auricularemonsterbeats.com
 auricularesbeatsbaratosshop.com
 auricularesbeatsmarkt.com
 ausbeatsbydrdre.com
+axm-usercontent-apple.com
 bag-glasses1.com
 bandgirlz.com
 baxsound.com

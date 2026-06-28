@@ -137,7 +137,6 @@ s.union.360.cn
 9xsecndns.cn
 a-map.cn
 aadcloud.cn
-ao-x.ac.cn
 csdl.ac.cn
 iscas.ac.cn
 las.ac.cn
@@ -1222,6 +1221,7 @@ postmail.cn
 pp.cn
 pplive.cn
 procg.cn
+proj101.cn
 pubgno1.cn
 pwesports.cn
 qchannel03.cn
@@ -2255,7 +2255,6 @@ ecmb.bdimg.com
 ecmc.bdimg.com
 bdispatch.com
 bdmozon.com
-bdmyandex.com
 bdns-boe.com
 bdns-gtm-pressure.com
 bdns-test.com
@@ -2676,6 +2675,7 @@ ciccwm.com
 cici.com
 ciciai.com
 ciciaicdn.com
+cilisouou.com
 cindasc.com
 city8.com
 ciweimao.com
@@ -2888,7 +2888,6 @@ dajieimg.com
 dalongyun.com
 dancf.com
 dandan818.com
-dandanplay.com
 dandanvoice.com
 dangbei.com
 dangdang.com
@@ -3046,6 +3045,7 @@ duapp.com
 duapps.com
 duba.com
 dui88.com
+duifene.com
 duiopen.com
 duitang.com
 duoduocdn.com
@@ -3467,6 +3467,7 @@ guanyierp.com
 guazi.com
 guazistatic.com
 gucheng.com
+gugudata.com
 guodu.com
 guoguo-app.com
 guokr.com
@@ -3938,6 +3939,7 @@ jdx.com
 jet-ego.com
 jet-logistics.com
 jetlogistic.com
+jfcoop.com
 jfdaily.com
 jhgtgb.com
 jhscm.com
@@ -3961,6 +3963,7 @@ jiazhao.com
 jibencaozuo.com
 jiemeng8.com
 jiemian.com
+jigecili.com
 jikecdn.com
 jikexueyuan.com
 jikipedia.com
@@ -4535,6 +4538,7 @@ mojichina.com
 mojidict.com
 mokahr.com
 moleecel.com
+moliranran.com
 momo5188.com
 moocollege.com
 moonvy.com
@@ -5040,6 +5044,7 @@ qugame.com
 qunjielong.com
 quyaoya.com
 qweather.com
+qweatherapi.com
 qyer.com
 qyerstatic.com
 qyunapp.com
@@ -5563,7 +5568,6 @@ tnettms.com
 to8to.com
 tobosu.com
 todesk.com
-tokcoder.com
 tom.com
 tongfangpc.com
 tongkask.com
@@ -5892,6 +5896,7 @@ weidian.com
 weilaicaijing.com
 weilaiyunxiao.com
 weishi.com
+weixin.com
 weixinbridge.com
 badjs.weixinbridge.com
 weixing.com
@@ -6315,6 +6320,7 @@ zenlesszonezero.com
 zgbk.com
 zgcbank.com
 zggqzp.com
+zggx100.com
 zgjsks.com
 zgjtb.com
 zglxw.com
@@ -6607,7 +6613,9 @@ iadmatapk.nosdn.127.net
 5054399.net
 5gzm.net
 71acg.net
+71shi.net
 800best.net
+8m2.net
 95504.net
 95516.net
 962.net
@@ -6617,7 +6625,6 @@ acctdns.net
 acepanel.net
 acfun.net
 acfunchina.net
-acplay.net
 acwifi.net
 ae-rus.net
 aestatic.net
@@ -6638,6 +6645,7 @@ amemv.net
 amzndns-cn.net
 andfx.net
 anitama.net
+anixplayer.net
 antutu.net
 aotrip.net
 apcdns.net
@@ -6805,6 +6813,7 @@ guokr.net
 haier.net
 haohaowan.net
 haosou.net
+haowenti.net
 hecdn.net
 heisha.net
 heweather.net
@@ -6927,6 +6936,7 @@ newyx.net
 nextvid.net
 nextworkshop.net
 nowcoder.net
+oend.net
 onedns.net
 onegreen.net
 oneplus.net
@@ -6953,6 +6963,7 @@ qihoo.net
 qijiayoudao.net
 qiluyidian.net
 qingfuwucdn.net
+qingtingai.net
 qiyukf.net
 qq163.net
 qtlcdn.net
@@ -7285,21 +7296,24 @@ diandianlife.top
 edgemonix.top
 geektool.top
 goka.top
+goodq.top
 imacos.top
 jsj.top
 jtexpress.top
 jutongbao.top
 lebo.top
 lg3000.top
+misaka-net.top
 nxog.top
 openkylin.top
 piedaochuan.top
-puddingcat.top
+pljzy.top
 qualitycloud.top
 saduck.top
 tapnow.top
 tclai.top
 tgpro.top
+tianhw.top
 topwd.top
 ucgslb.top
 ugslb.top
@@ -7353,6 +7367,7 @@ druid.vip
 kk1.vip
 landian.vip
 uucl.vip
+vtdd.vip
 wangyangyang.vip
 wetv.vip
 yto.vip
@@ -7365,6 +7380,7 @@ qiuwen.wiki
 allday.work
 c-t.work
 mcbaas.work
+wsjqnmmrmv.world
 cheng.xin
 dingding.xin
 gongyi.xin
