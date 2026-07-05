@@ -580,6 +580,7 @@ apisof.net
 applicationinsights.net
 asp.net
 azure.net
+azure-api.net
 azure-devices.net
 azure-devices-int.net
 azure-dns.net
@@ -597,6 +598,7 @@ azureedge-test.net
 azurefd.net
 azureplanetscale.net
 azuresmartspaces.net
+azurestaticapps.net
 azurewebsites.net
 bethesda.net
 bing.net

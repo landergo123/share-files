@@ -12,6 +12,7 @@ z.ai
 alibaba
 alipay
 71.am
+anquan
 liblib.art
 alibabacloud.com.au
 apollo.auto
@@ -7302,6 +7303,7 @@ ym.run
 alibabacloud.com.sg
 cuniq.sg
 jd.shop
+shouji
 mcdemo.show
 wss.show
 ccw.site
@@ -7432,6 +7434,7 @@ allday.work
 c-t.work
 mcbaas.work
 wsjqnmmrmv.world
+xihuan
 cheng.xin
 dingding.xin
 gongyi.xin
@@ -7452,4 +7455,5 @@ nellit.xyz
 podcast.xyz
 privateapi.xyz
 steam302.xyz
+yun
 wss.zone

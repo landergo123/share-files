@@ -3037,7 +3037,7 @@ apple-livephotoskit.com
 apple-mapkit.com
 apple-online.com
 apple-pay.com
-ingest.apple-studies.com
+apple-studies.com
 appleafrica.com
 appleantilles.com
 appleaustralia.com
@@ -3219,6 +3219,7 @@ atlantaminidealers.com
 atlasdmt.com
 atlasonepoint.com
 atlassian.com
+atmeta.com
 atnext.com
 atscaleconference.com
 att.com
@@ -19654,6 +19655,7 @@ av369.net
 avgle.net
 awseducate.net
 azure.net
+azure-api.net
 azure-devices.net
 azure-devices-int.net
 azure-dns.net
@@ -19675,6 +19677,7 @@ azurefd.net
 openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 azureplanetscale.net
 azuresmartspaces.net
+azurestaticapps.net
 azurewebsites.net
 b-cdn.net
 anime-rule34-world.b-cdn.net

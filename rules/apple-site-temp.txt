@@ -263,6 +263,8 @@ bookkeeper.itunes.apple.com
 client-api.itunes.apple.com
 cma.itunes.apple.com
 downloaddispatch.itunes.apple.com
+entitlements-edge.itunes.apple.com
+fpinit.itunes.apple.com
 hls.itunes.apple.com
 hls-amt.itunes.apple.com
 inappcheck.itunes.apple.com
@@ -380,7 +382,7 @@ cdn3.apple-mapkit.com
 cdn4.apple-mapkit.com
 apple-online.com
 apple-pay.com
-ingest.apple-studies.com
+apple-studies.com
 appleafrica.com
 appleantilles.com
 appleaustralia.com
