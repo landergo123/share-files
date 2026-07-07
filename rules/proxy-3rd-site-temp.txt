@@ -23541,6 +23541,7 @@ jdavsp.pw
 jpg4.pw
 lp99.pw
 pandamovies.pw
+pawchive.pw
 pise.pw
 six9dy.pw
 sshs.pw
@@ -24750,6 +24751,7 @@ google.st
 intel.st
 libgen.st
 mcs.st
+pawchive.st
 pca.st
 sci-hub.st
 sixte.st
