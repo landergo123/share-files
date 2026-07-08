@@ -178,6 +178,7 @@ anitabi.cn
 anitama.cn
 antgroup-inc.cn
 anzhuo.cn
+aorizon.cn
 apifox.cn
 apipost.cn
 arcaea.cn
@@ -575,6 +576,7 @@ nbd.com.cn
 nearme.com.cn
 nellit.com.cn
 neweekly.com.cn
+nikkigames.com.cn
 njcb.com.cn
 njzq.com.cn
 nwcdcloud.com.cn
@@ -665,6 +667,7 @@ umetrip.com.cn
 unihan.com.cn
 urtc.com.cn
 ve-omnishield.com.cn
+vistopia.com.cn
 vivo.com.cn
 voc.com.cn
 wahaha.com.cn
@@ -906,6 +909,8 @@ gzctyiptv.cn
 gzurl.cn
 hacl.cn
 hangzhouyq.cn
+happyhorse.cn
+happyshrimp.cn
 haydaypop.cn
 hc-cdn.cn
 hellofont.cn
@@ -1182,6 +1187,7 @@ news.cn
 newsimg.cn
 nga.cn
 nihaorwanda.cn
+nikkigames.cn
 nio.cn
 nmc.cn
 noi.cn
@@ -1227,6 +1233,7 @@ zdns.org.cn
 zdnscloud.org.cn
 pagescube.cn
 paidaojia.cn
+papegames.cn
 pdnews.cn
 pengyoudewu.cn
 people.cn
@@ -1324,6 +1331,7 @@ shuiyaohuo.cn
 skillhub.cn
 skydweller.cn
 skywt.cn
+sleeplesshorizon.cn
 sm.cn
 smartapps.cn
 smartedu.cn
@@ -1421,6 +1429,7 @@ travelskymobile.cn
 trustasia.cn
 ttbyte.cn
 tvcc.cn
+twyx.cn
 tzygd.cn
 u3d.cn
 uc.cn
@@ -1536,6 +1545,7 @@ xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
 xn--fiq53l90et9fpncc7joo6apn8a.cn
 xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
 xn--owtw8cc49ajfl.cn
+xrbk.cn
 xs.cn
 xs8.cn
 xsbapp.cn
@@ -1592,6 +1602,7 @@ zjlib.cn
 zjytxd.cn
 zjytxp.cn
 zlfund.cn
+zlinkurl.cn
 zml81.cn
 zqrb.cn
 zto.cn
@@ -2082,6 +2093,7 @@ ap-southeast-1.aliyuncs.com
 cn-hangzhou.aliyuncs.com
 adash-emas.cn-hangzhou.aliyuncs.com
 cn-shanghai.aliyuncs.com
+log-global.aliyuncs.com
 adash.man.aliyuncs.com
 oss-ap-northeast-1.aliyuncs.com
 oss-ap-northeast-2.aliyuncs.com
@@ -3795,6 +3807,7 @@ hxfy888.com
 hxnews.com
 hxsd.com
 hybiome.com
+hydun.com
 hypercachenet.com
 hypercachenode.com
 i360mall.com
@@ -4473,6 +4486,7 @@ longzhu.com
 lorhf.com
 lotpc.com
 loupan.com
+lovestu.com
 lppz.com
 lppzimg.com
 lsplayer.com
@@ -4903,6 +4917,7 @@ pangolin-sdk-toutiao-b.com
 pangolin-sdk-toutiao1.com
 panplayable-toutiao.com
 panplayable-toutiao-b.com
+papegames.com
 papocket.com
 paydxm.com
 pc6.com
@@ -5461,6 +5476,7 @@ talkingdata.com
 talkinggame.com
 tamaegis.com
 tangeche.com
+tanwan.com
 tanx.com
 tao123.com
 taobao.com
@@ -5747,6 +5763,7 @@ tuyoo.com
 tvmao.com
 tvzhe.com
 twscholar.com
+twyxh.com
 tx-exhibition.com
 txbyod.com
 txlivecdn.com
@@ -6293,6 +6310,8 @@ yeepay.com
 yeshen.com
 yeshj.com
 yesky.com
+yeyou.com
+yeyoucdn.com
 yeyousg.com
 yfcache.com
 yfcalc.com
@@ -6592,6 +6611,7 @@ zuowen.com
 zuowen8.com
 zuowenjun.com
 zuoyebang.com
+zx.com
 zxhgroup.com
 zxxk.com
 zybang.com
@@ -7337,6 +7357,7 @@ cdn30.org
 cerambath.org
 chinesemooc.org
 chndoi.org
+cjyun.org
 cnmooc.org
 cpppf.org
 cspro.org
