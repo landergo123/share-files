@@ -59,6 +59,7 @@ jikeiot.cloud
 lazycat.cloud
 liblib.cloud
 tebiefuza.cloud
+ugnas.cloud
 vestack.cloud
 acetaffy.club
 itmanager.club
@@ -1085,6 +1086,7 @@ ls66.cn
 lu1da.cn
 ludosuperstar.cn
 luhua.cn
+lulian.cn
 lxdns.cn
 lxzjjt.cn
 lydaas.cn
@@ -2217,6 +2219,7 @@ b612kaji.com
 babytree.com
 babytreeimg.com
 badou.com
+baicaf.com
 baichuan-ai.com
 baicizhan.com
 baidu.com
@@ -3015,6 +3018,7 @@ dcloudlive.com
 dcloudsp.com
 dcloudstc.com
 dcloudvod.com
+dcshfu.com
 dd373.com
 ddmogo.com
 ddooo.com
@@ -3510,6 +3514,7 @@ ggkuai.com
 ggoplay.com
 ggowan.com
 ghxi.com
+gifpay.com
 gifshow.com
 log-sdk.gifshow.com
 giftatdw.com
@@ -3722,6 +3727,7 @@ howbuy.com
 hoyolab.com
 hoyoverse.com
 log-upload-os.hoyoverse.com
+hprtupgrade.com
 hqchip.com
 hqdoc.com
 hqpcb.com
@@ -3900,6 +3906,7 @@ imqq.com
 imsyy.com
 inanguapi.com
 incopat.com
+indeedpower.com
 indienova.com
 infini-fantasy.com
 infinitynewtab.com
@@ -3917,6 +3924,7 @@ ip138.com
 ipanda.com
 ipchaxun.com
 iplaysoft.com
+iposl.com
 ipplus360.com
 ipshu.com
 ipshudi.com
@@ -4458,6 +4466,7 @@ linliyz.com
 linsn.com
 linuxidc.com
 liqucn.com
+listenai.com
 litessl.com
 liulishuo.com
 liuxiaoer.com
@@ -4595,6 +4604,7 @@ miaostreet.com
 miaotixing.com
 miaoyanai.com
 miaozhen.com
+micun.com
 midasbuy.com
 midea.com
 mideaepayuat.com
@@ -5622,6 +5632,7 @@ texasholdemcup.com
 tfogc.com
 tfzq.com
 tgbus.com
+tggfl.com
 tgovcloud.com
 th-music.com
 theduapp.com
@@ -5631,6 +5642,7 @@ thelarkcloud.com
 themisweeps.com
 thinkcloudlab.com
 thinkpad.com
+thispx.com
 thmnet.com
 threatbook.com
 ths123.com
@@ -5688,6 +5700,7 @@ tmjiasuqi.com
 tmtpost.com
 tmtsmartlife.com
 tmtsmartrun.com
+tmwanba.com
 tnettms.com
 to8to.com
 tobosu.com
@@ -5798,6 +5811,7 @@ uewaf.com
 ufileos.com
 ugdtimg.com
 uggame.com
+ugnas.com
 ugshare-img.com
 ugslb.com
 uhasadmin.com
@@ -7510,6 +7524,7 @@ piedaochuan.top
 pljzy.top
 qualitycloud.top
 saduck.top
+share123.top
 tapnow.top
 tclai.top
 tgpro.top
@@ -7568,6 +7583,7 @@ daocloud.vip
 druid.vip
 kk1.vip
 landian.vip
+mystery0.vip
 tol.vip
 uucl.vip
 vtdd.vip
