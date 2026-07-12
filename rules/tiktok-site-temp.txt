@@ -455,6 +455,7 @@ ixgvideo.com
 ixigua.com
 ixiguavideo.com
 jianying.com
+jimeng.com
 jinritemai.com
 jokecommunity.com
 jstti.com
@@ -642,6 +643,9 @@ vestack-cicd.com
 vestack-preview.com
 vestack-sandbox.com
 vfcdnrd.com
+vlabimg.com
+vlabstatic.com
+vlabvod.com
 volc-dns.com
 volc-embed.com
 volcadocean.com
