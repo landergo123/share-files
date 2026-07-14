@@ -29,7 +29,8 @@
             "openaicom.imgix.net",
             "openaiassets.blob.core.windows.net",
             "openaicomproductionae4b.blob.core.windows.net",
-            "cursor.sh"
+            "cursor.sh",
+            "chatgpt.site"
         ]
     }]
 }

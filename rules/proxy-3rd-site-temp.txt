@@ -7,7 +7,6 @@ vpn.ac
 selectel.academy
 google.ad
 starbucks.ad
-practivate.adobe
 adult
 2gis.ae
 adidas.ae
@@ -159,7 +158,6 @@ wink.am
 yahoo.am
 youtube.am
 amazon
-alfabank.oavdo.amc
 android
 bmw.co.ao
 google.co.ao
@@ -9084,6 +9082,7 @@ kgslb.com
 khotruyentranhx.com
 kichiku-doujinko.com
 kichikuou.com
+kick.com
 kickporn.com
 kickshatchannel.com
 kicksnike1.com
@@ -16373,7 +16372,6 @@ gmail
 gmo
 godaddy
 scat.gold
-goo
 goog
 google
 share.america.gov
@@ -17346,7 +17344,6 @@ binancezh.ink
 shdd.ink
 itu.int
 who.int
-intel
 intuit
 gazprombank.investments
 1inch.io
@@ -17611,7 +17608,6 @@ z-lib.io
 zb.io
 zeplin.io
 zeronet.io
-practivate.adobe.ipp
 google.iq
 youtube.iq
 ac.ir
@@ -18367,7 +18363,6 @@ kindle
 dell.com.kn
 visa.com.kn
 dell.kn
-konami
 alienware.kr
 apple.kr
 applecomputer.kr
@@ -21407,7 +21402,6 @@ slides.new
 spreadsheet.new
 website.new
 whats.new
-practivate.adobe.newoa
 6do.news
 americasvoice.news
 api.news
@@ -21589,7 +21583,6 @@ yahoo.no
 youtube.no
 google.com.np
 google.nr
-practivate.adobe.ntp
 google.nu
 intel.nu
 secure.shadowsocks.nu
@@ -24633,6 +24626,7 @@ nasty.singles
 ai7995.site
 avizoon.site
 bkkdown.site
+chatgpt.site
 dert.site
 dodi-repacks.site
 empornium.site

@@ -629,7 +629,6 @@ google.gl
 gle
 google.gm
 gmail
-goo
 goog
 antigravity-unleash.goog
 prod.databe.floonet.goog
