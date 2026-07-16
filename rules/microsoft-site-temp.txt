@@ -208,6 +208,7 @@ charticulator.com
 cloudappsecurity.com
 codethemicrobit.com
 copilot.com
+copilot-stg.com
 cortanaanalytics.com
 cortanaskills.com
 crmdynint.com
@@ -751,6 +752,7 @@ kidgrid.tv
 microsoft.tv
 microsoft.ua
 visualstudio.co.uk
+azureedge.us
 microsoft.uz
 m12.vc
 microsoft.vn
