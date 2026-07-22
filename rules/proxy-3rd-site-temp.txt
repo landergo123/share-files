@@ -131,6 +131,7 @@ wyndlabs.ai
 x.ai
 youmind.ai
 zeibit.ai
+zenmux.ai
 airbnb.al
 blogspot.al
 canon.com.al
