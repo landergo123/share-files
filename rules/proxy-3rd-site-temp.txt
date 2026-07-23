@@ -215,6 +215,7 @@ sing-box.app
 singlelogin.app
 solidifi.app
 ss7.app
+tokenplus.app
 vanadium.app
 vercel.app
 vkclips.app
