@@ -176,10 +176,12 @@ agedm.app
 attestation.app
 authpass.app
 bbc-reporting-api.app
+blurams.app
 bsky.app
 carrotquest.app
 carrottrack.app
 cash.app
+ceno.app
 cloudproxy.app
 comments.app
 coreldraw.app
@@ -2348,6 +2350,7 @@ acmvalidationsaws.com
 acpica.com
 acrobat.com
 actalis.com
+actifio.com
 activeteachonline.com
 activpn.com
 actualidad-rt.com
@@ -4842,6 +4845,8 @@ cherrypanpan.com
 cherrypimps.com
 cherrypornhd.com
 cherrysave.com
+chess.com
+chesscomfiles.com
 chicagolandbmw.com
 chicksonblackdicks.com
 chickstagram.com
@@ -7407,6 +7412,7 @@ githubhackathon.com
 githubnext.com
 copilot-workspace.githubnext.com
 githubstatus.com
+githubsupport.com
 githubuniverse.com
 githubusercontent.com
 copilot-proxy.githubusercontent.com
@@ -9048,6 +9054,7 @@ kanzhongguo.com
 kaotic.com
 karabako-gmo.com
 karayou.com
+kards.com
 karger.com
 karinahart.com
 karlajames.com
@@ -9159,6 +9166,7 @@ koreanpornmovie.com
 korewaeroi.com
 korona.com
 kostenlosepornoclips.com
+kotlinconf.com
 kouwobb.com
 kpacg.com
 kpht85.com
@@ -10324,6 +10332,7 @@ myhtebooks.com
 myhtlmebook.com
 myhulu.com
 myiphide.com
+myjetbrains.com
 myjkwd.com
 mylf.com
 mylittlenieces.com
@@ -10815,6 +10824,7 @@ ntdtv.com
 ntdtv-dc.com
 ntdtvla.com
 ntdvn.com
+nthlink.com
 nu-bay.com
 nubilefilms.com
 nubiles-casting.com
@@ -11724,6 +11734,7 @@ post852.com
 postini.com
 potatso.com
 potvpn.com
+poudobnee.com
 povpornonly.com
 povr.com
 power.com
@@ -11969,7 +11980,6 @@ radgametools.com
 radian6.com
 radiko-cf.com
 radiofarda.com
-radiojar.com
 radiomarsho.com
 radiovncr.com
 radiyoyacuvoa.com
@@ -12334,6 +12344,7 @@ sb-cd.com
 sb24.com
 sberauto.com
 sberbank.com
+sberbank-tele.com
 sbitravelcard.com
 sbnation.com
 sbuxcard.com
@@ -13249,6 +13260,7 @@ taleofthenight.com
 talkatone.com
 talkboxapp.com
 talkcc.com
+talkingkotlin.com
 talksport.com
 tandberg.com
 tandberg-china.com
@@ -15596,7 +15608,6 @@ autodesk.dev
 aws.dev
 bdn.dev
 chromeos.dev
-www.clashverge.dev
 cloudflare.dev
 da3dsoul.dev
 dart.dev
@@ -15625,6 +15636,7 @@ ideco.dev
 idx.dev
 ingka.dev
 intel.dev
+jetbrains.dev
 kiro.dev
 mdn.dev
 mdnplay.dev
@@ -15650,6 +15662,7 @@ t-tech.dev
 termux.dev
 tfhub.dev
 tg.dev
+tryai.dev
 demo.unlock-music.dev
 sbti.unun.dev
 usercontent.dev
@@ -16054,6 +16067,7 @@ dydx.exchange
 himalaya.exchange
 infosec.exchange
 lighter.exchange
+cm.expert
 rtde.expert
 ozon.express
 rtde.express
@@ -17123,6 +17137,7 @@ indiandefensenews.in
 indiatoday.in
 intel.in
 kindle.in
+kotl.in
 lnkd.in
 manoramayearbook.in
 mini.in
@@ -17504,6 +17519,7 @@ kakaobank.io
 keeper.io
 keybase.io
 kfs.io
+ktor.io
 kubernetes.io
 lantern.io
 logitech.io
@@ -18834,6 +18850,7 @@ animesex.me
 anyxxx.me
 apple.me
 applestore.me
+autoru.me
 avjoy.me
 avstar.me
 avstar01.me
@@ -20167,6 +20184,7 @@ fapopedia.net
 farfetch.net
 fastly.net
 lastfm.freetls.fastly.net
+mozilla.map.fastly.net
 spotify.map.fastly.net
 roblox-poc.global.ssl.fastly.net
 fastlylb.net
@@ -20539,6 +20557,7 @@ kakaocdn.net
 keiba.net
 kenyaraha.net
 khangar.net
+kinescopecdn.net
 kinguin.net
 kir2kos.net
 kisscos.net
@@ -20565,6 +20584,7 @@ lenporno.net
 lesboerotica.net
 letscorp.net
 letsfuckme.net
+level-plus.net
 lewdweb.net
 liangyou.net
 lianjiajr.net
@@ -21377,6 +21397,7 @@ yastatic.net
 yecl.net
 yegle.net
 yhcw.net
+yndx.net
 ynoproject.net
 yobit.net
 yostar.net
@@ -22022,6 +22043,7 @@ chonglangtv.org
 christianfreedom.org
 chromium.org
 cios.org
+circle19.org
 ciscoconnectcloud.org
 ciscolearningsociety.org
 cispaletter.org
@@ -22482,6 +22504,7 @@ javakiba.org
 javhard.org
 javidol.org
 jerkmatelive.org
+jetbrains.org
 jfrog.org
 jhelab.org
 jhxl.org
@@ -22712,6 +22735,7 @@ openvinotoolkit.org
 openvpn.org
 openweathermap.org
 openwrt.org
+openxla.org
 opte.org
 optica.org
 oraclefoundation.org
@@ -22806,7 +22830,6 @@ projecteuclid.org
 proxyadult.org
 proxyrarbg.org
 publicsuffix.org
-puredns.org
 pureinsight.org
 putty.org
 pycon.org
@@ -23648,6 +23671,7 @@ mini.re
 nyahentai.re
 singlelogin.re
 yande.re
+v.recipes
 1917live.red
 amazon.red
 hentaihaven.red
@@ -23772,6 +23796,7 @@ alfadirect.ru
 amediateka.ru
 ankb.ru
 antiphishing.ru
+apiauto.ru
 apiok.ru
 apple.ru
 apples-msk.ru
@@ -23781,10 +23806,12 @@ arctic.ru
 asia-pay.ru
 atomyze.ru
 attachmail.ru
+auto.ru
 autokreditbank.ru
 avangard.ru
 aversbank.ru
 avito.ru
+avto.ru
 azbukainterneta.ru
 b2c-digest.ru
 b37mrtl.ru
@@ -23830,6 +23857,8 @@ centraluniversity.ru
 ceosummit.ru
 cert-gib.ru
 chipcore.ru
+cian.ru
+ciangroup.ru
 citydrive.ru
 clck.ru
 clinica-tibet.ru
@@ -23863,8 +23892,10 @@ deutschebank.ru
 digital-wb.ru
 digitalwb.ru
 disney.ru
+dmir.ru
 dolyame.ru
 domrfbank.ru
+drom.ru
 drweb.ru
 durex.ru
 dzen.ru
@@ -23944,6 +23975,7 @@ it-picnic.ru
 it-piknik.ru
 itirex.ru
 ivi.ru
+jetbrains.ru
 jira-tcsbank.ru
 jivo.ru
 jivochat.ru
@@ -24012,6 +24044,7 @@ ntdtv.ru
 nurofen.ru
 nvidia.ru
 o-courier.ru
+o-uchi.ru
 o3.ru
 o3t.ru
 o3team.ru
@@ -24066,6 +24099,8 @@ raiffeisen.ru
 raiffeisen-media.ru
 rbcollect.ru
 rbcredit.ru
+rdrom.ru
+realtyverif.ru
 reg.ru
 rencapbank.ru
 rencredit.ru
@@ -24208,6 +24243,7 @@ tusco.ru
 tvigle.ru
 twcstorage.ru
 uchi.ru
+uchilk.ru
 ucoz.ru
 ucozmedia.ru
 uguide.ru
@@ -24331,8 +24367,11 @@ mangmang.run
 xvideo.run
 zzdh.run
 dell.rw
+docs.rw
 google.rw
 intel.rw
+log.rw
+try.rw
 yahoo.rw
 amazon.sa
 apple.sa
@@ -24674,6 +24713,7 @@ ai7995.site
 avizoon.site
 bkkdown.site
 chatgpt.site
+cian.site
 dert.site
 dodi-repacks.site
 empornium.site
@@ -25369,6 +25409,7 @@ iphone-x.tv
 iphonese.tv
 iphonexs.tv
 itunesradio.tv
+ivicdn.tv
 iwank.tv
 iwara.tv
 ixnxx.tv
@@ -26436,7 +26477,10 @@ xn----7sbhmncai5a0arm7c1e.xn--p1ai
 xn----8sbahiqzthbd0bn.xn--p1ai
 xn----8sbkfzespdwig.xn--p1ai
 xn----8sbwjbxyd.xn--p1ai
+xn----otbzjdu.xn--p1ai
 xn--80a9a4b.xn--p1ai
+xn--80aaafbpzn5blfby1p.xn--p1ai
+xn--80aaeib8abrryx4k.xn--p1ai
 xn--80aafgovrgbc7am.xn--p1ai
 xn--80acbjgmges7ca.xn--p1ai
 xn--80acbjgsdq2cl.xn--p1ai

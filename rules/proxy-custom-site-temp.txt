@@ -1186,6 +1186,7 @@ yandexcom.net
 yandexwebcache.net
 yastat.net
 yastatic.net
+yndx.net
 discord.new
 notion.new
 snapp.ninja
@@ -1327,6 +1328,7 @@ elama.ru
 kinopoisk.ru
 nvidia.ru
 pinterest.ru
+realtyverif.ru
 win-line.ru
 winline.ru
 winlinebet.ru

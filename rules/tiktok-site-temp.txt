@@ -77,6 +77,7 @@ modernjs.cn
 neihancommunity.cn
 okr.cn
 openve.cn
+pangle.cn
 picpic-ai.cn
 qingfuwu.cn
 qingfuwuapi.cn
@@ -325,6 +326,7 @@ cozebuild.com
 cozecdn.com
 cozedeploy.com
 cozesdk.com
+csjplatform.com
 ctobsnssdk.com
 datawindexmarket.com
 dcarapi.com
@@ -769,6 +771,7 @@ xflowedge.com
 xiaoxiaapi.com
 xiguaapp.com
 xsgtvacct.com
+yhgfb-cn-static.com
 zebracdn.com
 zijieapi.com
 ads3-normal.zijieapi.com

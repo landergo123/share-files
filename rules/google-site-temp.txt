@@ -134,6 +134,7 @@ youtube.co
 1ucrs.com
 265.com
 466453.com
+actifio.com
 admeld.com
 admob.com
 c.admob.com
@@ -152,6 +153,7 @@ apigee.com
 apkcombo.com
 apkmirror.com
 apkpure.com
+app-ads-services.com
 app-analytics-services.com
 app-analytics-services-att.com
 app-measurement.com
@@ -276,6 +278,7 @@ mtalk.google.com
 mtalk-dev.google.com
 mtalk-staging.google.com
 mtalk4.google.com
+notebook.google.com
 notebooklm.google.com
 opal.google.com
 redirector.c.pack.google.com
@@ -920,6 +923,7 @@ iamremarkable.org
 j2objc.org
 keytransparency.org
 onefifteen.org
+openxla.org
 partylikeits1986.org
 paxlicense.org
 picasaweb.org

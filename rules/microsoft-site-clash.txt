@@ -243,6 +243,7 @@ payload:
   - '+.githubnext.com'
   - '+.copilot-workspace.githubnext.com'
   - '+.githubstatus.com'
+  - '+.githubsupport.com'
   - '+.githubuniverse.com'
   - '+.githubusercontent.com'
   - '+.copilot-proxy.githubusercontent.com'
