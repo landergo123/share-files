@@ -354,6 +354,8 @@ swscan.apple.com
 sylvan.apple.com
 timestamp.apple.com
 tj-pod1-smp-device.apple.com
+tj-pod2-smp-device.apple.com
+tj-pod3-smp-device.apple.com
 tv.apple.com
 valid.apple.com
 weather-data.apple.com

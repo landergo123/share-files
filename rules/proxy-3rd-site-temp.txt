@@ -205,6 +205,7 @@ nicegram.app
 omaps.app
 one889.app
 organicmaps.app
+ozon.app
 pornproxy.app
 pulsebrowser.app
 raphael.app
@@ -5423,6 +5424,7 @@ deepflood.com
 deepfreeze.com
 deepl.com
 deepmind.com
+deepwiki.com
 deezer.com
 definebabe.com
 definefetish.com
@@ -7426,6 +7428,7 @@ gladporn.com
 glam0ur.com
 glamourtits.com
 gleline.com
+glitchwave.com
 globalriskregulator.com
 globalsign-media.com
 globalspec.com
@@ -12838,6 +12841,7 @@ solostudioksale.com
 solutionstation.com
 solveforx.com
 somee.com
+sonemic.com
 songjianjun.com
 sonorousporn.com
 sony.com
@@ -15619,6 +15623,7 @@ epicgames.dev
 f6.dev
 flow.dev
 flutter.dev
+fly.dev
 fuchsia.dev
 fury.dev
 g.dev
@@ -16147,6 +16152,7 @@ pdst.fm
 ping.fm
 player.fm
 radiomango.fm
+rym.fm
 sextube.fm
 soundon.fm
 turntable.fm
@@ -16396,6 +16402,7 @@ jivara.global
 kubakuba.global
 longbridge.global
 nfsc.global
+ozon.global
 rea.global
 stellasora.global
 dell.gm
@@ -17470,6 +17477,7 @@ fbidb.io
 firebase.io
 firetweet.io
 flexpool.io
+fly.io
 fountmedia.io
 foxrad.io
 fury.io
@@ -17599,6 +17607,7 @@ smart-edge.io
 snap-telemetry.io
 snapcraft.io
 snapstore.io
+snmc.io
 solscan.io
 soup.io
 spatial.io
@@ -18813,6 +18822,7 @@ miniso.ma
 volvobuses.ma
 volvotrucks.ma
 youtube.ma
+ozon.market
 spasibo.market
 archive.md
 blogspot.md
@@ -20213,6 +20223,7 @@ flagrasamadores.net
 flickr.net
 flowfront.net
 flowhongkong.net
+flyio.net
 fonts.net
 hbo.com.c.footprint.net
 gog-cdn-lumen.secure2.footprint.net
@@ -21084,6 +21095,7 @@ softbankmobile.net
 softbankusa.net
 cdn.softlayer.net
 softmodels.net
+sonematic.net
 sony.net
 soulcaliburhentai.net
 sourceforge.net
@@ -22120,6 +22132,7 @@ deadhouse.org
 dealtree.org
 debian.org
 deepai.org
+deepwiki.org
 derpibooru.org
 desktopmovie.org
 desktopmovies.org
@@ -24841,6 +24854,7 @@ pstorage.space
 skyperfectjsat.space
 telegram.space
 okko.sport
+rutube.sport
 google.sr
 intel.sr
 yahoo.sr

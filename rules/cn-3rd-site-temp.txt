@@ -263,6 +263,7 @@ bytehouse.cn
 byteinspire.cn
 bytexns.cn
 caocaokeji.cn
+cbn.cn
 cc-pay.cn
 ccspeed.cn
 cctv.cn
@@ -352,7 +353,6 @@ chinapostnews.cn
 chinastarmarket.cn
 chinatowercom.cn
 chinaunicom.cn
-chn.cn
 chsi.cn
 chuanbaoguancha.cn
 clawsentry.cn
