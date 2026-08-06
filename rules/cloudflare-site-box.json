@@ -2,6 +2,7 @@
     "version": 3,
     "rules": [{
         "domain_suffix": [
+            "cloudflare.app",
             "cftest5.cn",
             "cftest6.cn",
             "cloudflarechina.cn",
@@ -64,6 +65,7 @@
             "one.one.one",
             "cfdata.org",
             "foundationdns.org",
+            "cloudflare.pay",
             "warp.plus",
             "cfl.re",
             "browser.run",

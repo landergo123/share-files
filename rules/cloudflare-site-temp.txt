@@ -1,3 +1,4 @@
+cloudflare.app
 cftest5.cn
 cftest6.cn
 cloudflarechina.cn
@@ -66,6 +67,7 @@ videodelivery.net
 one.one.one
 cfdata.org
 foundationdns.org
+cloudflare.pay
 warp.plus
 cfl.re
 browser.run

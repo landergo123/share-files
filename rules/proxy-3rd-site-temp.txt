@@ -182,11 +182,14 @@ carrotquest.app
 carrottrack.app
 cash.app
 ceno.app
+clashmi.app
+cloudflare.app
 cloudproxy.app
 comments.app
 coreldraw.app
 dashly.app
 dashlytrack.app
+flclashx.app
 floorp.app
 get.app
 glarity.app
@@ -194,6 +197,7 @@ grapheneos.app
 gridaware.app
 hdb1.app
 jav.app
+karing.app
 koshelek.app
 libsolutions.app
 lovina.app
@@ -207,6 +211,7 @@ one889.app
 organicmaps.app
 ozon.app
 pornproxy.app
+prizrak.app
 pulsebrowser.app
 raphael.app
 rsshub.app
@@ -1408,6 +1413,7 @@ huati.cc
 huloo.cc
 ibeatsbydre.cc
 ihsdav.cc
+incy.cc
 inshot.cc
 intel.cc
 iqq2.cc
@@ -2086,6 +2092,7 @@ plus.codes
 2014cheapbeatsbydre.com
 2021hkcharter.com
 2025copy.com
+20thcenturystudios.com
 20yearsoffea.com
 21centuryaccess.com
 21hub.com
@@ -2300,6 +2307,7 @@ abc.com
 abc-studios.com
 abcheadphones.com
 abclider.com
+abcnews.com
 abeatsbydrdre.com
 abebooks.com
 abellalist.com
@@ -4552,7 +4560,6 @@ bydrebeats.com
 byjhd.com
 byspotify.com
 bytedapm.com
-byteoversea.com
 bytick.com
 c-est-simple.com
 c-ij.com
@@ -5492,6 +5499,7 @@ destinationbim.com
 www.destinationurl.com
 detaliczny.com
 detentiongirls.com
+detpress.com
 dettol.com
 dettol-prize.com
 dettolarabia.com
@@ -5636,7 +5644,9 @@ disney.com
 disney-asia.com
 disney-discount.com
 disney-studio.com
+disneyaccount.com
 disneyadsales.com
+disneyanimation.com
 disneyarena.com
 disneyaulani.com
 disneybaby.com
@@ -5652,6 +5662,7 @@ disneyinternational.com
 disneyinternationalhd.com
 disneyjunior.com
 disneyjuniortreataday.com
+disneylandparis.com
 disneylatino.com
 disneymagicmomentsme.com
 disneyme.com
@@ -5662,11 +5673,13 @@ disneynewseries.com
 disneynow.com
 disneypeoplesurveys.com
 disneyplus.com
+disneyprivacycenter.com
 disneyredirects.com
 disneysrivieraresort.com
 disneystore.com
 disneystreaming.com
 disneysubscription.com
+disneytermsofuse.com
 disneytvajobs.com
 disneyworld-go.com
 disqus.com
@@ -7037,6 +7050,7 @@ freedirecttvspecial.com
 freefacebook.com
 freefblikes.com
 freefbx.com
+freeform.com
 freegao.com
 freegaypornhdtube.com
 freegaysexgames.com
@@ -8047,6 +8061,7 @@ homestylerapp.com
 homestylernews.com
 honawalaan.com
 honestpornreviews.com
+hongkongdisneyland.com
 hongkongfp.com
 honkaiimpact3.com
 honkaistarrail.com
@@ -9457,6 +9472,7 @@ lu2200.com
 lu23.com
 lubetube.com
 lucasentertainment.com
+lucasfilm.com
 luckyissue.com
 ludepress.com
 lunchwithpype.com
@@ -10478,6 +10494,7 @@ negoziomonsterbeats.com
 neicad.com
 neiexplicit.com
 neifea.com
+neigbuy.com
 neimotion.com
 neinastranincad.com
 neisoftware.com
@@ -10820,6 +10837,7 @@ npmjs.com
 npsboost.com
 nptsibinbank.com
 nsfwmemes.com
+nsloon.com
 ntd.com
 ntdca.com
 ntdimg.com
@@ -11004,6 +11022,7 @@ oneteamconference.com
 onetrust.com
 onevps.com
 oneworldmanystories.com
+onexray.com
 onindiansex.com
 oninstagram.com
 online-instagram.com
@@ -11411,6 +11430,7 @@ pirouvr.com
 pittpatt.com
 pivotalinitiative.com
 pixanalytics.com
+pixar.com
 pixate.com
 pixeldrain.com
 pixelqi.com
@@ -12401,6 +12421,7 @@ seagroup.com
 seancody.com
 seaofsolitude.com
 search.com
+searchlightpictures.com
 cdn.seatguru.com
 seattlefdc.com
 seattlespheres.com
@@ -12571,6 +12592,7 @@ sh-xuxingda.com
 shadbase.com
 shadeyouvpn.com
 shadowcomplex.com
+shadowlaunch.com
 shadowslaves.com
 shadowsocks.com
 shadowverse-evolve.com
@@ -13482,6 +13504,7 @@ thetvdb.com
 thetype.com
 theverge.com
 thevirtualsexreview.com
+thewaltdisneycompany.com
 theweek.com
 thewirechina.com
 thewonderful101.com
@@ -14395,6 +14418,7 @@ wallzhihu.com
 walmart.com
 walmart-content.com
 walmartimages.com
+waltdisneystudios.com
 waltermartin.com
 wankgames.com
 wankizer.com
@@ -14493,6 +14517,7 @@ wetpussygames.com
 wetsextube.com
 wfm.com
 wforum.com
+wgtunnel.com
 whatblocked.com
 whatboyswant.com
 whatisairwatch.com
@@ -15612,6 +15637,7 @@ autodesk.dev
 aws.dev
 bdn.dev
 chromeos.dev
+clashverge.dev
 cloudflare.dev
 da3dsoul.dev
 dart.dev
@@ -16428,6 +16454,7 @@ jpl.nasa.gov
 pds.nasa.gov
 solarsystem.nasa.gov
 nic.gov
+ncbi.nlm.nih.gov
 nist.gov
 ntp-b.nist.gov
 ntp-d.nist.gov
@@ -17477,6 +17504,7 @@ fbidb.io
 firebase.io
 firetweet.io
 flexpool.io
+flowvy.io
 fly.io
 fountmedia.io
 foxrad.io
@@ -17490,10 +17518,14 @@ gh.io
 ghcr.io
 git.io
 gitbook.io
+rabbit-hole-1.gitbook.io
 softwaredownload.gitbooks.io
 gitgud.io
 github.io
 bybit-exchange.github.io
+matsuridayo.github.io
+metacubex.github.io
+throneproj.github.io
 trojan-gfw.github.io
 xtls.github.io
 gitlab.io
@@ -18346,6 +18378,7 @@ switch1.jp
 tasteofpremium.jp
 tegrazone.jp
 tibethouse.jp
+tokyodisneyresort.jp
 tospo-keiba.jp
 townwifi.jp
 tryheart.jp
@@ -18601,6 +18634,7 @@ swisssign.li
 swisssign-group.li
 swisstsa.li
 18ww.life
+2ch.life
 92hm.life
 978.life
 freepornvideos.life
@@ -18624,6 +18658,7 @@ xiaoshuobb.life
 xing66.life
 zlib.life
 1lib.limited
+2dust.link
 66lu.link
 alhs.link
 reddit.app.link
@@ -19747,6 +19782,7 @@ tmdb-web-image-prod.b-cdn.net
 b-eroland.net
 babesandbitches.net
 badgen.net
+bamtech.net
 bangchen.net
 bangher.net
 bannedbook.net
@@ -20041,8 +20077,6 @@ deepfakeporn.net
 deepfreeze.net
 delcamp.net
 dell.net
-demdex.net
-nab.demdex.net
 designxml.net
 desktopmovie.net
 desktopmovies.net
@@ -20828,11 +20862,11 @@ appleworldwidedeveloper.sc.omtrdc.net
 asahishimbun.sc.omtrdc.net
 linkedin.sc.omtrdc.net
 qualcomm.sc.omtrdc.net
+disneyplus.com.ssl.sc.omtrdc.net
 standchartbank.sc.omtrdc.net
 beatselectronicsllc.tt.omtrdc.net
 ea.tt.omtrdc.net
 espndotcom.tt.omtrdc.net
-nationalaustraliaban.tt.omtrdc.net
 nvidia.tt.omtrdc.net
 standchartbank.tt.omtrdc.net
 vmware.tt.omtrdc.net
@@ -21350,6 +21384,7 @@ vscode.search.windows.net
 windows-int.net
 windowscommunity.net
 winhec.net
+wiresock.net
 wistia.net
 witopia.net
 wixapps.net
@@ -21824,6 +21859,7 @@ oracle
 01.org
 18comic.org
 18sex.org
+2ch.org
 2lib.org
 4cdn.org
 4chan.org
@@ -21876,6 +21912,7 @@ amazonbusiness.org
 amerikaninsesi.org
 amnesty.org
 amnestyusa.org
+amnezia.org
 ampproject.org
 ams.org
 amzndns.org
@@ -22061,6 +22098,7 @@ ciscolearningsociety.org
 cispaletter.org
 citizenlab.org
 civilhrfront.org
+clashparty.org
 clasporno.org
 clearlinux.org
 clementine-player.org
@@ -23288,6 +23326,7 @@ ntc.party
 sexiranian.party
 soyjak.party
 spankbang.party
+cloudflare.pay
 12diasderegalosdeitunes.pe
 adidas.pe
 blogspot.pe
@@ -24885,6 +24924,7 @@ misskey.stream
 xvxx.stream
 affinity.studio
 ai.studio
+2ch.su
 arethusa.su
 atb.su
 bestporn.su
@@ -26406,6 +26446,7 @@ kodi.wiki
 minecraft.wiki
 namu.wiki
 spanking.wiki
+stash.wiki
 thefappening.wiki
 w.wiki
 freexxx.win
@@ -26450,6 +26491,7 @@ localdomain.ws
 missav.ws
 postyourgirls.ws
 rmbl.ws
+stash.ws
 tilda.ws
 weisuo.ws
 x1337x.ws
