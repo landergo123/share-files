@@ -262,8 +262,10 @@ bytecdn.cn
 bytedance.cn
 bytehouse.cn
 byteinspire.cn
+byteurl.cn
 bytexns.cn
 caocaokeji.cn
+capcut.cn
 cbn.cn
 cc-pay.cn
 ccspeed.cn
@@ -389,7 +391,6 @@ codebuddy.cn
 58cdn.com.cn
 800best.com.cn
 ai-guardrail.com.cn
-airchina.com.cn
 alihealth.com.cn
 alipay.com.cn
 aliwx.com.cn
@@ -797,6 +798,7 @@ cueme.cn
 cugbonline.cn
 cunchuhulian-ln.cn
 cup62.cn
+cxzx10086.cn
 cyzone.cn
 cza84.cn
 dahe.cn
@@ -1232,6 +1234,7 @@ zggbdszt.net.cn
 zygbdszt.net.cn
 news.cn
 newsimg.cn
+nfcos.cn
 nga.cn
 nihaorwanda.cn
 nikkigames.cn
@@ -1243,6 +1246,7 @@ noknok.cn
 ns95c.cn
 nssd.cn
 nubia.cn
+nvsgames.cn
 nwcdcloud.cn
 nwcddns.cn
 nwcdinfosec.cn
@@ -2069,7 +2073,6 @@ aipai.com
 aiqicha.com
 air-matters.com
 airchangan.com
-airchinacargo.com
 airguilin.com
 airnut.com
 aiskycn.com
@@ -2172,9 +2175,14 @@ aliyun-inc.com
 aliyun-iot-share.com
 aliyuncdn.com
 ap-southeast-1.aliyuncs.com
+cn-beijing.aliyuncs.com
+cn-chengdu.aliyuncs.com
+cn-guangzhou.aliyuncs.com
 cn-hangzhou.aliyuncs.com
 adash-emas.cn-hangzhou.aliyuncs.com
+cn-hongkong.aliyuncs.com
 cn-shanghai.aliyuncs.com
+hotfix-api.aliyuncs.com
 log-global.aliyuncs.com
 adash.man.aliyuncs.com
 oss-ap-northeast-1.aliyuncs.com
@@ -2206,6 +2214,7 @@ oss-eu-west-1.aliyuncs.com
 oss-me-east-1.aliyuncs.com
 oss-us-east-1.aliyuncs.com
 oss-us-west-1.aliyuncs.com
+registry.aliyuncs.com
 aliyundrive.com
 aliyunfile.com
 aliyunidaas.com
@@ -2527,6 +2536,7 @@ bthhotels.com
 btime.com
 buke999.com
 burningvocabulary.com
+buydouke.com
 buyjingxi.com
 bvfcdn.com
 bvfcdn2.com
@@ -2821,6 +2831,7 @@ chinamcloud.com
 chinamobile.com
 speedtest.hk.chinamobile.com
 speedtestbb.hk.chinamobile.com
+chinamobiledevice.com
 chinamobileltd.com
 chinanetcenter.com
 chinanews.com
@@ -2961,6 +2972,7 @@ cloudzhongshan.com
 cloudzhuhai.com
 cmcm.com
 cmcmcdn.com
+cmdcxls.com
 cmicapm.com
 cmpassport.com
 cmpay.com
@@ -3084,6 +3096,7 @@ dadighost.com
 daguzhe.com
 daheapp.com
 daikuan.com
+dailygn.com
 dajiabao.com
 dajie.com
 dajieimg.com
@@ -3329,7 +3342,9 @@ echargenet.com
 ecjobhome.com
 ecloud-gdu.com
 ecombdapi.com
+ecombdimg.com
 ecombdstatic.com
+ecombdvod.com
 ecukwai.com
 edgeceler.com
 edgeonedy1.com
@@ -3561,6 +3576,7 @@ funshion.com
 fuwai.com
 fuwj.com
 fxbaogao.com
+fxltsbl.com
 fxt365.com
 fxxz.com
 fyeds.com
@@ -4621,6 +4637,7 @@ liepin.com
 lietou.com
 lietou-static.com
 lieyunwang.com
+lifexue.com
 lightonus.com
 likuso.com
 linakesi.com
@@ -5045,6 +5062,7 @@ oadz.com
 obriccloud.com
 obricclouddw.com
 oceancloudapi.com
+oceanengine.com
 ocwms.com
 oeeee.com
 offcn.com
@@ -5427,6 +5445,7 @@ rumt-zh.com
 runningcheese.com
 runoob.com
 ruseer.com
+ruubypay.com
 rwkv.com
 rzrc114.com
 saayaa.com
@@ -5449,6 +5468,7 @@ sckg.com
 scm121.com
 scoregg.com
 scratch5.com
+sctcd.com
 sctv.com
 sctv-tf.com
 scyol.com
@@ -5504,6 +5524,7 @@ shengyizhuanjia.com
 shenjing.com
 shenmayouxi.com
 shenzhenair.com
+shenzhentong.com
 sheui.com
 shfft.com
 shgsec.com
@@ -5568,6 +5589,7 @@ smzdmimg.com
 snimay.com
 snodehome.com
 snowballsecurities.com
+snowballtech.com
 snssdk.com
 bds.snssdk.com
 extlog.snssdk.com
@@ -5625,6 +5647,7 @@ speedifyvolcaiv2.com
 speiyou.com
 springairlines.com
 springtour.com
+sptcc.com
 sqreader.com
 sseinfo.com
 ssjlicai.com
@@ -6047,6 +6070,7 @@ uiwow.com
 ule.com
 ulecdn.com
 ulikecam.com
+ulpay.com
 ultracachenode.com
 umeng.com
 aaid.umeng.com
@@ -6767,6 +6791,7 @@ zczj.com
 zdfans.com
 zdmimg.com
 zdnscloud.com
+zdsdp.com
 zealer.com
 zebracdn.com
 zeekrgroup.com
@@ -7048,6 +7073,7 @@ ddmc.mobi
 dduser.mobi
 ddxq.mobi
 dnspod.mobi
+faceu.mobi
 goto-game.mobi
 htjsq.mobi
 hwclouds.mobi
