@@ -1168,6 +1168,7 @@ mindspore.cn
 mioffice.cn
 mirrorcast.cn
 mle5p.cn
+mmbizurl.cn
 mnw.cn
 modelarts-infer.cn
 modelarts-maas.cn
@@ -1521,6 +1522,7 @@ unity3dcloud.cn
 unitychina.cn
 updream.cn
 upfos.cn
+url.cn
 urlqh.cn
 uwtmy.cn
 uzero.cn
