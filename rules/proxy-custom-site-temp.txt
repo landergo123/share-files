@@ -978,6 +978,7 @@ nvidia.it
 pin.it
 pinterest.it
 redd.it
+yandex.it
 java
 yandex.jobs
 appdynamics.jp

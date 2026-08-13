@@ -10382,6 +10382,7 @@ myminiso.com
 mymmode.com
 mymusclevideo.com
 mynike.com
+mynixos.com
 myoctocat.com
 myparagliding.com
 mypearson.com
@@ -10799,6 +10800,7 @@ niosii.com
 niuc2.com
 niusnews.com
 nivodz.com
+nixlang.com
 njavtv.com
 njpw1972.com
 nke6.com
@@ -15703,6 +15705,7 @@ mdnplay.dev
 mdnyalp.dev
 ngrok.dev
 ngrok-free.dev
+nix.dev
 opensourceinsight.dev
 opensourceinsights.dev
 openspec.dev
@@ -17554,6 +17557,7 @@ github.io
 bybit-exchange.github.io
 matsuridayo.github.io
 metacubex.github.io
+nix-community.github.io
 throneproj.github.io
 trojan-gfw.github.io
 xtls.github.io
@@ -17862,6 +17866,7 @@ volvotruckcenter.it
 volvotrucks.it
 xnxx2.it
 yahoo.it
+yandex.it
 youtube.it
 java
 google.je
@@ -22059,6 +22064,7 @@ bt4g.org
 btku.org
 budaedu.org
 bugzilla.org
+builtwithnix.org
 bullog.org
 bumptop.org
 business-humanrights.org
@@ -22767,7 +22773,11 @@ nhentaihaven.org
 nikebetterworld.org
 nikefoundation.org
 nikeplus.org
+nix-community.org
+nixcon.org
+nixcon2017.org
 nixos.org
+nixpkgs.org
 njactb.org
 nodejs.org
 nokogiri.org
@@ -24948,6 +24958,7 @@ yandex.st
 91porny.store
 discord.store
 mimei.store
+nix.store
 svipshipin.store
 vercel.store
 kk.stream
@@ -26477,6 +26488,7 @@ gogoanime.wiki
 kodi.wiki
 minecraft.wiki
 namu.wiki
+nixos.wiki
 spanking.wiki
 stash.wiki
 thefappening.wiki
