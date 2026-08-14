@@ -12393,6 +12393,7 @@ sbitravelcard.com
 sbnation.com
 sbuxcard.com
 sc.com
+sc-gw.com
 scaleflex.com
 scaleform.com
 scandalplanet.com
@@ -19310,6 +19311,7 @@ jwt.ms
 ntp.nat.ms
 nyti.ms
 onestore.ms
+rsg.ms
 sfx.ms
 sm.ms
 staffhub.ms
@@ -21089,6 +21091,7 @@ sankie.net
 savitahd.net
 sb-telecom.net
 sc-cdn.net
+sc-static.net
 scat-shop.net
 scifisex.net
 scolle.net
