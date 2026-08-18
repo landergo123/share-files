@@ -117,9 +117,11 @@ volx.cn
 wtturl.cn
 wukongwenda.cn
 xck31.cn
+xiaohe.cn
 xiguaapp.cn
 xiguashipin.cn
 xiguavideo.cn
+xingtu.cn
 xyf61.cn
 yoma.cn
 ytxptd.cn
@@ -154,6 +156,7 @@ aihst8.com
 ali-gtm-pressure.com
 amemv.com
 anycross.com
+applogcdn.com
 roovza.inapps.appsflyersdk.com
 roovza.launches.appsflyersdk.com
 roovza-launches.appsflyersdk.com
@@ -356,6 +359,7 @@ douyincdn.com
 douyinec.com
 douyinfe.com
 douyinliving.com
+douyinmusicpromotion.com
 douyinpay.com
 douyinpic.com
 douyinstatic.com
@@ -495,6 +499,7 @@ larksuiteimg.com
 larksuiteimg-boe.com
 larksuiteimg-pre.com
 larkvc.com
+letsign.com
 lifexue.com
 livecdnstatic.com
 livesaascdn.com
@@ -559,6 +564,7 @@ qznovelstatic.com
 qznovelvod.com
 samasty.com
 sealsuite.com
+searchpstatp.com
 searchstatic.com
 searchtoutiaolive.com
 shidianguji.com

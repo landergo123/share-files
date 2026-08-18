@@ -161,6 +161,7 @@ ntp.ntsc.ac.cn
 acadn.cn
 accuratead.cn
 acfun.cn
+apilog-web.acfun.cn
 acfunchina.cn
 acgab.cn
 acimg.cn
@@ -826,6 +827,7 @@ dbankcloud.cn
 dbankedge.cn
 ddimg.cn
 debugmode.cn
+dedao.cn
 designkit.cn
 dewuapp.cn
 dewuhaowu.cn
@@ -1615,6 +1617,7 @@ xcc.cn
 xck31.cn
 xfyun.cn
 xiaochuankeji.cn
+xiaohe.cn
 xiaoheihe.cn
 xiaomi.cn
 xiaomidns.cn
@@ -1624,6 +1627,7 @@ xiguaapp.cn
 xiguacity.cn
 xiguashipin.cn
 xiguavideo.cn
+xingtu.cn
 xinlingshou.cn
 xinmin.cn
 xinyan.cn
@@ -2304,6 +2308,7 @@ appchina.com
 appeeres.com
 appinn.com
 appjiagu.com
+applogcdn.com
 applysquare.com
 roovza.inapps.appsflyersdk.com
 roovza.launches.appsflyersdk.com
@@ -3277,6 +3282,7 @@ douyincdn.com
 douyinec.com
 douyinfe.com
 douyinliving.com
+douyinmusicpromotion.com
 douyinpay.com
 douyinpic.com
 douyinstatic.com
@@ -3372,6 +3378,7 @@ ebtrust.com
 eceshi.com
 echargenet.com
 ecjobhome.com
+eckwai.com
 ecloud-gdu.com
 ecombdapi.com
 ecombdimg.com
@@ -4464,6 +4471,7 @@ klpbbs.com
 kmeila.com
 knewsmart.com
 knownsec.com
+komect.com
 kongfz.com
 koocdn.com
 kookong.com
@@ -4553,6 +4561,9 @@ kuyinxiu.com
 kuyinyun.com
 kuyiso.com
 kwaicdn.com
+kwaishop.com
+kwaixiaodian.com
+kwaiying.com
 kwaizt.com
 kwimgs.com
 kych5.com
@@ -4654,6 +4665,7 @@ lenovomobile.com
 lenovonetapp.com
 lenovopoc.com
 lenovoprinter.com
+letsign.com
 letv.com
 letvcdn.com
 letvimg.com
@@ -4904,6 +4916,7 @@ moji002.com
 mojicdn.com
 mojichina.com
 mojidict.com
+mojidoc.com
 mokahr.com
 moleecel.com
 moliranran.com
@@ -5306,6 +5319,7 @@ qianlong.com
 qiantucdn.com
 qianuni.com
 qianwen.com
+qianwenai.com
 qianxin.com
 qianxincdn.com
 qianxuecloud.com
@@ -5518,6 +5532,7 @@ sczsxx.com
 sdgdwljt.com
 sdo.com
 sealsuite.com
+searchpstatp.com
 searchstatic.com
 searchtoutiaolive.com
 seasungames.com
@@ -6081,9 +6096,6 @@ txlivecdn.com
 txrjy.com
 txtyxg.com
 txyscdn.com
-u17.com
-u17i.com
-u17t.com
 ubssdic.com
 ubuntukylin.com
 uc123.com
@@ -6141,6 +6153,7 @@ alog.umengcloud.com
 cnlogs.umengcloud.com
 ulogs.umengcloud.com
 umetrip.com
+umiwi.com
 umsns.com
 umtrack.com
 log.umtrack.com
@@ -6466,6 +6479,7 @@ writingo-editor.com
 wscdns.com
 wsdvs.com
 wsglb.com
+wskwai.com
 wsoso.com
 wsukwai.com
 wswebcdn.com
@@ -7175,6 +7189,7 @@ iadmatapk.nosdn.127.net
 4399.net
 4399api.net
 5054399.net
+5gxcx.net
 5gzm.net
 71acg.net
 71shi.net
@@ -7395,6 +7410,7 @@ haowenti.net
 hecdn.net
 heisha.net
 heweather.net
+hfx.net
 hikunpeng.net
 hnol.net
 hsqh.net
