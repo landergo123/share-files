@@ -2,7 +2,6 @@ uoj.ac
 daogou.ai
 doctoryou.ai
 dui.ai
-moonshot.ai
 qwen.ai
 qwenlm.ai
 shengyi.ai

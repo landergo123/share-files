@@ -95,6 +95,7 @@ amazonstudiosguilds.com
 amazontrust.com
 amazonvideo.com
 amazonvideodirect.com
+amazonwebservices.com
 amazonworkdocs.com
 amplifyapp.com
 amplifyframework.com
