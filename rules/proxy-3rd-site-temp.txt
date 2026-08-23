@@ -9723,6 +9723,7 @@ mcdonalds.com
 mcdonalds-online.com
 mcdonaldsapps.com
 mcdonaldsarabia.com
+mceindex.com
 mcisco.com
 mcpeaceofmind.com
 mcstories.com
@@ -20480,6 +20481,7 @@ t.ssp.hinet.net
 efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net
 hiporn.net
 hipzoom.net
+historylines.net
 historyofdota.net
 hiveon.net
 hkbigman.net
@@ -22637,6 +22639,7 @@ khanacademy.org
 khatrimaza.org
 kindleoasis.org
 kingdomsalvation.org
+kiwix.org
 kmeleonbrowser.org
 konami.org
 kotlinlang.org
