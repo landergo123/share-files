@@ -2999,6 +2999,7 @@ aodahl.com
 aofriend.com
 search.aol.com
 video.aol.com
+aolcdn.com
 www.aolnews.com
 aomiwang.com
 aorus.com
@@ -11144,6 +11145,7 @@ ouroath.com
 oursexgames.com
 ourshdtv.com
 ourshemales.com
+ouryahoo.com
 out-app-purchase.com
 outdoorpublicsex.com
 outingsapp.com
@@ -15081,6 +15083,7 @@ yahoo.com
 yahooapis.com
 yahoofinance.com
 yahoohealth.com
+yahooinc.com
 yahoomusic.com
 yahoosandbox.com
 yahoosportsbook.com
@@ -19557,6 +19560,7 @@ accountpaypal.net
 acesofthunder.net
 acjj.net
 adgoogle.net
+adguardaccount.net
 adobeaemcloud.net
 adobedc.net
 adskcloud.net
