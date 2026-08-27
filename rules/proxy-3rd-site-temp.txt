@@ -10646,6 +10646,7 @@ nfscofficial.com
 nfsworld.com
 nftstatic.com
 ngeo.com
+ngfiles.com
 nginx.com
 ngrok.com
 ngrok-agent.com
@@ -17580,6 +17581,7 @@ gitlab.io
 granulate.io
 graphengine.io
 gsrc.io
+h264.io
 hackmd.io
 hayabusa.io
 hentai.io
