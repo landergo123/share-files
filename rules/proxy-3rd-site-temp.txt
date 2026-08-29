@@ -283,6 +283,7 @@ manga18.art
 misskey.art
 signal.art
 google.as
+write.as
 yahoo.as
 90seconds.asia
 alphabet.asia
@@ -24978,6 +24979,7 @@ libgen.st
 mcs.st
 pawchive.st
 pca.st
+remna.st
 sci-hub.st
 sixte.st
 soyjak.st
