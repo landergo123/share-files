@@ -1822,6 +1822,7 @@ uu.163.com
 2265.com
 2345.com
 258.com
+25mao.com
 25pp.com
 289.com
 2cto.com
@@ -1953,6 +1954,7 @@ cps.360buy.com
 52muban.com
 52pk.com
 52ppt.com
+52youzai.com
 52z.com
 53kf.com
 55.com
@@ -1963,6 +1965,7 @@ cps.360buy.com
 56che.com
 56img.com
 56laile.com
+56tvc.com
 56xiniao.com
 58.com
 5858.com
@@ -2059,6 +2062,7 @@ acadn.com
 acctdns.com
 accxiaoheihe.com
 acfunchina.com
+acgdraw.com
 acgvideo.com
 acloudrender.com
 activity-dy.com
@@ -2073,9 +2077,11 @@ activitybyte.com
 acwing.com
 adacpp.com
 adbkwai.com
+adhuanxiao.com
 adkwai.com
 admin5.com
 admincdn.com
+adosmo.com
 adukwai.com
 adxvip.com
 afdian.com
@@ -2289,6 +2295,7 @@ anticheatexpert.com
 antpcdn.com
 antpedia.com
 antutu.com
+anvnjmc.com
 anxia.com
 anycross.com
 anycubic.com
@@ -2311,6 +2318,7 @@ appinn.com
 appjiagu.com
 applogcdn.com
 applysquare.com
+appracle.com
 roovza.inapps.appsflyersdk.com
 roovza.launches.appsflyersdk.com
 roovza-launches.appsflyersdk.com
@@ -2340,6 +2348,7 @@ b2bgo.com
 b2byao.com
 b3logfile.com
 b612kaji.com
+ba-hospital.com
 babytree.com
 babytreeimg.com
 badou.com
@@ -2556,6 +2565,7 @@ bootcss.com
 bosera.com
 bosszhipin.com
 bouffalolab.com
+bowenkj.com
 boxdouyin.com
 boyuemobile.com
 bpgslbcn.com
@@ -3607,6 +3617,7 @@ frp-ski.com
 frp-sun.com
 frp-tag.com
 fsfund.com
+fsjiaoyubang.com
 fspcdn.com
 ftfund.com
 fugetech.com
@@ -3683,6 +3694,7 @@ gdrc.com
 gdtimg.com
 geely.com
 geetest.com
+gei6.com
 geilicdn.com
 genshinimpact.com
 gepush.com
@@ -3784,6 +3796,7 @@ gxxmt.com
 gxxw.com
 gzasc.com
 gzcqs.com
+gzjkoa.com
 gzlzfm.com
 gztv.com
 gzwanju.com
@@ -3807,6 +3820,7 @@ hanboshi.com
 handanjob.com
 hangjiayun.com
 hangzhouyq.com
+hanqiuming888.com
 hanyi.com
 hao123.com
 hao123img.com
@@ -3869,6 +3883,7 @@ hichina.com
 hiclc.com
 hicloud.com
 hifuntv.com
+higgsweb.com
 hihocoder.com
 hihonor.com
 hihonorcdn.com
@@ -3880,6 +3895,7 @@ hikiot.com
 hikmall.com
 hikunpeng.com
 hikvision.com
+hiocloud.com
 hisense.com
 hisense-home.com
 hisensehitachi.com
@@ -4435,6 +4451,7 @@ kaopu001.com
 kaoshibao.com
 kcbebank.com
 kcdnvip.com
+kcttpa.com
 kd100.com
 kdslife.com
 ke.com
@@ -4461,6 +4478,7 @@ kinghomechina.com
 kingsoft.com
 kingsoft-office-service.com
 kiwa-tech.com
+kiwiot.com
 kjcdn.com
 kjwugx.com
 kkmh.com
@@ -4520,6 +4538,7 @@ kuaishouzt.com
 kuaizhan.com
 kuajing84.com
 kuangxiangit.com
+kudashi.com
 kugoo.com
 kugou.com
 adserviceretry.kugou.com
@@ -4535,6 +4554,7 @@ kugouvoice.com
 kugouyouth.com
 kujiale.com
 kujiang.com
+kukongjian.com
 kumiao.com
 kunlunaq.com
 kunlunar.com
@@ -4736,6 +4756,7 @@ lorhf.com
 lotpc.com
 loupan.com
 lovestu.com
+loveutips.com
 lppz.com
 lppzimg.com
 lsbj365.com
@@ -4815,6 +4836,7 @@ mei.com
 meican.com
 meicanstatic.com
 meifang.com
+meijian.com
 meika360.com
 meilishuo.com
 meimingteng.com
@@ -4904,6 +4926,7 @@ mmstat.com
 mob.com
 mobmore.com
 mobsdks.com
+modaiyun.com
 modelarts-infer.com
 modelarts-maas.com
 moedu.com
@@ -5148,6 +5171,7 @@ oortgslb.com
 opdown.com
 open-douyin.com
 openbcs.com
+openevai.com
 openinstall.com
 openlearning.com
 openmidas.com
@@ -5201,6 +5225,7 @@ paydxm.com
 pc6.com
 pcbeta.com
 pcpop.com
+pcwatch.com
 pddcdn.com
 pddim.com
 pddpic.com
@@ -5247,6 +5272,7 @@ poweremarket.com
 ppkankan01.com
 pplive.com
 ppsimg.com
+ppt28.com
 pptbest.com
 pptv.com
 ppxhhh.com
@@ -5347,6 +5373,7 @@ qingcloud.com
 qingdaonews.com
 qingfuwu.com
 qingfuwucdn.com
+qingjiansoft.com
 qinglue.com
 qingsongchou.com
 qingstor.com
@@ -5546,9 +5573,11 @@ secrss.com
 seewo.com
 segmentfault.com
 segwayrobotics.com
+senachina.com
 sencdn.com
 seniverse.com
 senlinjimore.com
+senmuse.com
 servicewechat.com
 sf-airlines.com
 sf-cityrush.com
@@ -6160,6 +6189,8 @@ umiwi.com
 umsns.com
 umtrack.com
 log.umtrack.com
+uneed.com
+uneedx.com
 unicloud.com
 unicompayment.com
 unionpay.com
@@ -6359,6 +6390,7 @@ volcwaf.com
 volcwaf001.com
 voleai.com
 vpgame.com
+vpsjyz.com
 vpsvs.com
 vrzwk.com
 vscenevideo.com
@@ -6685,6 +6717,7 @@ ygduoyi.com
 yh31.com
 yhd.com
 yhgfb-cn-static.com
+yibanbianji.com
 yicai.com
 yiche.com
 yichengwlkj.com
@@ -6730,6 +6763,7 @@ ymbank.com
 ymtc.com
 ynet.com
 ynhr.com
+ynsj001.com
 yo9.com
 yocajr.com
 yokaverse.com
@@ -6959,10 +6993,12 @@ zjbyte.com
 zjcdn.com
 zjfcdn.com
 zjgslb.com
+zjjslawyer.com
 zjshulong.com
 zjstv.com
 zjxhedu.com
 zjzsa.com
+zllinks.com
 zmengzhu.com
 zmifi.com
 zmtqsh.com
@@ -7006,9 +7042,11 @@ zybang.com
 syh.zybang.com
 zyh365.com
 zysou.com
+zyyct.com
 zzclass.com
 zzdtec.com
 zztfly.com
+zzzmap.com
 chushi.cool
 cnb.cool
 edgeone.cool
@@ -7036,6 +7074,7 @@ building.fun
 chaz.fun
 dbbuilding.fun
 sast.fun
+fffff.games
 ulife.group
 mchost.guru
 tcwqqdy.guru
@@ -7525,6 +7564,7 @@ miaoshou.net
 mieco.net
 missjia.net
 mndqlib.net
+mrtdephoto.net
 mslmc.net
 mszdld.net
 mxbc.net
@@ -7549,6 +7589,7 @@ onlinedown.net
 openviking.net
 oracle-tencent.net
 oray.net
+orence.net
 oschina.net
 ovscdns.net
 p5w.net
@@ -7921,12 +7962,16 @@ aloys233.top
 awstme.top
 bdcat.top
 bsbsb.top
+bvmlt.top
+cdut.top
 chat.top
 clk1.top
 codeloop.top
 coolab.top
+cydiabc.top
 diandianlife.top
 edgemonix.top
+funmob.top
 geektool.top
 goka.top
 goodq.top
@@ -7948,6 +7993,7 @@ share123.top
 tapnow.top
 tclai.top
 tgpro.top
+threep.top
 tianhw.top
 topwd.top
 ucgslb.top
@@ -7963,6 +8009,7 @@ yto.top
 yyshub.top
 zctnet.top
 zway.top
+zzzcaculator.top
 163cn.tv
 acg.tv
 aisee.tv
@@ -8046,5 +8093,6 @@ nellit.xyz
 podcast.xyz
 privateapi.xyz
 steam302.xyz
+tianruo.xyz
 yun
 wss.zone
