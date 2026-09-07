@@ -20169,6 +20169,7 @@ payload:
   - '+.fapopedia.net'
   - '+.farfetch.net'
   - '+.lastfm.freetls.fastly.net'
+  - '+.lastfm-img.freetls.fastly.net'
   - '+.mozilla.map.fastly.net'
   - '+.spotify.map.fastly.net'
   - '+.roblox-poc.global.ssl.fastly.net'
