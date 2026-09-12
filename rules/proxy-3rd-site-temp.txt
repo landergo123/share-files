@@ -11990,6 +11990,7 @@ steam.apac.qtlglb.com
 steam.eca.qtlglb.com
 steam.naeu.qtlglb.com
 steam.ru.qtlglb.com
+quakemachinex.com
 qualcomm.com
 qualcomm-email.com
 qualcomm-inc.com
