@@ -8400,6 +8400,7 @@ ibookpartner.com
 ibooksauthor.com
 ibradome.com
 ibvpn.com
+p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 iccf.com
 iceporn.com
 iceporncasting.com
@@ -15744,6 +15745,7 @@ shopify.dev
 sourcecraft.dev
 stackpath.dev
 stadia.dev
+stripe.dev
 t-tech.dev
 termux.dev
 tfhub.dev
@@ -16148,6 +16150,7 @@ xxxstreams.eu
 yandex.eu
 youporner.eu
 zoho.eu
+stripe.events
 vercel.events
 dydx.exchange
 himalaya.exchange
@@ -16487,6 +16490,7 @@ nfsc.global
 ozon.global
 rea.global
 stellasora.global
+stripe.global
 dell.gm
 google.gm
 intel.gm
