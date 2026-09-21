@@ -5093,6 +5093,7 @@ cockofhorse.com
 cocksuckersguide.com
 cocktailsandcocktalk.com
 cockyboys.com
+codebuff.com
 codecademy.com
 codeforces.com
 codeium.com
@@ -6805,6 +6806,7 @@ firebaseapp.com
 firebaseio.com
 fireemblemawakening.com
 firefox.com
+firefox-portal-detection.com
 firefoxtweetmachine.com
 firefoxusercontent.com
 firesidegatherings.com
@@ -7066,6 +7068,7 @@ freebasics.com
 freebeacon.com
 freebigmovies.com
 freebs.com
+freebuff.com
 freecamsfan.com
 freechatnow.com
 freechinaweibo.com
@@ -7554,7 +7557,6 @@ clients1.google.com
 alkalicore-pa.clients6.google.com
 alkalimakersuite-pa.clients6.google.com
 webchannel-alkalimakersuite-pa.clients6.google.com
-firebase.google.com
 scholar.l.google.com
 mtalk.google.com
 mtalk-dev.google.com
@@ -7583,6 +7585,8 @@ cloudcode-pa.googleapis.com
 daily-cloudcode-pa.googleapis.com
 firebase.googleapis.com
 firebaseappcheck.googleapis.com
+firebaseappdistribution.googleapis.com
+firebaseapptesters.googleapis.com
 firebasedynamiclinks.googleapis.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
@@ -15702,6 +15706,7 @@ deps.dev
 discord.dev
 epicgames.dev
 f6.dev
+firebase.dev
 flow.dev
 flutter.dev
 fly.dev
@@ -21267,6 +21272,7 @@ teensloveporn.net
 teinon.net
 teslazta.net
 tex-talk.net
+tfbnw.net
 tfsallin.net
 thaigirls.net
 thaigirls100.net

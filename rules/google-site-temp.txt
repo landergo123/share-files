@@ -251,7 +251,7 @@ alkalimakersuite-pa.clients6.google.com
 webchannel-alkalimakersuite-pa.clients6.google.com
 dl.google.com
 fcmatch.google.com
-firebase.google.com
+flow.google.com
 gemini.google.com
 jules.google.com
 dl.l.google.com
@@ -315,6 +315,8 @@ crashlyticsreports-pa.googleapis.com
 daily-cloudcode-pa.googleapis.com
 firebase.googleapis.com
 firebaseappcheck.googleapis.com
+firebaseappdistribution.googleapis.com
+firebaseapptesters.googleapis.com
 firebasedynamiclinks.googleapis.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
@@ -561,6 +563,7 @@ chromeos.dev
 dart.dev
 dartpad.dev
 deps.dev
+firebase.dev
 flutter.dev
 fuchsia.dev
 g.dev
@@ -656,6 +659,7 @@ gemini.google
 generativeai.google
 jules.google
 labs.google
+notebook.google
 notebooklm.google
 opal.google
 registry.google
