@@ -1,5 +1,6 @@
 payload:
   - '+.meta.ai'
+  - '+.muse.ai'
   - '+.facebook.br'
   - '+.buck.build'
   - '+.facebook.ca'
@@ -365,6 +366,7 @@ payload:
   - '+.messenger.com'
   - '+.messengerdevelopers.com'
   - '+.meta.com'
+  - '+.metaaivm.com'
   - '+.metacritic.com'
   - '+.metart.com'
   - '+.metartnetwork.com'

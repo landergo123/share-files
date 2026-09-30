@@ -8039,6 +8039,7 @@ payload:
   - '+.coze.site'
   - '+.lightmake.site'
   - '+.fofa.so'
+  - '+.cnb.space'
   - '+.heiyu.space'
   - '+.xyzfm.space'
   - '+.mingxuan.store'
