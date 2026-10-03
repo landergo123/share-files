@@ -15644,6 +15644,7 @@ payload:
   - '+.bdn.dev'
   - '+.chromeos.dev'
   - '+.clashverge.dev'
+  - '+.claude.dev'
   - '+.cloudflare.dev'
   - '+.da3dsoul.dev'
   - '+.dart.dev'
