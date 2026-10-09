@@ -417,7 +417,6 @@ threads.com
 toplayerserver.com
 viewpointsfromfacebook.com
 whatsapp.com
-graph.whatsapp.com
 whatsappbrand.com
 whyfacebook.com
 workplace.com
@@ -506,7 +505,6 @@ thefacebook.net
 threads.net
 web-instagram.net
 whatsapp.net
-graph.whatsapp.net
 whatsapp-plus.net
 zuckerberg.net
 facebook.nl

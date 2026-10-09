@@ -7461,6 +7461,8 @@ githubsupport.com
 githubuniverse.com
 githubusercontent.com
 copilot-proxy.githubusercontent.com
+copilot-telemetry.githubusercontent.com
+copilot-telemetry-service.githubusercontent.com
 gitlab.com
 gitstar.com
 gittigidiyorsikayet.com
@@ -21310,6 +21312,7 @@ theuab.net
 thisvidscat.net
 threads.net
 thunderbird.net
+incoming-telemetry.thunderbird.net
 thunderbolttechnology.net
 thz7.net
 tiananmenuniv.net
@@ -22804,6 +22807,7 @@ morningsun.org
 movements.org
 movidius.org
 mozilla.org
+incoming.telemetry.mozilla.org
 mozilla-europe.org
 mozilla-hispano.org
 mozilla-mexico.org

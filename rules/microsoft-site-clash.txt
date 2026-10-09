@@ -234,6 +234,7 @@ payload:
   - '+.ghe.com'
   - '+.gigjam.com'
   - '+.github.com'
+  - '+.cafe.github.com'
   - '+.collector.github.com'
   - '+.github1s.com'
   - '+.githubapp.com'
