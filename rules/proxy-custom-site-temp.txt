@@ -124,6 +124,7 @@ prostores.cn
 terapeak.cn
 xn--7hvy28f.cn
 xn--bnq297cix3a.cn
+yandex-ad.cn
 ebay.yn.cn
 ebay.zj.cn
 cs.co
@@ -658,6 +659,7 @@ renchead.com
 s-xoom.com
 sc-gw.com
 services-exchange.com
+shedevrum.com
 shoping.com
 shotwithgeforce.com
 shownote.com
@@ -826,6 +828,8 @@ clck.yandex.com
 mc.yandex.com
 metrika.yandex.com
 pixel.yandex.com
+yandex-team.com
+yandexdataschool.com
 yandexgo.com
 yandexmetrica.com
 yango.com
@@ -1030,6 +1034,7 @@ ebay.lt
 yandex.lt
 nvidia.lu
 yandex.lv
+yandex.market
 yandex.md
 line.me
 line-beta.me
@@ -1317,6 +1322,7 @@ nvidia.com.pl
 ebay.pl
 nvidia.pl
 yandex.pl
+yandex.pro
 pinterest.pt
 pinterest.com.py
 yango.qa
@@ -1324,14 +1330,25 @@ nvidia.ro
 adfox.ru
 admetrica.ru
 berizaryad.ru
+beru.ru
+bookmate.ru
 clck.ru
 yandex.com.ru
+delivery-club.ru
 ebaysocial.ru
+edadeal.ru
 elama.ru
+foodfox.ru
 kinopoisk.ru
+market.ru
+yandex.net.ru
 nvidia.ru
 pinterest.ru
 realtyverif.ru
+rutaxi.ru
+shedevrum.ru
+thequestion.ru
+vezet.ru
 win-line.ru
 winline.ru
 winlinebet.ru
@@ -1352,10 +1369,10 @@ informer.yandex.ru
 mc.yandex.ru
 metrika.yandex.ru
 log.strm.yandex.ru
-yabs.yandex.ru
 yandex-metrica.ru
 report.ap.yandex-net.ru
 yandex-team.ru
+yandexdataschool.ru
 yandexlyceum.ru
 yastatic-net.ru
 yccdn.ru
@@ -1368,6 +1385,7 @@ ebayexpress.sg
 gumtree.sg
 notion.site
 snapp.site
+yadi.sk
 notion.so
 paypal.so
 airhorn.solutions
@@ -1378,10 +1396,12 @@ discord.store
 snapp.supply
 yandex.sx
 snapp.taxi
+yandex.taxi
 yango.taxi
 snapp.tech
 yads.tech
 yango.tech
+ydb.tech
 pinterest.th
 yandex.tj
 yandex.tm
@@ -1390,6 +1410,7 @@ openkylin.top
 nvidia.com.tr
 yandex.com.tr
 yandex.tr
+yandex.travel
 signal.tube
 adcommerce.tv
 billpoint.tv
