@@ -2222,6 +2222,7 @@ payload:
   - '+.777xporn.com'
   - '+.77maott.com'
   - '+.7capture.com'
+  - '+.7x24hrs.com'
   - '+.8-d.com'
   - '+.8008206616.com'
   - '+.81tower.com'
