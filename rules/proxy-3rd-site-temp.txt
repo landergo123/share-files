@@ -129,6 +129,7 @@ tinkoff.ai
 trae.ai
 tripo3d.ai
 tsi.ai
+typesafe.ai
 ukit.ai
 videoindexer.ai
 wombo.ai
@@ -5319,6 +5320,7 @@ curseforge.com
 cursor.com
 cursor-cdn.com
 cursorapi.com
+cursorvm.com
 curvefish.com
 curvybbwwives.com
 curvyerotic.com
@@ -12452,6 +12454,7 @@ schemer.com
 schiffvitamins.com
 schwab.com
 schwabassetmanagement.com
+schwabcdn.com
 schwabplan.com
 science.com
 sciencedirect.com
@@ -18665,6 +18668,7 @@ mastercard.kz
 mini.kz
 ozon.kz
 sony.kz
+timewebcloud.kz
 ucoz.kz
 vk.kz
 vkcloud.kz
@@ -22895,6 +22899,7 @@ onemozilla.org
 onionshare.org
 onlynudes.org
 ooni.org
+openai.org
 opencreate.org
 opendroneid.org
 opengraphprotocol.org
@@ -25243,6 +25248,7 @@ rtnewsde.tech
 rwbautomation.tech
 safeliner.tech
 sage-observability.tech
+timeweb.tech
 wbautomation.tech
 wbwh.tech
 xlayer.tech

@@ -8,6 +8,7 @@ crixet.com
 cursor.com
 cursor-cdn.com
 cursorapi.com
+cursorvm.com
 oaistatic.com
 oaistatsig.com
 oaiusercontent.com
@@ -22,5 +23,6 @@ openai.com.cdn.cloudflare.net
 openaicom.imgix.net
 openaiassets.blob.core.windows.net
 openaicomproductionae4b.blob.core.windows.net
+openai.org
 cursor.sh
 chatgpt.site
