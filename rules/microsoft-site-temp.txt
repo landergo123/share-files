@@ -142,7 +142,6 @@ ankarazirvesi2018.com
 api-extractor.com
 vsmarketplacebadge.apphb.com
 github-api.arkoselabs.com
-asobostudio.com
 aspnetcdn.com
 azchcdna.com
 azchcdnb.com
@@ -224,7 +223,6 @@ exp-tas.com
 default.exp-tas.com
 fasttrackreadysupport.com
 femalefounderscomp.com
-flightsimulator.com
 flipwithsurface.com
 fluidpreview.com
 footprintdns.com
@@ -595,7 +593,6 @@ azurecosmosdb.net
 azuredatabricks.net
 azuredigitaltwins.net
 azureedge.net
-flightsimulator.azureedge.net
 azureedge-test.net
 azurefd.net
 azureplanetscale.net

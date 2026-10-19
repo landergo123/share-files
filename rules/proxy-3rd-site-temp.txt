@@ -182,6 +182,7 @@ agedm.app
 attestation.app
 authpass.app
 bbc-reporting-api.app
+beget.app
 blurams.app
 bsky.app
 carrotquest.app
@@ -1731,6 +1732,8 @@ syfor.click
 anaconda.cloud
 appdomain.cloud
 appleone.cloud
+beget.cloud
+begetcdn.cloud
 binance.cloud
 bybit.cloud
 epoch.cloud
@@ -2874,6 +2877,7 @@ wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 zeenews-fonts.s3.amazonaws.com
 notary-submissions-prod.s3-accelerate.amazonaws.com
 ebay-25-assets.s3-us-west-1.amazonaws.com
+devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
 roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 notary-submissions-prod.s3.us-west-2.amazonaws.com
 amazonaws-china.com
@@ -3216,7 +3220,6 @@ askstudent.com
 askubuntu.com
 asmhentai.com
 asmrbuluo.com
-asobostudio.com
 asp-cc.com
 aspenpublishing.com
 aspnetcdn.com
@@ -6844,7 +6847,6 @@ fleursdeslettres.com
 flexclip.com
 flexsig.com
 flickr.com
-flightsimulator.com
 flipboard.com
 flipfap.com
 flipkart.com
@@ -15521,6 +15523,7 @@ applestore.de
 archlinux.de
 barton.de
 beck-online.beck.de
+beget.de
 berlinerbericht.de
 bestsrv.de
 bild.de
@@ -16924,6 +16927,7 @@ iphone.host
 mastodon.host
 nike.host
 sexvideos.host
+beget.hosting
 vps.hosting
 hotmail
 devsitetest.how
@@ -17737,6 +17741,7 @@ snmc.io
 solscan.io
 soup.io
 spatial.io
+sprut.io
 cdn.statically.io
 statuspage.io
 stealthex.io
@@ -19868,7 +19873,6 @@ azurecosmosdb.net
 azuredatabricks.net
 azuredigitaltwins.net
 azureedge.net
-flightsimulator.azureedge.net
 gigabyte2.azureedge.net
 openaiapi-site.azureedge.net
 production-openaicom-storage.azureedge.net
@@ -20112,6 +20116,7 @@ d2vjef5jvl6bfs.cloudfront.net
 d2xmjdvx03ij56.cloudfront.net
 d31dormfno8pk4.cloudfront.net
 d33wubrfki0l68.cloudfront.net
+d348twzf7a8p5.cloudfront.net
 d36nr0u3xmc4mm.cloudfront.net
 d3aqoihi2n8ty8.cloudfront.net
 d3c27h4odz752x.cloudfront.net
@@ -20129,6 +20134,7 @@ ddpjwstwtpszg.cloudfront.net
 dfp6rglgjqszk.cloudfront.net
 dgeft87wbj63p.cloudfront.net
 dmqdd6hw24ucf.cloudfront.net
+doy2mn9upadnk.cloudfront.net
 dqd0jw5gvbchn.cloudfront.net
 dqrpb9wgowsf5.cloudfront.net
 ds0h3roq6wcgc.cloudfront.net
@@ -21111,6 +21117,7 @@ pussy-pics.net
 pussyboy.net
 pussyspace.net
 putinho.net
+pv-cdn.net
 pvp.net
 pximg.net
 pypl.net
@@ -23683,6 +23690,7 @@ rtde.press
 anyxxx.pro
 babes34.pro
 barss1207.pro
+beget.pro
 binancezh.pro
 bsxm1213.pro
 cutout.pro
@@ -24028,8 +24036,10 @@ beescrm.ru
 beget.ru
 berizaryad.ru
 beru.ru
+beserver.ru
 bestchange.ru
 bfa.ru
+bget.ru
 bimsaas.ru
 biqle.ru
 bk.ru
@@ -25224,6 +25234,7 @@ x.team
 2gis.tech
 appleone.tech
 atomyze.tech
+beget.tech
 bystys.tech
 deepfreeze.tech
 dert.tech
@@ -26797,6 +26808,7 @@ xn--80arpq.xn--p1ai
 xn--80asgb.xn--p1ai
 xn--90ab2c.xn--p1ai
 xn--90absjljw3g.xn--p1ai
+xn--90aefb9d.xn--p1ai
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1acpjx3f.xn--p1ai
 xn--e1aigb.xn--p1ai

@@ -206,6 +206,7 @@ d25xi40x97liuc.cloudfront.net
 d27xxe7juh1us6.cloudfront.net
 dmqdd6hw24ucf.cloudfront.net
 cloudfront-cn.net
+pv-cdn.net
 amazon.com.ng
 amazon.nl
 amazonaws.org
