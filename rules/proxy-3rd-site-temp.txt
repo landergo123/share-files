@@ -2856,6 +2856,7 @@ amazonauthorinsights.com
 amazonaws.com
 misa-prod.s3.ap-northeast-1.amazonaws.com
 eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 cloudsync-prod.s3.amazonaws.com
 csis-prod.s3.amazonaws.com
 docker-pinata-support.s3.amazonaws.com
@@ -9581,6 +9582,7 @@ magentomobile.com
 magestic.com
 magicalmirai.com
 magicmovies.com
+magnific.com
 mahajantech.com
 mahjongsoul.com
 mail.com
@@ -11813,6 +11815,7 @@ poskotanews.com
 post76.com
 post852.com
 postini.com
+postman.com
 potatso.com
 potvpn.com
 poudobnee.com
@@ -19734,6 +19737,7 @@ heads-ak-spotify-com.akamaized.net
 heads4-ak-spotify-com.akamaized.net
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
+kp-config-smart-tv.akamaized.net
 linear-abematv.akamaized.net
 media-rockstargames-com.akamaized.net
 mwf-service.akamaized.net
@@ -24278,6 +24282,7 @@ mrgcdn.ru
 ssb.msk.ru
 mspbank.ru
 mts.ru
+mts-link.ru
 mtsbank.ru
 mtsdengi.ru
 mtsmedia.ru

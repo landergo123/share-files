@@ -160,6 +160,7 @@ alivertsm.com
 alivevm.com
 alivevmax.com
 alivevue.com
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 docker-pinata-support.s3.amazonaws.com
 impala-media-production.s3.amazonaws.com
 venmo.s3.amazonaws.com
@@ -1059,6 +1060,7 @@ audio-ak-spotify-com.akamaized.net
 audio4-ak-spotify-com.akamaized.net
 heads-ak-spotify-com.akamaized.net
 heads4-ak-spotify-com.akamaized.net
+kp-config-smart-tv.akamaized.net
 appsonebay.net
 billmelater.net
 briantreepayments.net
