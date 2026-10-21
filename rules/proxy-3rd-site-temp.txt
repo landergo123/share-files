@@ -3454,6 +3454,7 @@ avhu.com
 avinetworks.com
 avinin.com
 avira.com
+avito.com
 avizoone.com
 avjb.com
 avjiasu.com
@@ -25239,6 +25240,7 @@ x.team
 2gis.tech
 appleone.tech
 atomyze.tech
+avito.tech
 beget.tech
 bystys.tech
 deepfreeze.tech
