@@ -190,6 +190,7 @@ carrottrack.app
 cash.app
 ceno.app
 clashmi.app
+claude.app
 cloudflare.app
 cloudproxy.app
 comments.app
@@ -198,6 +199,7 @@ dashly.app
 dashlytrack.app
 flclashx.app
 floorp.app
+fluxer.app
 get.app
 glarity.app
 grapheneos.app
@@ -4802,6 +4804,7 @@ charmescorts.com
 charticulator.com
 chat.com
 chatango.com
+chatbotclaude.com
 chatgpt.com
 chatpdf.com
 chatter.com
@@ -4990,8 +4993,10 @@ clashyun.com
 classicnike.com
 classymomsex.com
 claude.com
+claudeacademy.com
 claudemcpclient.com
 claudemcpcontent.com
+claudestudio.com
 claudeusercontent.com
 clearsurance.com
 click-sec.com
@@ -6868,6 +6873,11 @@ flowwow-images.com
 fluidfxapp.com
 fluidpreview.com
 flutterapp.com
+fluxer.com
+fluxerapp.com
+fluxerstatic.com
+fluxerstatus.com
+fluxerusercontent.com
 flyflv.com
 flyingjizz.com
 flyvpn.com
@@ -15722,12 +15732,15 @@ ai.dev
 ai-sdk.dev
 amazon.dev
 amp.dev
+ant.dev
+antspace.dev
 autodesk.dev
 aws.dev
 bdn.dev
 chromeos.dev
 clashverge.dev
 claude.dev
+claudepages.dev
 cloudflare.dev
 da3dsoul.dev
 dart.dev
@@ -15740,6 +15753,7 @@ f6.dev
 firebase.dev
 flow.dev
 flutter.dev
+fluxer.dev
 fly.dev
 fuchsia.dev
 fury.dev
@@ -16494,6 +16508,7 @@ discord.gg
 epicevents.gg
 esports.gg
 fb.gg
+fluxer.gg
 google.gg
 intel.gg
 jb.gg
@@ -16508,6 +16523,7 @@ youtube.com.gh
 google.com.gi
 yahoo.com.gi
 discord.gift
+fluxer.gift
 discord.gifts
 annas-archive.gl
 goo.gl
@@ -19212,6 +19228,7 @@ zuobiao.me
 zzcloud.me
 anal.media
 discord.media
+fluxer.media
 gmo.media
 gsearch.media
 guo.media
@@ -20128,6 +20145,7 @@ d3c27h4odz752x.cloudfront.net
 d3lh5kkip965lj.cloudfront.net
 d3nwj80emtnjeo.cloudfront.net
 d3r7nsslvs6aaf.cloudfront.net
+d3stzm2eumvgb4.cloudfront.net
 d3ucl0eqgl80l5.cloudfront.net
 d3vd9lfkzbru3h.cloudfront.net
 d6d4ismr40iw.cloudfront.net
@@ -21622,6 +21640,7 @@ mk.shrimpia.network
 stripe.network
 tracker.network
 wynd.network
+claude.new
 compresspdf.new
 deck.new
 discord.new
@@ -25010,6 +25029,7 @@ avizoon.site
 bkkdown.site
 chatgpt.site
 cian.site
+claude.site
 dert.site
 dodi-repacks.site
 empornium.site
@@ -25228,6 +25248,7 @@ visa.tc
 wo.tc
 blogspot.td
 google.td
+anthropic.team
 armgs.team
 jetbrains.team
 ktech.team
@@ -25414,6 +25435,7 @@ yunomi.tokyo
 airbnb.tools
 discord.tools
 fastlane.tools
+fluxer.tools
 ssr.tools
 123sex.top
 13mei13.top
