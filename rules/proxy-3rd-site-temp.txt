@@ -314,6 +314,7 @@ qqbs.asia
 svscomics.asia
 verisign.asia
 wancctv.asia
+worldofwarships.asia
 yandex.asia
 adidas.at
 adidasspecialtysports.at
@@ -1315,6 +1316,7 @@ anal.casa
 pornvideos.casa
 vecchiescopate.casa
 d.cash
+delets.cash
 ramon.cash
 airbnb.cat
 aoc.cat
@@ -1761,6 +1763,7 @@ gateway.pinata.cloud
 reg.cloud
 renzhe.cloud
 soundcloud.cloud
+steamos.cloud
 timeweb.cloud
 unirule.cloud
 vkcs.cloud
@@ -4121,6 +4124,7 @@ blinkx.com
 blizzard.com
 blizzardgearstore.com
 blockchain.com
+blockchair.com
 blockcn.com
 blockedbyhk.com
 blockless.com
@@ -5240,6 +5244,7 @@ cpu-monkey.com
 cqcorea.com
 crabporn.com
 crackle.com
+craftifyx.com
 crankplayer.com
 crashbandicoot.com
 crashlytics.com
@@ -7194,6 +7199,7 @@ fundpaypal.com
 fundraisingwithfacebook.com
 fundsupermart.com
 funimation.com
+funko.com
 funkyimg.com
 funnyordie.com
 funpay.com
@@ -7270,6 +7276,7 @@ galleryarchives.com
 gamboporn.com
 gamcore.com
 game735.com
+gamebanana.com
 gamebeforethegame.com
 gamemeca.com
 gameon-masters.com
@@ -7395,6 +7402,7 @@ getmalus.com
 getpersonas.com
 getpocket.com
 getprintersupports.com
+getsafety.com
 getscorecash.com
 getsentry.com
 getsexgames.com
@@ -7489,6 +7497,7 @@ gladporn.com
 glam0ur.com
 glamourtits.com
 gleline.com
+glitchprod.com
 glitchwave.com
 globalriskregulator.com
 globalsign-media.com
@@ -9613,6 +9622,7 @@ makeitopen.com
 makeitrealcontest.com
 makemymood.com
 makesenseofdata.com
+makeship.com
 makingstartshere.com
 maktoob.com
 malayalamanorama.com
@@ -11202,6 +11212,7 @@ overthumbs.com
 ovid.com
 ovpn.com
 owltail.com
+ownaj.com
 oxfordaasc.com
 oxfordartonline.com
 oxfordbibliographies.com
@@ -12069,6 +12080,7 @@ r10s.com
 r18.com
 r18av.com
 r18lu.com
+r2modman.com
 rabbitcounter.com
 rabbitscams.com
 rabbitsreviews.com
@@ -12388,6 +12400,7 @@ safechat.com
 safeguarddefenders.com
 safepal.com
 safervpn.com
+safetycli.com
 saffrontech.com
 sagepub.com
 sahabatsetiasmartone.com
@@ -12826,6 +12839,7 @@ sissy-university.com
 sissyporncrossdresser.com
 site.com
 dell.my.site.com
+funko.my.site.com
 sitekreator.com
 sitepoint.com
 siteripz.com
@@ -13697,6 +13711,7 @@ tksex.com
 tktube.com
 tmagazine.com
 tmei-taoyuan.com
+tmimgcdn.com
 tnaflix.com
 tnatryouts.com
 tnntoday.com
@@ -15250,6 +15265,7 @@ yourvoyeurvideos.com
 yourwifemymeat.com
 yousendit.com
 youskbe.com
+youtooz.com
 youtrannytube.com
 youtube.com
 youtube-nocookie.com
@@ -16206,6 +16222,7 @@ himalaya.exchange
 infosec.exchange
 lighter.exchange
 cm.expert
+kurs.expert
 rtde.expert
 ozon.express
 rtde.express
@@ -17375,6 +17392,7 @@ cisconetspace.info
 connectcommerce.info
 cosmosdb.info
 creamlemon.info
+cryptoid.info
 cyber-bay.info
 daretoku-eromanga.info
 deps.info
@@ -17734,6 +17752,7 @@ pushgrow.io
 pxt.io
 pypa.io
 pypi.io
+pyup.io
 qt.io
 quanben.io
 quay.io
@@ -17774,6 +17793,7 @@ tarantool.io
 tardigrade.io
 termly.io
 terraform.io
+thunderstore.io
 tianti.io
 trezor.io
 truefi.io
@@ -19984,6 +20004,7 @@ bitstamp.net
 bitwarden.net
 blacktowhite.net
 blazor.net
+blockchair.net
 blogjav.net
 blogterest.net
 bloodshed.net
@@ -20359,6 +20380,7 @@ falundafa-pa.net
 faluninfo.net
 familyds.net
 familypies.net
+fanfiction.net
 fanfox.net
 fap18.net
 fapforfun.net
@@ -23242,6 +23264,7 @@ thewgo.org
 thirdmill.org
 thomasbernhard.org
 threadingbuildingblocks.org
+thunderstore.org
 tiandixing.org
 tiantibooks.org
 tibet.org
@@ -23677,6 +23700,7 @@ woolite.pl
 yahoo.pl
 yandex.pl
 youtube.pl
+24.place
 jav.place
 playstation
 928.plus
@@ -25181,9 +25205,11 @@ yahoo.st
 yandex.st
 91porny.store
 discord.store
+glitchproductions.store
 mimei.store
 nix.store
 svipshipin.store
+tgtime.store
 vercel.store
 kk.stream
 misskey.stream
