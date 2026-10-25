@@ -154,6 +154,7 @@ s.union.360.cn
 9xsecndns.cn
 a-map.cn
 aadcloud.cn
+aaej.cn
 csdl.ac.cn
 iscas.ac.cn
 las.ac.cn
@@ -425,6 +426,7 @@ bjd.com.cn
 bjnews.com.cn
 blueos.com.cn
 bmac.com.cn
+bocd.com.cn
 boe.com.cn
 boscam.com.cn
 bsb.com.cn
@@ -480,6 +482,7 @@ cnpc.com.cn
 cns.com.cn
 cntv.com.cn
 cpic.com.cn
+cqge.com.cn
 cqn.com.cn
 cqtk.com.cn
 cs.com.cn
@@ -789,6 +792,7 @@ cozetest3.cn
 cptu.cn
 cqctyiptv.cn
 cqhlw.cn
+cqsdlys.cn
 cravatar.cn
 cri.cn
 csdnimg.cn
@@ -963,6 +967,7 @@ goproxy.cn
 gov.cn
 govwza.cn
 gpall.cn
+gpzshq.cn
 gree.cn
 growin.cn
 growingio.cn
@@ -1068,10 +1073,12 @@ infineon.cn
 infoq.cn
 inke.cn
 inspirecloud.cn
+ip.cn
 ipanda.cn
 iprintworks.cn
 iresearch.cn
 is-cool.cn
+isigning.cn
 istv.cn
 itc.cn
 itdog.cn
@@ -1324,7 +1331,8 @@ china.org.cn
 cptu.org.cn
 datacon.org.cn
 hwclouds.org.cn
-moegirl.org.cn
+app.moegirl.org.cn
+storage.moegirl.org.cn
 ncss.org.cn
 nellit.org.cn
 ntp.org.cn
@@ -2559,6 +2567,7 @@ bianews.com
 bibaodao.com
 bidchance.com
 biddingx.com
+bigdatacq.com
 bihu.com
 biji.com
 biliapi.com
@@ -2855,6 +2864,8 @@ cdnmama.com
 cdnmg.com
 cdntip.com
 cdntips.com
+cdrcb.com
+cdrcbank.com
 ceair.com
 cebbank.com
 ceblease.com
@@ -2981,6 +2992,7 @@ cjsc.com
 clangcn.com
 clawhub-mirror.com
 clawhubmirror.com
+cldisk.com
 cleargrass.com
 cloud-beijing.com
 cloud-hebi.com
@@ -3135,9 +3147,11 @@ cpicfunds.com
 cppblog.com
 cqcb.com
 cqccn.com
+cqdcg.com
 cqliving.com
 cqsjb.com
 cqvip.com
+cqyyxc.com
 cr-cts.com
 cr173.com
 cravatar.com
@@ -3279,6 +3293,7 @@ didialift.com
 didichuxing.com
 didiglobal.com
 didistatic.com
+digitalcnzz.com
 digitaling.com
 dili360.com
 dingdachuxing.com
@@ -3424,6 +3439,7 @@ dzw3.com
 dzwww.com
 eagsen.com
 easebar.com
+easemob.com
 easesale.com
 easiu.com
 eastday.com
@@ -4105,6 +4121,7 @@ i3839.com
 i8tq.com
 ialicdn.com
 iask.com
+ibangbank.com
 ibaotu.com
 ibdxiguaimg.com
 ibdxigualive.com
@@ -4238,6 +4255,7 @@ isealsuite.com
 ishijue.com
 ishumei.com
 ishuqi.com
+isigning.com
 ispqcloud.com
 istoreos.com
 isvjcloud.com
@@ -5157,6 +5175,7 @@ nagcloudcs.com
 naixuecha.com
 namiso.com
 nanhaicorp.com
+nanocorechip.com
 nanyuenews.com
 narwal.com
 narwaltech.com
@@ -6771,6 +6790,7 @@ xueqiu.com
 xuetangx.com
 xuexi365.com
 xuexicha.com
+xuexitong.com
 xundupdf.com
 xunfeixxj.com
 xunjiepdf.com
@@ -7973,7 +7993,6 @@ leturich.org
 lxdns.org
 mechina.org
 miot-spec.org
-moegirl.org
 newssc.org
 nihaoafrica.org
 nowcoder.org

@@ -4762,6 +4762,8 @@ cdninstagram.com
 cdnjs.com
 cdnpure.com
 cdnvideohub.com
+cdprojekt.com
+cdprojektred.com
 cdw.com
 cebay.com
 ceicdata.com
@@ -10060,6 +10062,7 @@ minivilledequebec.com
 miniwholesaleconnect.com
 miniwindsor.com
 miniworkshop.com
+minkch.com
 minnano-av.com
 minne.com
 minneapolisbmw.com
@@ -10859,6 +10862,7 @@ niuc2.com
 niusnews.com
 nivodz.com
 nixlang.com
+njav.com
 njavtv.com
 njpw1972.com
 nke6.com
@@ -11542,6 +11546,7 @@ playbydurex.com
 playfab.com
 playfabapi.com
 playforceone.com
+playgwent.com
 playhearthstone.com
 playmation.com
 playmeow.com
@@ -11574,6 +11579,7 @@ pmatehunter.com
 hb4bbbbb.pmhcjk.com
 nbbb1bb7.pmhcjk.com
 q676790b.pmhcjk.com
+po-kaki-to.com
 po2b.com
 pobl-content.com
 pocketbiketrader.com
@@ -13610,6 +13616,7 @@ thevirtualsexreview.com
 thewaltdisneycompany.com
 theweek.com
 thewirechina.com
+thewitcher.com
 thewonderful101.com
 theync.com
 theyxxx.com
@@ -15387,6 +15394,7 @@ zopim.com
 zorglist.com
 zorrovpn.com
 zozotown.com
+zozovideo.com
 zpath.com
 zqqpwz.com
 zscaler.com
@@ -15744,6 +15752,7 @@ misskey.design
 rea.design
 spotify.design
 vk.design
+1password.dev
 ai.dev
 ai-sdk.dev
 amazon.dev
@@ -16929,17 +16938,11 @@ visa.hk
 volvobuses.hk
 volvotrucks.hk
 windows8.hk
-xn--fiqs8s1bxp3anr7a.hk
-xn--fiqs8s1byzqyvl.hk
-xn--gdt08a.hk
-xn--mxtq18a.hk
+xn--fiq80y.hk
+xn--fiq80y3xbiwr.hk
+xn--fiq80y3xbiwrs0kiu9d.hk
 xn--pssu7ci2j23mp9ny48b.hk
-xn--pssu7cv61af1tcs59bnvd.hk
 xn--pssu7cv61af44b.hk
-xn--pssu7cv61ahw8aq79bztd.hk
-xn--pssu7cv61ahwcb1p2yk.hk
-xn--wcv22d.hk
-xn--wcvs22d1m.hk
 xtom.hk
 yahoo.hk
 youtube.hk
@@ -20216,6 +20219,7 @@ ctfassets.net
 cuiweiping.net
 currently.net
 cutscenes.net
+cyberpunk.net
 d-trust.net
 d100.net
 dandanplay.net
@@ -20766,6 +20770,7 @@ kakaocdn.net
 keiba.net
 kenyaraha.net
 khangar.net
+kimootoko.net
 kinescopecdn.net
 kinguin.net
 kir2kos.net
@@ -22028,6 +22033,7 @@ xshr.online
 zatrahal.online
 oracle
 01.org
+123av.org
 18comic.org
 18sex.org
 2ch.org
@@ -23917,6 +23923,7 @@ yande.re
 v.recipes
 1917live.red
 amazon.red
+cdprojekt.red
 hentaihaven.red
 lenporno.red
 microsoft.red
@@ -24854,6 +24861,7 @@ z-library.se
 chronicle.security
 f6.security
 brightcove.services
+cdpred.services
 gateio.services
 plex.services
 tesla.services
@@ -26833,19 +26841,15 @@ xn--gtvq61aiijy0b.xn--hxt814e
 xn--gtvz22d.xn--hxt814e
 xn--kput3imi374g.xn--hxt814e
 xn--ruq8a011kt6y.xn--hxt814e
-xn--fiqs8s1bxp3anr7a.xn--j6w193g
-xn--fiqs8s1byzqyvl.xn--j6w193g
-xn--gdt08a.xn--j6w193g
-xn--mxtq18a.xn--j6w193g
+xn--fiq80y.xn--j6w193g
+xn--fiq80y3xbiwr.xn--j6w193g
+xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g
 xn--pssu7ci2j23mp9ny48b.xn--j6w193g
-xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
+xn--pssu7ci3q5oge0ai91q.xn--j6w193g
 xn--pssu7cv61af44b.xn--j6w193g
-xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
-xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
+xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g
 xn--uis44a.xn--j6w193g
-xn--wcv22d.xn--j6w193g
 xn--wcvs22d.xn--j6w193g
-xn--wcvs22d1m.xn--j6w193g
 xn--jlq480n2rg
 xn--90aifd0azb.xn--p1acf
 xn----7sbhmncai5a0arm7c1e.xn--p1ai
