@@ -69,6 +69,7 @@ google.com.ai
 visa.com.ai
 yahoo.com.ai
 dailym.ai
+dash.ai
 devin.ai
 devv.ai
 dify.ai
@@ -2390,6 +2391,7 @@ addthis.com
 addthiscdn.com
 addthisedge.com
 addtoany.com
+addtodropbox.com
 addyoutube.com
 adguard.com
 adguard-dns.com
@@ -5761,6 +5763,7 @@ dockerstatus.com
 docleradn.com
 doclercdn.com
 docs.com
+docsend.com
 doctor-videos.com
 documentforce.com
 documentingreality.com
@@ -5889,12 +5892,15 @@ dropbox-dns.com
 dropboxapi.com
 dropboxbusiness.com
 dropboxcaptcha.com
+dropboxexperiment.com
 dropboxforum.com
 dropboxforums.com
 dropboxinsiders.com
+dropboxlegal.com
 dropboxmail.com
 dropboxpartners.com
 dropboxstatic.com
+dropboxteam.com
 dropboxusercontent.com
 drtuber.com
 drunk6.com
@@ -7920,9 +7926,11 @@ heiliao.com
 heiliao88.com
 helloandroid.com
 helloavgirls.com
+hellofax.com
 hellokittybeats.com
 hellomoto.com
 helloqueer.com
+hellosign.com
 hellosmartbook.com
 hellporno.com
 helpeachpeople.com
@@ -15332,6 +15340,7 @@ zeitworld.com
 zello.com
 zencoder.com
 zendesk.com
+dropbox.zendesk.com
 fandom.zendesk.com
 himalaya-exchange.zendesk.com
 onekey.zendesk.com
