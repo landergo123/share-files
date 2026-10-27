@@ -3590,6 +3590,7 @@ ffbuddy.com
 fhldns.com
 fhyx.com
 filez.com
+filmorigin.com
 fimmu.com
 finchina.com
 finclip.com
@@ -4395,7 +4396,6 @@ jiemian.com
 jigecili.com
 jikecdn.com
 jikexueyuan.com
-jikipedia.com
 jimeng.com
 jin10.com
 jinchutou.com
@@ -4526,6 +4526,7 @@ kaipanhong.com
 kaipuyun.com
 kaixin001.com
 kajicam.com
+kakaxing.com
 kameng98.com
 kanbox.com
 kanimg.com
@@ -6699,6 +6700,7 @@ xiaolianhb.com
 xiaoluyouxuan.com
 xiaoluzhidian.com
 xiaomaicn.com
+xiaomaigui.com
 xiaomengai.com
 xiaomi.com
 ad.xiaomi.com

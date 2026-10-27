@@ -831,7 +831,6 @@ youtube.com.bo
 intel.bo
 youtube.bo
 hey.boo
-test-ipv6.arauc.br
 incesto.blog.br
 pornobrasil.blog.br
 pornotube.blog.br
@@ -1282,7 +1281,6 @@ thomsonreuters.ca
 toptip.ca
 travelex.ca
 trustcor.ca
-test-ipv6.csclub.uwaterloo.ca
 vancouverbmwretailers.ca
 veet.ca
 vfsco.ca
@@ -1573,7 +1571,6 @@ airbnb.ch
 airwick.ch
 alienware.ch
 alphabet.ch
-test-ipv6.alpinedc.ch
 apple.ch
 applestore.ch
 blogspot.ch
@@ -1718,7 +1715,6 @@ roblox.cl
 shopee.cl
 sony.cl
 supr.cl
-test-ipv6.cl
 vanish.cl
 veet.cl
 vfsco.cl
@@ -3523,6 +3519,8 @@ aziani.com
 azirevpn.com
 aznude.com
 azure.com
+dc.applicationinsights.azure.com
+live.applicationinsights.azure.com
 epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
 azure-dns.com
 azure-sphere.com
@@ -7124,7 +7122,6 @@ freeporn.com
 freepornhdonlinegay.com
 freepornhentaigames.com
 freepornq.com
-test-ipv6.freerangecloud.com
 www.zensur.freerk.com
 freesexalbum.com
 freesexvideos2k.com
@@ -7591,10 +7588,12 @@ alt5-mtalk.google.com
 alt6-mtalk.google.com
 alt7-mtalk.google.com
 alt8-mtalk.google.com
+appsgenaiserver-pa.clients.google.com
 geminiweb-pa.clients.google.com
 clients1.google.com
 alkalicore-pa.clients6.google.com
 alkalimakersuite-pa.clients6.google.com
+appsgenaiserver-pa.clients6.google.com
 geminiweb-pa.clients6.google.com
 webchannel-alkalimakersuite-pa.clients6.google.com
 scholar.l.google.com
@@ -7620,6 +7619,7 @@ googleanalytics.com
 googleapis.com
 antigravity.googleapis.com
 antigravity-pa.googleapis.com
+appsgenaiserver-pa.googleapis.com
 cloudaicompanion.googleapis.com
 cloudcode-pa.googleapis.com
 daily-cloudcode-pa.googleapis.com
@@ -13491,7 +13491,6 @@ terragraph.com
 terrapeak.com
 tesla.com
 teslamotors.com
-test-ipv6.com
 testonfox.com
 textnow.com
 texture.com
@@ -14361,6 +14360,8 @@ visceralgames.com
 visiontimes.com
 visiontimesjp.com
 visualstudio.com
+dc.services.visualstudio.com
+rt.services.visualstudio.com
 visualstudio-staging.com
 vitukali.com
 viu.com
@@ -15541,7 +15542,6 @@ pornuj.cz
 redporno.cz
 sony.cz
 starbuckscoffee.cz
-test-ipv6.cz
 ntp.ufe.cz
 vanishinfo.cz
 velkaepocha.cz
@@ -15708,7 +15708,6 @@ supersrv.de
 tech26.de
 telekom.de
 telesec.de
-testipv6.de
 thawte.de
 thieme.de
 thieme-connect.de
@@ -15808,6 +15807,7 @@ ingka.dev
 intel.dev
 jetbrains.dev
 kiro.dev
+librewolf.dev
 mdn.dev
 mdnplay.dev
 mdnyalp.dev
@@ -15974,7 +15974,6 @@ srttu.edu
 uchicago.edu
 ucla.edu
 umass.edu
-test-ipv6.cs.umd.edu
 wrds-www.wharton.upenn.edu
 usma.edu
 westpoint.edu
@@ -16986,7 +16985,6 @@ apple.hr
 blogspot.hr
 bmw.hr
 canon.hr
-test-ipv6.carnet.hr
 airbnb.com.hr
 applestore.com.hr
 bmw-connecteddrive.com.hr
@@ -17063,7 +17061,6 @@ sony.hu
 starbucks.hu
 strepsils.hu
 szabadeuropa.hu
-test-ipv6.hu
 ucoz.hu
 vanish.hu
 veet.hu
@@ -17901,7 +17898,6 @@ microsoft.is
 mini.is
 pse.is
 rarbg.is
-test-ipv6.is
 unseen.is
 visa.is
 yahoo.is
@@ -19991,7 +19987,6 @@ befuck.net
 behance.net
 bejav.net
 bellsouth.net
-test-ipv6.belwue.net
 best2pay.net
 bestbuysolutions.net
 bestcamsites.net
@@ -20326,8 +20321,6 @@ sni1dcb6gl.wpc.edgecastcdn.net
 edgefonts.net
 edgekey.net
 edgesuite.net
-netflix.com.edgesuite.net
-spotify.com.edgesuite.net
 steamcommunity-a.akamaihd.net.edgesuite.net
 efproject.net
 elog-ch.net
@@ -20449,7 +20442,6 @@ foxsmallbusinesscenter.net
 foxsoccer.net
 foxsoccerplus.net
 foxsports.net
-test-ipv6.fratec.net
 free18.net
 freeanimalporn.net
 freebasics.net
@@ -20715,7 +20707,6 @@ itunes-radio.net
 ituneslogin.net
 itunesu.net
 itweet.net
-test-ipv6.iu13.net
 ivpn.net
 iwantporn.net
 jadult.net
@@ -20819,7 +20810,6 @@ licensebuttons.net
 liketruyen.net
 line-cdn.net
 line-scdn.net
-test-ipv6.ke.liquidtelecom.net
 listinganalytics.net
 liuxiaobo.net
 live.net
@@ -21004,7 +20994,6 @@ niosii.net
 nirsoft.net
 nitter.net
 wikia.nocookie.net
-test-ipv6.noroutetohost.net
 novelai.net
 nsimg.net
 ntp0.ntp-servers.net
@@ -21216,7 +21205,6 @@ riseup.net
 roblox.net
 rocket-inc.net
 rocksdb.net
-test-ipv6.roedu.net
 rolia.net
 roughman.net
 rstatic.net
@@ -21666,7 +21654,6 @@ ipfs.eth.aragon.network
 bisq.network
 bsky.network
 chainid.network
-test-ipv6.epic.network
 fanqiang.network
 fantom.network
 flare.network
@@ -23383,7 +23370,6 @@ vllcs.org
 voicettank.org
 vot.org
 vpnaccount.org
-test-ipv6.sin.vr.org
 vtsociety.org
 w.org
 w3.org
@@ -24577,7 +24563,6 @@ transstroybank.ru
 travel-tec.ru
 truyen-hentai.ru
 tsbnk.ru
-test-ipv6.ttk.ru
 tusco.ru
 tvigle.ru
 twcstorage.ru
@@ -24849,7 +24834,6 @@ share-videos.se
 singlelogin.se
 sony.se
 starbucks.se
-test-ipv6.se
 tokyotosho.se
 torrentproject.se
 vanish.se
@@ -25046,7 +25030,6 @@ dell.si
 durex-slovenia.si
 holoxx.f5.si
 finish.si
-test-ipv6.go6.si
 google.si
 scholar.google.si
 icloud.si
@@ -25217,7 +25200,6 @@ pawchive.st
 pca.st
 remna.st
 sci-hub.st
-sixte.st
 soyjak.st
 yahoo.st
 yandex.st

@@ -163,6 +163,9 @@ azchcdnq.com
 azchcdnr.com
 azchcdns.com
 azure.com
+dc.applicationinsights.azure.com
+in.applicationinsights.azure.com
+live.applicationinsights.azure.com
 azure-dns.com
 azure-sphere.com
 azurecosmosdb.com
@@ -282,6 +285,7 @@ microsoft.com
 azure.microsoft.com
 azuremarketplace.microsoft.com
 crl.microsoft.com
+data.microsoft.com
 dcg.microsoft.com
 developer.microsoft.com
 download.microsoft.com
@@ -331,6 +335,7 @@ windbg.download.prss.microsoft.com
 surface.downloads.prss.microsoft.com
 sdx.microsoft.com
 storeedge.microsoft.com
+telemetry.microsoft.com
 download.visualstudio.microsoft.com
 www.microsoft.com
 microsoft-give.com
@@ -466,6 +471,8 @@ uwpcommunitytoolkit.com
 vfsforgit.com
 videobreakdown.com
 visualstudio.com
+dc.services.visualstudio.com
+rt.services.visualstudio.com
 visualstudio-staging.com
 vscodeedu.com
 windows.com

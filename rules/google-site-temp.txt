@@ -245,10 +245,12 @@ bard.google.com
 cache-management-prod.google.com
 redirector.c.chat.google.com
 c.android.clients.google.com
+appsgenaiserver-pa.clients.google.com
 geminiweb-pa.clients.google.com
 clients1.google.com
 alkalicore-pa.clients6.google.com
 alkalimakersuite-pa.clients6.google.com
+appsgenaiserver-pa.clients6.google.com
 geminiweb-pa.clients6.google.com
 webchannel-alkalimakersuite-pa.clients6.google.com
 dl.google.com
@@ -310,6 +312,7 @@ aida.googleapis.com
 aisandbox-pa.googleapis.com
 antigravity.googleapis.com
 antigravity-pa.googleapis.com
+appsgenaiserver-pa.googleapis.com
 clientservices.googleapis.com
 cloudaicompanion.googleapis.com
 cloudcode-pa.googleapis.com
