@@ -366,6 +366,7 @@ payload:
   - '+.messenger.com'
   - '+.messengerdevelopers.com'
   - '+.meta.com'
+  - '+.metaaiusercontent.com'
   - '+.metaaivm.com'
   - '+.metacritic.com'
   - '+.metart.com'

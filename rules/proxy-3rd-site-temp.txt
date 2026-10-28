@@ -54,6 +54,7 @@ rtde.agency
 ruptly.agency
 api.ai
 arena.ai
+artificialanalysis.ai
 bitz.ai
 censorship.ai
 cerebras.ai
@@ -68,6 +69,7 @@ dell.com.ai
 google.com.ai
 visa.com.ai
 yahoo.com.ai
+commandcode.ai
 dailym.ai
 dash.ai
 devin.ai
@@ -831,6 +833,7 @@ youtube.com.bo
 intel.bo
 youtube.bo
 hey.boo
+cline.bot
 incesto.blog.br
 pornobrasil.blog.br
 pornotube.blog.br
@@ -5194,6 +5197,7 @@ containersonaws.com
 contechacademy.com
 contentful.com
 contest.com
+context7.com
 convrgencegame.com
 cookiebot.com
 cookiepro.com
@@ -9845,6 +9849,7 @@ messengerdevelopers.com
 messytube.com
 met-nude.com
 meta.com
+metaaiusercontent.com
 metaaivm.com
 metacloud.com
 metacritic.com
@@ -10908,6 +10913,7 @@ notion-static.com
 notion-status.com
 notionusercontent.com
 nottinghampost.com
+nousresearch.com
 noveltrove.com
 novids.com
 novinhabucetuda.com
@@ -13633,6 +13639,7 @@ thinkboxsoftware.com
 thinkgeek.com
 thinkingtaiwan.com
 thinkofliving.com
+thinkorswim.com
 thinkquarterly.com
 thinkwithgoogle.com
 thirdweb.com
