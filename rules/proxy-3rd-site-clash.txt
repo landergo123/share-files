@@ -25621,6 +25621,7 @@ payload:
   - '+.iphonese.tv'
   - '+.iphonexs.tv'
   - '+.itunesradio.tv'
+  - '+.ivi.tv'
   - '+.ivicdn.tv'
   - '+.iwank.tv'
   - '+.iwara.tv'
