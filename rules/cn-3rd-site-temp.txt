@@ -60,6 +60,7 @@ zuoyebang.cc
 techo.chat
 jike.city
 aliyundrive.cloud
+favonis.cloud
 jikeiot.cloud
 lazycat.cloud
 liblib.cloud
@@ -3543,6 +3544,7 @@ fanqiesdkvod.com
 fanxian.com
 fanxingliveshow.com
 fastcdn.com
+favonis.com
 faxingbao.com
 fbank.com
 fcbox.com
@@ -6122,7 +6124,10 @@ tiktokcdn-us.com
 tiktokeu-cdn.com
 tiktokglobalshopv.com
 tiktokrow-cdn.com
+tiktokshop.com
+tiktokstaticb.com
 tiktokv.com
+tiktokvapp.com
 timbrd.com
 time-weekly.com
 timedoo.com
@@ -8073,6 +8078,7 @@ lightmake.site
 fofa.so
 sohu
 cnb.space
+favonis.space
 heiyu.space
 xyzfm.space
 mingxuan.store

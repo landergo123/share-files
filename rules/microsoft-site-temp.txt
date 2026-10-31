@@ -192,6 +192,7 @@ bingapis.com
 bingapistatistics.com
 bingparachute.com
 bingsandbox.com
+bingstatic.com
 bingvisualsearch.com
 bingworld.com
 bizographics.com
@@ -402,6 +403,7 @@ mschcdn.com
 msdn.com
 msftconnecttest.com
 msftncsi.com
+msftstatic.com
 msgamesresearch.com
 msgamestudios.com
 msidentity.com
