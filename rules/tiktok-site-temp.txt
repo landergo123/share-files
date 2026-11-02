@@ -350,6 +350,7 @@ dongchedi.com
 dongchediapp.com
 doubao.com
 doubao-dev.com
+doubaoapps.com
 doubaocdn.com
 doubo03.com
 doudou.com
@@ -371,6 +372,7 @@ ecombdapi.com
 ecombdimg.com
 ecombdstatic.com
 ecombdvod.com
+edge-byted.com
 edgeceler.com
 emr-volces.com
 faceu.com
@@ -421,6 +423,7 @@ getfeishu.com
 getsays.com
 gogokid.com
 gslbdns.com
+haimian.com
 hapierxia.com
 hapipixia.com
 hapiyixia.com

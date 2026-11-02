@@ -1006,6 +1006,7 @@ hikunpeng.cn
 hitokoto.cn
 hiu58.cn
 hjfile.cn
+hmxs.cn
 hnr.cn
 honor.cn
 hophing.cn
@@ -1200,6 +1201,7 @@ maoyuncloud.cn
 marscode.cn
 mashort.cn
 maxadmin.cn
+mayibao.cn
 mcadn.cn
 mcd.cn
 mcmod.cn
@@ -1491,6 +1493,7 @@ sxlcdn.cn
 szacq.cn
 szjlc.cn
 szse.cn
+t-head.cn
 t3go.cn
 tai3.cn
 taihemusic.cn
@@ -1626,6 +1629,7 @@ weiyang.cn
 wenshushu.cn
 wenxiaozhan.cn
 west.cn
+wesure.cn
 wggames.cn
 wink.cn
 wjx.cn
@@ -2249,6 +2253,7 @@ alitianji.com
 alitrip.com
 alittle-tea.com
 aliunicorn.com
+alivecdn.com
 aliway.com
 aliwork.com
 alixiaomi.com
@@ -2319,6 +2324,7 @@ allawno.com
 allawntech.com
 allhistory.com
 alloyteam.com
+allwinnertech.com
 allyes.com
 alookweb.com
 amap.com
@@ -2639,6 +2645,7 @@ btime.com
 budingscan.com
 buke999.com
 burningvocabulary.com
+busyming.com
 buydouke.com
 buyjingxi.com
 bvfcdn.com
@@ -2772,6 +2779,7 @@ caiyunai.com
 caiyunapp.com
 caiyuncdn.com
 calorietech.com
+cambricon.com
 camcard.com
 camscanner.com
 cang.com
@@ -3355,6 +3363,7 @@ douban.com
 doubanio.com
 doubao.com
 doubao-dev.com
+doubaoapps.com
 doubaocdn.com
 doubo03.com
 doucang.com
@@ -3471,6 +3480,7 @@ ecombdimg.com
 ecombdstatic.com
 ecombdvod.com
 ecukwai.com
+edge-byted.com
 edgeceler.com
 edgeonedy1.com
 edgesrv.com
@@ -3894,6 +3904,7 @@ haidubooks.com
 haier.com
 haiersmarthomes.com
 hailuoai.com
+haimian.com
 hainanairlines.com
 haishun.com
 halvie.com
@@ -3998,6 +4009,7 @@ hnair.com
 hnbntv.com
 hnchasing.com
 hndt.com
+hnlshm.com
 hnrcsc.com
 hnxzctec.com
 hnyuyuhui.com
@@ -5059,6 +5071,7 @@ msmartlife.com
 msstatic.com
 mszdld.com
 mszq.com
+mthreads.com
 mti100.com
 mtime.com
 mtyun.com
@@ -5455,6 +5468,7 @@ qianxun.com
 qianyierp.com
 qianzhan.com
 qiaobutang.com
+qiaqiafood.com
 qichacha.com
 qichamao.com
 qidian.com
@@ -5832,6 +5846,7 @@ soufun.com
 soufunimg.com
 soulteary.com
 souqian.com
+southchip.com
 southcn.com
 southmoney.com
 sparenode.com
@@ -6070,6 +6085,7 @@ tendbcluster.com
 tendcloud.com
 tengmed.com
 tenpay.com
+tenpayglobal.com
 tenxcloud.com
 tesoon.com
 testwaf.com
@@ -6578,6 +6594,7 @@ wenwo.com
 wenxiaozhan.com
 wenxin-ge.com
 west95582.com
+wesure100.com
 wetvinfo.com
 htrace.wetvinfo.com
 wework-studio.com
@@ -7177,6 +7194,7 @@ zxhgroup.com
 zxxk.com
 zybang.com
 zyh365.com
+zymls.com
 zysou.com
 zyyct.com
 zzclass.com
@@ -7953,6 +7971,12 @@ seclab.online
 tshell.online
 2288.org
 3322.org
+mnc000.mcc460.pub.3gppnetwork.org
+mnc002.mcc460.pub.3gppnetwork.org
+mnc004.mcc460.pub.3gppnetwork.org
+mnc007.mcc460.pub.3gppnetwork.org
+mnc011.mcc460.pub.3gppnetwork.org
+mnc015.mcc460.pub.3gppnetwork.org
 50bang.org
 58dns.org
 acftu.org
