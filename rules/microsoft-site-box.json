@@ -168,6 +168,7 @@
             "dc.applicationinsights.azure.com",
             "in.applicationinsights.azure.com",
             "live.applicationinsights.azure.com",
+            "production-copilot-host-westus.webpubsub.azure.com",
             "azure-dns.com",
             "azure-sphere.com",
             "azurecosmosdb.com",
