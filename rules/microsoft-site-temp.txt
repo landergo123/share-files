@@ -290,6 +290,7 @@ crl.microsoft.com
 data.microsoft.com
 dcg.microsoft.com
 developer.microsoft.com
+builds.dotnet.microsoft.com
 download.microsoft.com
 location.microsoft.com
 dl.delivery.mp.microsoft.com
@@ -683,6 +684,8 @@ t-msedge.net
 tfsallin.net
 trafficmanager.net
 bingsettingssearch.trafficmanager.net
+dotnetcli.trafficmanager.net
+sundry-star-net-geo.trafficmanager.net
 vscode-sync.trafficmanager.net
 vscode-sync-insiders.trafficmanager.net
 virtualearth.net

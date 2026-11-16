@@ -72,6 +72,7 @@ yahoo.com.ai
 commandcode.ai
 dailym.ai
 dash.ai
+debot.ai
 devin.ai
 devv.ai
 dify.ai
@@ -9896,6 +9897,7 @@ azure.microsoft.com
 azuremarketplace.microsoft.com
 crl.microsoft.com
 developer.microsoft.com
+builds.dotnet.microsoft.com
 location.microsoft.com
 mscrl.microsoft.com
 ocsp.microsoft.com
@@ -15850,6 +15852,7 @@ ozon.dev
 pages.dev
 pub.dev
 r2.dev
+remna.dev
 rteam.dev
 selectel.dev
 sentry.dev
@@ -21443,6 +21446,8 @@ touhouwiki.net
 trafficmanager.net
 bingsettingssearch.trafficmanager.net
 client-teamviewer-com.trafficmanager.net
+dotnetcli.trafficmanager.net
+sundry-star-net-geo.trafficmanager.net
 vscode-sync.trafficmanager.net
 vscode-sync-insiders.trafficmanager.net
 translatewiki.net
