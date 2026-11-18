@@ -1311,7 +1311,6 @@ wmfusercontent.org
 wordcamp.org
 wordpress.org
 yandex.org
-yandexwebcache.org
 yibei.org
 nvidia.com.pe
 pinterest.com.pe
