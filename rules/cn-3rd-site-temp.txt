@@ -214,6 +214,7 @@ azkr2.cn
 baidu.cn
 baidu-cdn.cn
 baiduyuncdn.cn
+baishancdnx.cn
 baiying.cn
 baltamatica.cn
 bambulab.cn
@@ -407,6 +408,7 @@ codebuddy.cn
 37.com.cn
 58.com.cn
 58cdn.com.cn
+58wos.com.cn
 800best.com.cn
 aaic.com.cn
 ahnews.com.cn
@@ -1186,9 +1188,11 @@ le5vb.cn
 learnywhere.cn
 lebo.cn
 leetcode.cn
+lefile.cn
 leigod.cn
 lenovo.cn
 lenovocust.cn
+lenovofoundation.cn
 lenovoimage.cn
 lenovomm.cn
 leso.cn
@@ -1911,6 +1915,8 @@ uu.163.com
 1nongjing.com
 1ppt.com
 1ting.com
+1y.com
+1ycdn.com
 1zhe.com
 20130123.com
 21cn.com
@@ -2223,6 +2229,7 @@ aixifan.com
 aiyunxiao.com
 aizgtc.com
 aizhan.com
+ajkimg.com
 ajzq.com
 akspeedy.com
 aldwx.com
@@ -2349,6 +2356,7 @@ oss-cn-shanghai.aliyuncs.com
 oss-cn-shenzhen.aliyuncs.com
 oss-cn-wulanchabu.aliyuncs.com
 oss-cn-zhangjiakou.aliyuncs.com
+oss-enet.aliyuncs.com
 oss-eu-central-1.aliyuncs.com
 oss-eu-west-1.aliyuncs.com
 oss-me-east-1.aliyuncs.com
@@ -2523,6 +2531,8 @@ baike.com
 baikemy.com
 baikevod.com
 baimiaoapp.com
+baishan.com
+baishancloud.com
 baishinetwork.com
 baitiao.com
 baixing.com
@@ -4857,6 +4867,7 @@ lenovo.com
 lenovocloudos.com
 lenovoeservice.com
 lenovofile.com
+lenovofuturecenter.com
 lenovogame.com
 lenovoimage.com
 lenovomm.com
@@ -4940,11 +4951,8 @@ lppz.com
 lppzimg.com
 lsbj365.com
 lsplayer.com
-lu.com
 luckincoffeecdn.com
 ludashi.com
-lufax.com
-lufaxcdn.com
 lufunds.com
 lumiai.com
 luojilab.com
@@ -5600,6 +5608,7 @@ qmai.com
 qmniu.com
 qnsdk.com
 qnssl.com
+qpmcn.com
 qq.com
 pmir.3g.qq.com
 qqdata.ab.qq.com
@@ -6120,6 +6129,7 @@ yuanbao.tencent.com
 yuanqi.tencent.com
 tencent-cloud.com
 tencent-gcloud.com
+tencentads.com
 tencentapps.com
 tencentbyod.com
 tencentcdb.com
@@ -6308,6 +6318,7 @@ tpyzq.com
 tracup.com
 trademessenger.com
 trjcn.com
+trpcdn.com
 trunktech.com
 trustasia.com
 trustexporter.com
@@ -7176,6 +7187,8 @@ zhangyue.com
 zhangyue01.com
 zhangyuecdn.com
 zhaodanji.com
+zhaoliangji.com
+zhaoliangjipc.com
 zhaomishijie.com
 zhaopin.com
 zhcw.com

@@ -6176,6 +6176,7 @@ elephantlist.com
 elephanttube.com
 elephanttubenew.com
 elevenlabs.com
+elevenlabsusercontent.com
 elgaronline.com
 elite.com
 elitebabes.com
@@ -23513,7 +23514,6 @@ xxxcomics.org
 xxxfile.org
 xxxstreams.org
 yandex.org
-yandexwebcache.org
 yangzhi.org
 yibei.org
 yiqiedoushiganggangkaishi.org
