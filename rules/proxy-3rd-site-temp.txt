@@ -4413,6 +4413,7 @@ braveux.com
 bravoerotica.com
 bravoporn.com
 bravoteens.com
+bravotv.com
 brawlstars.com
 brawlstarsgame.com
 brazilpartneruniversity.com
@@ -5067,6 +5068,7 @@ cmule.com
 unblock.cn.com
 cn-proxy.com
 cnbc.com
+cnbccouncils.com
 cnbcfm.com
 cnbeta.com
 cnbetacdn.com
@@ -6875,6 +6877,7 @@ fnac.com
 fnacebook.com
 fnlondon.com
 foampositeshoes.com
+focusfeatures.com
 foftolia.com
 follasian.com
 followpype.com
@@ -7828,6 +7831,7 @@ haveibeenpwned.com
 hawaiibmw.com
 hayday.com
 haydaygame.com
+hayu.com
 hbabit.com
 hbg.com
 hbo.com
@@ -8506,6 +8510,7 @@ ikea.com
 ikids.com
 iknowthatgirl.com
 ilbe.com
+illumination.com
 illusion111.com
 illusionas.com
 illusionchn.com
@@ -10259,7 +10264,6 @@ msi.com
 msidentity.com
 msinnovationchallenge.com
 msn.com
-msnbc.com
 msnewskids.com
 msnkids.com
 msocdn.com
@@ -10509,8 +10513,11 @@ nbcnews.com
 nbcolympics.com
 nbcsports.com
 nbcudigitaladops.com
+nbcumv.com
 nbcuni.com
+nbcunicareers.com
 nbcuniversal.com
+nbcuniversalprivacy.com
 nbtvpn.com
 ncloud.com
 etools.ncol.com
@@ -12217,6 +12224,7 @@ renovacionxboxlive.com
 renshu.com
 rentaride.com
 repe21.com
+replit.com
 repotama.com
 resao.com
 researchintel.com
@@ -13400,6 +13408,7 @@ telebay.com
 telegram-porn.com
 telegramdownload.com
 telekom.com
+telemundo.com
 telerik.com
 telesell.com
 tellapart.com
@@ -14005,6 +14014,7 @@ udn.com
 udndata.com
 udnfunlife.com
 udtrucksmeena.com
+udxfpp.com
 uhairy.com
 uhub.com
 ui.com
@@ -14036,9 +14046,14 @@ unholyknight.com
 uninhibitedcomix.com
 unity.com
 unity3d.com
+universalbeijingresort.com
+universalhorrorunleashed.com
+universalkidsresort.com
 universalorlando.com
 universalpictures.com
+universalpicturesathome.com
 universalpicturesinternational.com
+universalproductsexperiences.com
 universalstudioshollywood.com
 universitypressscholarship.com
 unkoscene.com
@@ -14057,6 +14072,7 @@ updatetube.com
 upfrontcfd.com
 upfrontfea.com
 upghsbc.com
+uphe.com
 uplay.com
 uplay-istrip.com
 uplinq.com
@@ -16889,6 +16905,7 @@ xn--pssu7cv61af44b.hk
 xtom.hk
 yahoo.hk
 youtube.hk
+hkt
 12diasderegalosdeitunes.hn
 apple.hn
 bmw.hn
@@ -18202,6 +18219,7 @@ travelex.co.jp
 tsukubabank.co.jp
 tver.co.jp
 unext.co.jp
+usj.co.jp
 visa.co.jp
 webex.co.jp
 yahoo.co.jp
@@ -18245,6 +18263,7 @@ epochtimes.jp
 epsilon.jp
 eyevio.jp
 fanspot.jp
+fanza.jp
 fincode.jp
 find-a.jp
 finishinfo.jp
@@ -23234,6 +23253,7 @@ topbabesblog.org
 torproject.org
 torrentleech.org
 torrenty.org
+tortoisegit.org
 touchsmartpc.org
 translatewiki.org
 transparency.org
@@ -23450,6 +23470,7 @@ sexiranian.party
 soyjak.party
 spankbang.party
 cloudflare.pay
+pccw
 12diasderegalosdeitunes.pe
 adidas.pe
 blogspot.pe
@@ -26335,6 +26356,8 @@ thomsonreuters.co.uk
 tibetrelieffund.co.uk
 travelex.co.uk
 ucoz.co.uk
+universalpictures.co.uk
+universalukproject.co.uk
 vanish.co.uk
 veet.co.uk
 verisign.co.uk
