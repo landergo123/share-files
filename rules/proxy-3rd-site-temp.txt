@@ -81,6 +81,7 @@ zklighter.elliot.ai
 etna.ai
 forefront.ai
 g.ai
+gemma.ai
 github.ai
 gmgn.ai
 gmo-research.ai
@@ -6663,6 +6664,7 @@ fastly.com
 fastly-edge.com
 google-ohttp-relay-safebrowsing.fastly-edge.com
 mozilla-ohttp.fastly-edge.com
+fastly-insights.com
 fastly-terrarium.com
 fastlylabs.com
 fastssh.com
@@ -14317,6 +14319,7 @@ vitukali.com
 viu.com
 vivaldi.com
 vivaxnxx.com
+vivox.com
 vivthomas.com
 vixen.com
 vixengroup.com
@@ -20356,6 +20359,7 @@ lastfm-img.freetls.fastly.net
 mozilla.map.fastly.net
 spotify.map.fastly.net
 roblox-poc.global.ssl.fastly.net
+fastlydns.net
 fastlylb.net
 spotify.map.fastlylb.net
 en.favotter.net
@@ -22165,6 +22169,7 @@ byrut.org
 c-span.org
 c-spanvideo.org
 cabconnect.org
+cachix.org
 calendarserver.org
 callabitch.org
 callofdutyendowment.org
@@ -22841,6 +22846,7 @@ mswe1.org
 msys2.org
 mtt.org
 musicbrainz.org
+courses.myecnu.org
 myfappening.org
 mykomica.org
 naacoalition.org
