@@ -1756,6 +1756,7 @@ host.livekit.cloud
 turn.livekit.cloud
 longbridge.cloud
 mastodon.cloud
+megafon.cloud
 mindbox.cloud
 misskey.cloud
 mozit.cloud
@@ -10963,6 +10964,7 @@ nytstyle.com
 o365weve.com
 o365weve-dev.com
 o365weve-ppe.com
+o7.com
 oaistatic.com
 oaistatsig.com
 oaiusercontent.com
@@ -24268,11 +24270,14 @@ mediumquality.ru
 medow.ru
 megafon.ru
 megafonpro.ru
+megapbx.ru
+megatech-it.ru
 metallinvestbank.ru
 metib.ru
 mfk-bank.ru
 mfk-t-finance.ru
 mgfn.ru
+mgts.ru
 mhcb.ru
 mhcbr.ru
 microsoft.ru
@@ -24282,6 +24287,7 @@ mindbox-notifications.ru
 mini.ru
 mkb.ru
 mlbootcamp.ru
+mobileid.ru
 modulbank.ru
 moneta.ru
 mos.ru
@@ -24293,6 +24299,7 @@ mts-link.ru
 mtsbank.ru
 mtsdengi.ru
 mtsmedia.ru
+multifon.ru
 mvs-bank.ru
 my-tbank.ru
 myapelsin.ru
@@ -24333,6 +24340,7 @@ oknovrossiu.ru
 oktech.ru
 on-media.ru
 oneme.ru
+onlime.ru
 onlyjobs.ru
 onlyprime.ru
 orbank.ru
@@ -24395,6 +24403,7 @@ rosbank-dom.ru
 rosbank-leasing.ru
 rosdorbank.ru
 rostelecom.ru
+rostelecom-rb.ru
 rsb.ru
 rshb.ru
 rt.ru
@@ -24457,6 +24466,7 @@ spasibobonus.ru
 spasibosb.ru
 spasibosberbank.ru
 spbexchange.ru
+spd-mgts.ru
 sportmail.ru
 spvb.ru
 starbucks.ru
@@ -26831,6 +26841,7 @@ xn--90absjljw3g.xn--p1ai
 xn--90aefb9d.xn--p1ai
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1acpjx3f.xn--p1ai
+xn--e1aapchhekkk.xn--p1ai
 xn--e1aigb.xn--p1ai
 xn--p8j9a0d9c9a.xn--q9jyb4c
 xn--qcka1pmc
